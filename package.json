@@ -11,6 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.6.1",
-    "csv-parser": "^2.1.0"
+    "body-parser": "^1.18.3",
+    "csv-parser": "^2.1.0",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
   }
 }
