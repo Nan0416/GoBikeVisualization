@@ -40,7 +40,11 @@ function add_to(counter, station, month, hour){
         return;
     }
     if(!counter.has(station)){
-        counter.set(station, (new Array(MONTH)).fill((new Array(24)).fill(0)));    
+        let arr = new Array(MONTH);
+        for(let i = 0; i < MONTH; i++){
+            arr[i] = new Array(24).fill(0);
+        }
+        counter.set(station, arr);    
     }
     counter.get(station)[month][hour]++;
 }
@@ -78,15 +82,22 @@ function month_usage(callback){
         let result = {};
         start_counter.forEach((s_v, k)=>{
             result[k] = {};
+            // console.log(s_v);
             result[k]['start'] = s_v;
             let e_v;
             if(end_counter.has(k)){
                 e_v = end_counter.get(k);
             }else{
-                e_v = (new Array(MONTH)).fill((new Array(24)).fill(0));
+                e_v = new Array(MONTH);
+                for(let i = 0; i < MONTH; i++){
+                    e_v[i] = new Array(24).fill(0);
+                }
             }
             result[k]['end'] = e_v;
-            let overall_v = (new Array(MONTH)).fill((new Array(24)).fill(0));
+            let overall_v = new Array(MONTH);
+            for(let i = 0; i < MONTH; i++){
+                overall_v[i] = new Array(24).fill(0);
+            }
             for(let i = 0; i < MONTH; i++){
                 for(let j = 0; j < 24; j++){
                     try{
@@ -107,5 +118,7 @@ function month_usage(callback){
         callback(result);
     });
 }
-
+month_usage(data=>{
+    fs.writeFileSync(`${__dirname}/../data/station_monthly_usage.json`, JSON.stringify(data, null, 2));
+});
 module.exports = month_usage;
