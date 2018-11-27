@@ -10,14 +10,72 @@ $("#timeSlider").on('change', function(event){
     console.log(event.value.newValue);
 });
 
-
+// Create a Map
 var myMap = L.map('map').setView([37.805,-122.354849], 12);
-L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+
+// Set the Map to GreyScale
+L.TileLayer.Grayscale = L.TileLayer.extend({
+    options: {
+        quotaRed: 21,
+        quotaGreen: 71,
+        quotaBlue: 8,
+        quotaDividerTune: 0,
+        quotaDivider: function() {
+            return this.quotaRed + this.quotaGreen + this.quotaBlue + this.quotaDividerTune;
+        }
+    },
+
+    initialize: function (url, options) {
+        options = options || {}
+        options.crossOrigin = true;
+        L.TileLayer.prototype.initialize.call(this, url, options);
+
+        this.on('tileload', function(e) {
+            this._makeGrayscale(e.tile);
+        });
+    },
+
+    _createTile: function () {
+        var tile = L.TileLayer.prototype._createTile.call(this);
+        tile.crossOrigin = "Anonymous";
+        return tile;
+    },
+
+    _makeGrayscale: function (img) {
+        if (img.getAttribute('data-grayscaled'))
+            return;
+
+                img.crossOrigin = '';
+        var canvas = document.createElement("canvas");
+        canvas.width = img.width;
+        canvas.height = img.height;
+        var ctx = canvas.getContext("2d");
+        ctx.drawImage(img, 0, 0);
+
+        var imgd = ctx.getImageData(0, 0, canvas.width, canvas.height);
+        var pix = imgd.data;
+        for (var i = 0, n = pix.length; i < n; i += 4) {
+                        pix[i] = pix[i + 1] = pix[i + 2] = (this.options.quotaRed * pix[i] + this.options.quotaGreen * pix[i + 1] + this.options.quotaBlue * pix[i + 2]) / this.options.quotaDivider();
+        }
+        ctx.putImageData(imgd, 0, 0);
+        img.setAttribute('data-grayscaled', true);
+        img.src = canvas.toDataURL();
+    }
+});
+
+L.tileLayer.grayscale = function (url, options) {
+    return new L.TileLayer.Grayscale(url, options);
+};
+
+// Intialize the Map
+L.tileLayer.grayscale('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 18,
     id: 'mapbox.streets',
     accessToken: 'pk.eyJ1IjoiamFydmVlIiwiYSI6ImNqb2Y4Z3U4aDAxcnkza3BodmNndGM5M2wifQ.07r_YRi1y_H3YzEP5A4-vQ'
 }).addTo(myMap);
+
+
 
 var svgLayer = L.svg();
 svgLayer.addTo(myMap)
@@ -67,9 +125,12 @@ let xSVGAxis = heatMapSvg.append('g')
     .attr('class', 'x axis')
     .attr('transform', `translate(${heatMapPadding.l}, ${heatMapPadding.t})`);
 
+// Color scale for count station frequencies
+colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+
 d3.json('../data/station.json', (err, stationData)=>{
     if(err){
-        console.log(err);
+        //console.log(err);
         alert("Error!");
         return;
     }
@@ -77,10 +138,11 @@ d3.json('../data/station.json', (err, stationData)=>{
         quickMap.set(stationData[i].name, stationData[i]);
     }
 
+    console.log(quickMap);
 
     completeData = stationData;
     heatMapData = aggregateDataByMonth();
-    console.log(heatMapData);
+    //console.log(heatMapData);
     
     //initalize map
     let stationG = mapSvg.append('g');
@@ -90,10 +152,13 @@ d3.json('../data/station.json', (err, stationData)=>{
         .data(stationData, (d)=>{
             return d.name;
         });
+
     stationEnter = stations.enter()
         .append('circle')
         .attr('class', 'point')
-        .attr('fill', 'green')
+        .attr('fill', function(d) {
+            return colorScale(d.month_usage.overall[1][1]);
+        })
         .attr('r', 3)
         .attr('cx', d=>{return myMap.latLngToLayerPoint(d.location).x})
         .attr('cy', d=>{return myMap.latLngToLayerPoint(d.location).y});
@@ -122,6 +187,7 @@ d3.json('../data/station.json', (err, stationData)=>{
 
 function updateChart(time) {
     // **** Update the chart based on the year here ****
+
 }
 
 function drawStation(){
@@ -165,7 +231,7 @@ function drawHeatmap(){
    heatMapStartColorRange[1] = Math.sqrt(heatMapStartColorRange[1]);
    heatMapEndColorRange[0] = Math.sqrt(heatMapEndColorRange[0]);
    heatMapEndColorRange[1] = Math.sqrt(heatMapEndColorRange[1]);
-   console.log(heatMapStartColorRange, heatMapEndColorRange);
+   //console.log(heatMapStartColorRange, heatMapEndColorRange);
    startColorScale.domain(heatMapStartColorRange);
    endColorScale.domain(heatMapEndColorRange);
     
@@ -216,8 +282,6 @@ function drawHeatmap(){
             }
         })
         
-     
-   
     heatmap.exit().remove();
 
 }
@@ -256,6 +320,7 @@ function aggregateDataByMonth(stationNames){
         }
     }
     return result;
+
 }
 function aggregateDataByDay(){
 

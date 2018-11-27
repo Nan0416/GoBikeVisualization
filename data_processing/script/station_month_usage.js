@@ -82,7 +82,6 @@ function month_usage(callback){
         let result = {};
         start_counter.forEach((s_v, k)=>{
             result[k] = {};
-            // console.log(s_v);
             result[k]['start'] = s_v;
             let e_v;
             if(end_counter.has(k)){
@@ -118,6 +117,9 @@ function month_usage(callback){
         callback(result);
     });
 }
+
+
+
 month_usage(data=>{
     fs.writeFileSync(`${__dirname}/../data/station_monthly_usage.json`, JSON.stringify(data, null, 2));
 });
