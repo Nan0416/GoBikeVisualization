@@ -1,4 +1,15 @@
 // Creates a bootstrap-slider element
+$("#monthSlider").slider({
+    tooltip: 'always',
+    tooltip_position:'bottom'
+});
+// Listens to the on "change" event for the slider
+$("#monthSlider").on('change', function(event){
+    // Update the chart on the new value
+    updateChart(event.value.newValue);
+});
+
+// Creates a bootstrap-slider element
 $("#timeSlider").slider({
     tooltip: 'always',
     tooltip_position:'bottom'
@@ -7,7 +18,6 @@ $("#timeSlider").slider({
 $("#timeSlider").on('change', function(event){
     // Update the chart on the new value
     updateChart(event.value.newValue);
-    console.log(event.value.newValue);
 });
 
 // Create a Map
@@ -126,7 +136,9 @@ let xSVGAxis = heatMapSvg.append('g')
     .attr('transform', `translate(${heatMapPadding.l}, ${heatMapPadding.t})`);
 
 // Color scale for count station frequencies
-colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+//colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+colorScale = d3.scaleSequential(d3["interpolateBlues"]);
+                
 
 d3.json('../data/station.json', (err, stationData)=>{
     if(err){
@@ -153,18 +165,8 @@ d3.json('../data/station.json', (err, stationData)=>{
             return d.name;
         });
 
-    stationEnter = stations.enter()
-        .append('circle')
-        .attr('class', 'point')
-        .attr('fill', function(d) {
-            return colorScale(d.month_usage.overall[1][1]);
-        })
-        .attr('r', 3)
-        .attr('cx', d=>{return myMap.latLngToLayerPoint(d.location).x})
-        .attr('cy', d=>{return myMap.latLngToLayerPoint(d.location).y});
-
+    
     // initalize Heatmap
-
     let xAxisText = xSVGAxis.selectAll('text')
         .data(hours);
     let textEnter = xAxisText.enter()
@@ -175,22 +177,33 @@ d3.json('../data/station.json', (err, stationData)=>{
         .style("text-anchor", "middle")
         .attr("transform", "translate(" + heatMapGridWidth / 2 + ", -6)");
 
-    // setup listener
+    // Plot Station in the Map
+    updateChart(0);
+    drawStation();
     myMap.on('zoomend', drawStation);
 
-
-    drawStation();
     drawHeatmap();
     
     
 });
 
 function updateChart(time) {
-    // **** Update the chart based on the year here ****
+    stationEnter = stations.enter()
+        .append('circle')
+        .attr('class', 'point')
+        .attr('fill', function(d) {
 
+            var max = d3.max(d.month_usage.overall[1]); 
+            console.log(max);
+            colorScale.domain([0, max+10]);
+            return colorScale(d.month_usage.overall[1][time]);
+        })
+        .attr('r', 4)
+        .attr('cx', d=>{return myMap.latLngToLayerPoint(d.location).x})
+        .attr('cy', d=>{return myMap.latLngToLayerPoint(d.location).y});
 }
 
-function drawStation(){
+function drawStation() {
     stationEnter.merge(stations)
         .attr('cx', d=>{
             return myMap.latLngToLayerPoint(d.location).x
