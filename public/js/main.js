@@ -56,7 +56,7 @@ let heatMapSvgWidth = heatMapSvg.attr('width');
 let heatMapChartWidth = heatMapSvgWidth - heatMapPadding.l - heatMapPadding.r;
 let heatMapGridWidth = heatMapChartWidth / HOUR;
 let startColorScale = d3.scaleSequential(d3.interpolateBlues);
-let endColorScale = d3.scaleSequential(d3.interpolateOranges);
+let endColorScale = d3.scaleSequential(d3.interpolateBlues);
 let heatMapStartColorRange = [0, 0];
 let heatMapEndColorRange = [0, 0];
 
@@ -165,9 +165,13 @@ function drawHeatmap(){
    heatMapStartColorRange[1] = Math.sqrt(heatMapStartColorRange[1]);
    heatMapEndColorRange[0] = Math.sqrt(heatMapEndColorRange[0]);
    heatMapEndColorRange[1] = Math.sqrt(heatMapEndColorRange[1]);
-   console.log(heatMapStartColorRange, heatMapEndColorRange);
-   startColorScale.domain(heatMapStartColorRange);
-   endColorScale.domain(heatMapEndColorRange);
+
+   let temp = [0, 0];
+   temp[0] = Math.min(heatMapEndColorRange[0], heatMapStartColorRange[0]);
+   temp[1] = Math.min(heatMapEndColorRange[1], heatMapStartColorRange[1]);
+   //console.log(heatMapStartColorRange, heatMapEndColorRange);
+   startColorScale.domain(temp);
+   endColorScale.domain(temp);
     
     let heatMapGridHeight = 30;
     let heatMapChartHeight = heatMapGridHeight * heatMapData.length;
