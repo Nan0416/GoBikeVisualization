@@ -18,7 +18,7 @@ const fs = require('fs');
 function format_data(filename){
     const location = JSON.parse(fs.readFileSync(`${__dirname}/../data/station_location.json`));
     const usage = JSON.parse(fs.readFileSync(`${__dirname}/../data/station_usage.json`));
-    const output = [];
+    const output = {};
     for (let name in location) {
         if (location.hasOwnProperty(name)) {
             if(usage[name]){
@@ -26,19 +26,18 @@ function format_data(filename){
                 for(let i = 0; i < 24; i++){
                     total += usage[name].sum[i];
                 }
-                let station_data = [
-                    name,
-                    location[name],
-                    total,
-                    usage[name]
-                ];
-                output.push(station_data);
+                let station_data = {
+                    location: location[name],
+                    total: total,
+                    data: usage[name]
+                };
+                output[name] = station_data;
             }
         }
     }
     fs.writeFileSync(filename, JSON.stringify(output, null, 2));
 }
 
-format_data(`${__dirname}/../data/station_v3.json`);
+format_data(`${__dirname}/../data/station_v4.json`);
 
 

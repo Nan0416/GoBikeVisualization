@@ -72,39 +72,34 @@ var stationG = mapSvg.append('g');
 var dots;
 var dotsEnter;
 var stations;
-
-colorScale = d3.scaleSequential(d3["interpolateBlues"]);
-                
-d3.json('../data/station_v3.json', (err, stations_)=>{
+var colorScale = d3.scaleSequential(d3["interpolateBlues"]);
+var station_names = [];
+              
+d3.json('../data/station_v4.json', (err, stations_)=>{
     if(err){
-        //console.log(err);
+        console.log(err);
         alert("Error!");
         return;
     }
+    
     stations = stations_;
+    for (var key in stations) {
+        if (stations.hasOwnProperty(key)) {
+            station_names.push(key);
+        }
+    }
 
-   
-
-    var max = d3.max(stations, function(d) {
-        return d[2];
-    });
-
-    var min = d3.min(stations, function(d) {
-        return d[2];
-    });      
-    console.log(min);
-    console.log(max);
-    updateChart();
+    createChart();
     drawStation();
     myMap.on('zoomend', drawStation);
 });
 
-function updateChart() {
+function createChart() {
 
     dots = stationG.selectAll('.station')
-        .data(stations);
-
-    console.log(stations);
+        .data(station_names, (d)=>{
+            return d;
+        });
 
     dotsEnter = dots.enter()
         .append('circle')
@@ -112,23 +107,28 @@ function updateChart() {
         .attr("pointer-events","visible")
         .attr('fill', function(d){
             colorScale.domain([Math.pow(12, 0.3), Math.pow(74128, 0.3)]);
-            return colorScale(Math.pow(d[2], 0.3));
+            return colorScale(Math.pow(stations[d].total, 0.3));
         })
         .attr('r', 5)
         .attr('cx', d=>{
-            return myMap.latLngToLayerPoint(d[1]).x
+            return myMap.latLngToLayerPoint(stations[d].location).x
         })
         .attr('cy', d=>{
-            return myMap.latLngToLayerPoint(d[1]).y
+            return myMap.latLngToLayerPoint(stations[d].location).y
         })
         .on('mouseover', function(e){
-           console.log(e[0]);
-           /*L.marker([e[1][0],e[1][1]]).addTo(myMap)
-            .bindPopup(e[0])
-            .openPopup();*/
+           console.log(e);
+           var toolTip = d3.tip()
+                .attr("class", "d3-tip")
+                .offset([-12, 0])
+                .html(function(d) {
+                    return "<h5>"+d['name']+"</h5>";
+                });
+            mapSvg.call(toolTip);
         })
         .on('click', function(e){
-            lineSVGdraw(e);
+            console.log(e);
+            lineSVGdraw(e, stations[e]);
         });
         
 }
@@ -143,13 +143,10 @@ var tooltip = d3.select("body")
 function drawStation() {
     dots.merge(dotsEnter)
         .attr('cx', d=>{
-            return myMap.latLngToLayerPoint(d[1]).x
+            return myMap.latLngToLayerPoint(stations[d].location).x
         })
         .attr('cy', d=>{
-            return myMap.latLngToLayerPoint(d[1]).y
-        });
+            return myMap.latLngToLayerPoint(stations[d].location).y
+        })
 }
 
-function onchange() {
-    console.log("pressed");
-}

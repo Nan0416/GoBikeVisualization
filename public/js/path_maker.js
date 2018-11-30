@@ -74,22 +74,22 @@ let lineSVGTitle = lineSVG
  *      }
  * ]
  */
-function lineSVGdraw(data, duration_ = 200){
+function lineSVGdraw(name, data, duration_ = 200){
     // draw X and Y scale
-    let pick_extent = d3.extent(data[3].pick);
-    let return_extent = d3.extent(data[3].return);
-    let diff_extent = d3.extent(data[3].diff);
+    let pick_extent = d3.extent(data.data.pick);
+    let return_extent = d3.extent(data.data.return);
+    let diff_extent = d3.extent(data.data.diff);
     let yaxis_extent = [Math.max(pick_extent[1], return_extent[1]), 0];
     lineSVGYScale.domain(yaxis_extent);
     lineSVGYAxis.transition().duration(duration_).call(lineYAxis);
     lineSVGXAxis.call(lineXAxis);
     // draw path
-    lineSVGPaths.pick.datum(data[3].pick);
+    lineSVGPaths.pick.datum(data.data.pick);
     lineSVGPaths.pick.transition().duration(duration_).attr('d', lineSVGPathFun);
-    lineSVGPaths.return.datum(data[3].return);
+    lineSVGPaths.return.datum(data.data.return);
     lineSVGPaths.return.transition().duration(duration_).attr('d', lineSVGPathFun);
     // draw title
-    lineSVGTitle.text(data[0]);
+    lineSVGTitle.text(name);
 
 }
 
