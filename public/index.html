@@ -11,14 +11,9 @@
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-    <div id="map" style="width: 900px; height: 600px; float: left;"></div>
-    <div style="padding: 4px 60px;">
-        <label for="timeSlider" style="margin-right:6px;">0</label>
-        <input id="timeSlider" type="text" data-slider-min="0" data-slider-max="24" data-slider-step="1" data-slider-value="0" style="width: 800px;"/>
-        <label for="timeSlider"  style="margin-left:6px;">24</label>
-    </div>
-    <div id="heatmap">
-        <svg id="heatmap-svg" width="1200" style="border: 1px solid gray"></svg>
+    <div id="map" style="width: 900px; height: 500px; margin: 0px auto 0px auto;"></div>
+    <div id="line-chart" style="width:900px; height: 260px;margin: 0px auto 0px auto; ">
+        <svg id="line-chart-svg" width="900" height="260" style="border: 1px solid gray;"></svg>
     </div>
 </body>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
@@ -31,5 +26,7 @@
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="//d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
+
+<script src="./js/path_maker.js"></script>
 <script src="./js/main.js"></script>
 </html>

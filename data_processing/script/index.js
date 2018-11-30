@@ -22,11 +22,16 @@ function format_data(filename){
     for (let name in location) {
         if (location.hasOwnProperty(name)) {
             if(usage[name]){
-                let station_data = {
-                    name: name,
-                    location: location[name],
-                    data: usage[name]
+                let total = 0;
+                for(let i = 0; i < 24; i++){
+                    total += usage[name].sum[i];
                 }
+                let station_data = [
+                    name,
+                    location[name],
+                    total,
+                    usage[name]
+                ];
                 output.push(station_data);
             }
         }
@@ -34,6 +39,6 @@ function format_data(filename){
     fs.writeFileSync(filename, JSON.stringify(output, null, 2));
 }
 
-format_data(`${__dirname}/../data/station_v2.json`);
+format_data(`${__dirname}/../data/station_v3.json`);
 
 
