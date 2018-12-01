@@ -121,8 +121,23 @@ function createChart() {
         .attr('cy', d=>{
             return myMap.latLngToLayerPoint(stations[d].location).y
         })
-        .on('mouseover', function(e){
-           
+        .on('mouseover', function(d){
+            console.log('mouseover');
+            var markerGroup = L.layerGroup().addTo(myMap);
+            L.circle([stations[d].location[0], stations[d].location[1]], {
+                color: "none",
+                stroke: 1,
+                fillColor: colorScale(Math.pow(stations[d].total, 0.3)),
+                fillOpacity: 1,
+                radius: 5
+            }).addTo(markerGroup)
+            .bindPopup("Station Name: " + d)
+            .on('mouseover', function () {
+                this.openPopup();
+                })
+            .on('mouseout', function() {
+                this.closePopup();
+            })
         })
         .on('click', function(e){
             console.log(e);
