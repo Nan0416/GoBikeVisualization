@@ -1,7 +1,11 @@
 // Create a Map
 var myMap = L.map('map').setView([37.805,-122.354849], 12);
 
+<<<<<<< HEAD
 // Set the Map to GreyScale
+=======
+// Set the Map to GrayScale
+>>>>>>> 7288f2719e7a19d6e1ee1abd01c3c8e2dd89a86f
 L.TileLayer.Grayscale = L.TileLayer.extend({
     options: {
         quotaRed: 21,
@@ -92,6 +96,7 @@ d3.json('../data/station_v4.json', (err, stations_)=>{
     createChart();
     drawStation();
     myMap.on('zoomend', drawStation);
+<<<<<<< HEAD
     d3.select('#bar-chart-svg').on('click', ()=>{
         barViewCounter++;
         barViewCounter = barViewCounter % 3;
@@ -106,6 +111,20 @@ function createChart() {
             return d;
         });
 
+=======
+
+    var zoomScale = myMap.getZoom();
+    console.log(zoomScale);
+});
+
+function createChart() {
+
+    dots = stationG.selectAll('.station')
+        .data(station_names, (d)=>{
+            return d;
+        });
+
+>>>>>>> 7288f2719e7a19d6e1ee1abd01c3c8e2dd89a86f
     dotsEnter = dots.enter()
         .append('circle')
         .attr('class', 'point')
@@ -121,6 +140,7 @@ function createChart() {
         .attr('cy', d=>{
             return myMap.latLngToLayerPoint(stations[d].location).y
         })
+<<<<<<< HEAD
         .on('mouseover', function(e){
            
         })
@@ -129,10 +149,35 @@ function createChart() {
             lineSVGdraw(e, stations[e]);
             barViewCounter = 0;
             barSVGDraw(e,  stations[e], barViewCounter);
+=======
+        .on('mouseover', function(d){
+            console.log(d);
+            var markerGroup = L.layerGroup().addTo(myMap);
+            L.circle([stations[d].location[0], stations[d].location[1]], {
+                    color: "none",
+                    stroke: 1,
+                    fillColor: colorScale(Math.pow(stations[d].total, 0.3)),
+                    fillOpacity: 1,
+                    radius: 50
+                }).addTo(markerGroup)
+                .bindPopup("Station Name: " + d)
+                .on('mouseover', function () {
+                    this.openPopup();
+                    })
+                .on('mouseout', function() {
+                    this.closePopup();
+                })
+        })
+        .on('click', function(e){
+            console.log(e);
+            myMap.setView([stations[e].location[0], stations[e].location[1]], 15);
+            lineSVGdraw(e, stations[e]);
+>>>>>>> 7288f2719e7a19d6e1ee1abd01c3c8e2dd89a86f
         });
         
 }
 
+<<<<<<< HEAD
 var tooltip = d3.select("body")
     .append("div")
     .style("position", "absolute")
@@ -140,6 +185,8 @@ var tooltip = d3.select("body")
     .style("visibility", "hidden")
     .text("a simple tooltip");
 
+=======
+>>>>>>> 7288f2719e7a19d6e1ee1abd01c3c8e2dd89a86f
 function drawStation() {
     dots.merge(dotsEnter)
         .attr('cx', d=>{

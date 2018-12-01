@@ -100,6 +100,7 @@ function barSVGDraw(name, data, type, duration_ = 200){
                 }
             ];
         });
+       
     /*let bar = bars.enter()
         .append('rect')
         .attr('class', 'bar')
