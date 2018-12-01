@@ -8,7 +8,22 @@ let lineSVGChartHeight = lineSVGHeight - lineSVGPadding.t - lineSVGPadding.b;
 let lineSVGXScale = d3.scaleLinear().domain([0, 23]).range([0, lineSVGChartWidth]);
 let lineSVGYScale = d3.scaleLinear().range([0, lineSVGChartHeight]);
 
+
+
 let lineSVG = d3.select('#line-chart-svg');
+// setup y axis
+let lineYAxis = d3.axisLeft(lineSVGYScale).tickSizeInner(-lineSVGChartWidth).ticks(4);
+let lineSVGYAxis = lineSVG.append('g')
+    .attr('transform', `translate(${lineSVGPadding.l}, ${lineSVGPadding.t})`)
+    .attr('class', 'y axis');
+
+// setup x axis
+let lineXAxis = d3.axisBottom(lineSVGXScale)
+    .tickValues([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]);
+let lineSVGXAxis = lineSVG.append('g')
+    .attr('transform', `translate(${lineSVGPadding.l}, ${lineSVGPadding.t + lineSVGChartHeight})`)
+    .attr('class', 'x axis');
+    
 // setup paths (lines)
 let lineSVGPathG = lineSVG.append('g')
     .attr('class', 'pathG')
@@ -17,6 +32,8 @@ let lineSVGPathFun = d3.line()
     .x((d, i)=>{ return lineSVGXScale(i);})
     .y((d, i)=>{ return lineSVGYScale(d);})
     .curve(d3.curveBasis);
+
+    
 let lineSVGPaths = {
     pick: null,
     return: null,
@@ -38,18 +55,8 @@ lineSVGPaths.diff = lineSVGPathG.append('diff')
     .attr('stroke', 'red')
     .attr('stroke-width', '2px');
 
-// setup x axis
-let lineXAxis = d3.axisBottom(lineSVGXScale)
-    .tickValues([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]);
-let lineSVGXAxis = lineSVG.append('g')
-    .attr('transform', `translate(${lineSVGPadding.l}, ${lineSVGPadding.t + lineSVGChartHeight})`)
-    .attr('class', 'x axis');
 
-// setup y axis
-let lineYAxis = d3.axisLeft(lineSVGYScale).ticks(4);
-let lineSVGYAxis = lineSVG.append('g')
-    .attr('transform', `translate(${lineSVGPadding.l}, ${lineSVGPadding.t})`)
-    .attr('class', 'y axis');
+
 
 // setup title
 let lineSVGTitle = lineSVG

@@ -12,6 +12,11 @@ let barSVGXScale = d3.scaleLinear().domain([0, 24]).range([0, barSVGChartWidth])
 let barSVGYScale = d3.scaleLinear().range([0, barSVGChartHeight]);
 
 let barSVG = d3.select('#bar-chart-svg');
+// setup y axis
+let barYAxis = d3.axisLeft(barSVGYScale).tickSizeInner(-barSVGChartWidth).ticks(4);
+let barSVGYAxis = barSVG.append('g')
+    .attr('transform', `translate(${barSVGPadding.l}, ${barSVGPadding.t})`)
+    .attr('class', 'y axis');
 // setup paths (bars)
 let barSVGChartG = barSVG.append('g')
     .attr('class', 'barG')
@@ -20,16 +25,13 @@ let barSVGChartG = barSVG.append('g')
 
 // setup x axis
 let barXAxis = d3.axisBottom(barSVGXScale)
+    //.tickSize(-barSVGChartHeight)
     .tickValues([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]);
 let barSVGXAxis = barSVG.append('g')
     .attr('transform', `translate(${barSVGPadding.l}, ${barSVGPadding.t + barSVGChartHeight})`)
     .attr('class', 'x axis');
 
-// setup y axis
-let barYAxis = d3.axisLeft(barSVGYScale).ticks(4);
-let barSVGYAxis = barSVG.append('g')
-    .attr('transform', `translate(${barSVGPadding.l}, ${barSVGPadding.t})`)
-    .attr('class', 'y axis');
+
 
 // setup title
 let barSVGTitle = barSVG
@@ -44,6 +46,9 @@ let barChartData = null;
 
 let bar2 = null;
 let bar = null;
+
+let barPickColor = "#42A5F5";
+let barReturnColor = "#66BB6A";
 /**
  * 
  * @param {*} data 
@@ -115,11 +120,11 @@ function barSVGDraw(name, data, type, duration_ = 200){
                 }
             })
             .attr('y', (d, i)=>{
-                return i * barSVGYScale(d.pick);
+                return (1 - i) * barSVGYScale(d.return);
             })
             .attr('x', 0)
             .attr('fill', (d, i)=>{
-                return i === 0? "blue": "green";
+                return i === 0? barPickColor: barReturnColor;
             });
         
         barSVGYScale.domain([sum_extent[1], sum_extent[0]]);
@@ -146,11 +151,11 @@ function barSVGDraw(name, data, type, duration_ = 200){
                 }
             })
             .attr('y', (d, i)=>{
-                return i === 0? barBaseline - barSVGYScale(d.pick):barBaseline;
+                return i === 0? barBaseline: barBaseline - barSVGYScale(d.return);
             })
             .attr('x', 0)
             .attr('fill', (d, i)=>{
-                return i === 0? "blue": "green";
+                return i === 0? barPickColor: barReturnColor;
             });
         
         barSVGYScale.domain(pick_return_extent);
@@ -174,14 +179,14 @@ function barSVGDraw(name, data, type, duration_ = 200){
             })
             .attr('y', (d, i)=>{
                 if(d.pick > d.return){
-                    return barBaseline - barSVGYScale(Math.abs(d.pick - d.return));
-                }else{
                     return barBaseline;
+                }else{
+                    return barBaseline - barSVGYScale(Math.abs(d.return - d.pick));
                 }
             })
             .attr('x', 0)
             .attr('fill', (d, i)=>{
-                return d.pick > d.return? "blue": "green";
+                return d.pick > d.return? barPickColor: barReturnColor;
             });
         
         barSVGYScale.domain(pick_return_extent);
@@ -250,11 +255,11 @@ function barSVGDraw__(name, data, type, duration_ = 200){
                 }
             })
             .attr('y', (d, i)=>{
-                return i * barSVGYScale(d.pick);
+                return (1 - i) * barSVGYScale(d.return);
             })
             .attr('x', 0)
             .attr('fill', (d, i)=>{
-                return i === 0? "blue": "green";
+                return i === 0? barPickColor: barReturnColor;
             })
             .attr('rx', 2)
             .attr('ry', 2);
@@ -279,11 +284,11 @@ function barSVGDraw__(name, data, type, duration_ = 200){
                 }
             })
             .attr('y', (d, i)=>{
-                return i === 0? barBaseline - barSVGYScale(d.pick):barBaseline;
+                return i === 0? barBaseline: barBaseline - barSVGYScale(d.return);
             })
             .attr('x', 0)
             .attr('fill', (d, i)=>{
-                return i === 0? "blue": "green";
+                return i === 0? barPickColor: barReturnColor;
             });
         
         barSVGYScale.domain(pick_return_extent);
@@ -310,7 +315,7 @@ function barSVGDraw__(name, data, type, duration_ = 200){
             })
             .attr('x', 0)
             .attr('fill', (d, i)=>{
-                return d.pick > d.return? "blue": "green";
+                return d.pick > d.return? barPickColor: barReturnColor;
             });
         
         barSVGYScale.domain(pick_return_extent);

@@ -1,18 +1,4 @@
-#main {
-    padding: 10px;
-}
 
-.tooltip {
-    opacity: 1;
-}
-
-.tooltip .tooltip-inner {
-    background-color: #999;
-}
-
-.slider-handle.round {
-    background-image: linear-gradient(to bottom,#979797 0,#707070 100%);
-}
 
 label {
     font-size: 13px;
@@ -31,7 +17,83 @@ label {
     fill: #555;
 }
 
+body{
+    background-color:#37474f;
+}
+#background-image-bike{
+    position: relative;
+    top: -300px;
+}
+
+#header{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    background-color:#ffffff;
+}
+#map, #usage-chart{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    border-radius: 3px;
+    background-color:#ffffff;
+    overflow: hidden;
+}
+  
+
 #bar-chart-svg .bar{
     stroke:#f0f0f0;
     stroke-width: 1;
+}
+.axis line {
+    stroke: lightgrey;
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+}
+#bar-chart-svg{
+    position: relative;
+}
+#line-chart-svg{
+    position: relative;
+}
+@keyframes line-chart-in {
+    from {
+        position: relative;
+        top:0px;
+    }
+    to {
+        position: relative;
+        top:-266px;
+    }
+}
+@keyframes bar-chart-in {
+    from {
+        position: relative;
+        top: -266px;
+    }
+    to {
+        position: relative;
+        top: 0px;
+    }
+}
+.line-chart-in{
+    animation-name: line-chart-in;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+.bar-chart-in{
+    animation-name: bar-chart-in;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+
+#chart-switch{
+    position: relative;
+    top:-532px;
+    left: 880px;
+}
+#btn-show-bar-chart{
+    background-color: blue; 
+}
+#btn-show-line-chart{
+    background-color: green; 
 }
