@@ -31,3 +31,7 @@ label {
     fill: #555;
 }
 
+#bar-chart-svg .bar{
+    stroke:#f0f0f0;
+    stroke-width: 1;
+}

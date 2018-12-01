@@ -8,7 +8,7 @@ let barWidth_ = barSVGChartWidth / 24;
 let barWidth = barWidth_  / 2;
 
 
-let barSVGXScale = d3.scaleLinear().domain([0, 23]).range([0, barSVGChartWidth]);
+let barSVGXScale = d3.scaleLinear().domain([0, 24]).range([0, barSVGChartWidth]);
 let barSVGYScale = d3.scaleLinear().range([0, barSVGChartHeight]);
 
 let barSVG = d3.select('#bar-chart-svg');
@@ -20,7 +20,7 @@ let barSVGChartG = barSVG.append('g')
 
 // setup x axis
 let barXAxis = d3.axisBottom(barSVGXScale)
-    .tickValues([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]);
+    .tickValues([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]);
 let barSVGXAxis = barSVG.append('g')
     .attr('transform', `translate(${barSVGPadding.l}, ${barSVGPadding.t + barSVGChartHeight})`)
     .attr('class', 'x axis');
@@ -84,9 +84,6 @@ function barSVGDraw(name, data, type, duration_ = 200){
 
     let bar2s = barSVGChartG.selectAll('.bar2')
         .data(data.data.pick);
-    /*let bar2 = bar2s.enter()
-        .append('g')
-        .attr('class', 'bar2');*/
     let bars = bar2.selectAll('.bar')
         .data((d, i)=>{
             return [
@@ -100,10 +97,6 @@ function barSVGDraw(name, data, type, duration_ = 200){
                 }
             ];
         });
-    /*let bar = bars.enter()
-        .append('rect')
-        .attr('class', 'bar')
-        .attr('width', barWidth);*/
         
     if(type === 0){
         barSVGYScale.domain(sum_extent);
@@ -262,7 +255,9 @@ function barSVGDraw__(name, data, type, duration_ = 200){
             .attr('x', 0)
             .attr('fill', (d, i)=>{
                 return i === 0? "blue": "green";
-            });
+            })
+            .attr('rx', 2)
+            .attr('ry', 2);
         
         barSVGYScale.domain([sum_extent[1], sum_extent[0]]);
         barSVGXAxis
