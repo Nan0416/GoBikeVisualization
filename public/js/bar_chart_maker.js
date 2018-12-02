@@ -34,13 +34,16 @@ let barSVGXAxis = barSVG.append('g')
 
 
 // setup title
-let barSVGTitle = barSVG
-    .append('text')
+let barSVGTitle = barSVG.append('text')
     .attr("x", (barSVGChartWidth / 2))             
     .attr("y", (barSVGPadding.t / 2))
     .attr("text-anchor", "middle")  
     .style("font-size", "16px");
-    
+
+let barSVGLegend = barSVG.append('g')
+    .attr('transform', `translate(${barSVGPadding.l + barSVGChartWidth - 60}, ${barSVGPadding.t / 2})`)
+    .attr('class', 'legend');
+
 let barChartName = null;
 let barChartData = null;
 
@@ -79,26 +82,26 @@ function barSVGDraw(name, data, type, duration_ = 200){
         return;
     }
     // prepare scale.
-    let pick_extent = d3.extent(data.data.pick);
-    let return_extent = d3.extent(data.data.return);
+    let pick_extent = d3.extent(data.pick);
+    let return_extent = d3.extent(data.return);
     let pick_return_extent = [ pick_extent[1], -return_extent[1]];
-    let diff_extent = d3.extent(data.data.diff);
+    let diff_extent = d3.extent(data.diff);
     let sum_extent = [0, pick_extent[1] + return_extent[1]];
     
    
 
     let bar2s = barSVGChartG.selectAll('.bar2')
-        .data(data.data.pick);
+        .data(data.pick);
     let bars = bar2.selectAll('.bar')
         .data((d, i)=>{
             return [
                 {
-                    pick:data.data.pick[i],
-                    return: data.data.return[i]
+                    pick:data.pick[i],
+                    return: data.return[i]
                 },
                 {
-                    pick:data.data.pick[i],
-                    return: data.data.return[i]
+                    pick:data.pick[i],
+                    return: data.return[i]
                 }
             ];
         });
@@ -108,7 +111,7 @@ function barSVGDraw(name, data, type, duration_ = 200){
         bar2.merge(bar2s)
             .transition().duration(duration_)
             .attr('transform', (d, i)=>{
-                return `translate(${i * barWidth_ + barWidth / 2}, ${barSVGChartHeight - barSVGYScale(data.data.pick[i] + data.data.return[i])})`;
+                return `translate(${i * barWidth_ + barWidth / 2}, ${barSVGChartHeight - barSVGYScale(data.pick[i] + data.return[i])})`;
             });
         bar.merge(bars)
             .transition().duration(duration_)
@@ -197,7 +200,39 @@ function barSVGDraw(name, data, type, duration_ = 200){
     barSVGYAxis.transition().duration(duration_).call(barYAxis);
     // draw title
     barSVGTitle.text(name);
-
+    // update legend
+    let legendItems;
+    if(type === 0 || type === 1){
+        legendItems = barSVGLegend.selectAll('.legend-item')
+            .data(
+                [
+                    {
+                        color: barPickColor,
+                        text: "Pick"
+                    },
+                    {
+                        color: barReturnColor,
+                        text: "Return"
+                    }
+                ]
+            );   
+    }else{
+        legendItems = barSVGLegend.selectAll('.legend-item')
+            .data(
+                [
+                    {
+                        color: barPickColor,
+                        text: "Net Pick"
+                    },
+                    {
+                        color: barReturnColor,
+                        text: "Net Return"
+                    }
+                ]
+            );
+    }
+    legendItems.select('text').text(d=>d.text);
+    legendItems.select('rect').attr('fill', d=>d.color);
 }
 function barSVGDraw__(name, data, type, duration_ = 200){
     if(name && data){
@@ -210,15 +245,15 @@ function barSVGDraw__(name, data, type, duration_ = 200){
         return;
     }
     // prepare scale.
-    let pick_extent = d3.extent(data.data.pick);
-    let return_extent = d3.extent(data.data.return);
+    let pick_extent = d3.extent(data.pick);
+    let return_extent = d3.extent(data.return);
     let pick_return_extent = [ pick_extent[1], -return_extent[1]];
-    let diff_extent = d3.extent(data.data.diff);
+    let diff_extent = d3.extent(data.diff);
     let sum_extent = [0, pick_extent[1] + return_extent[1]];
     
 
     let bar2s = barSVGChartG.selectAll('.bar2')
-        .data(data.data.pick);
+        .data(data.pick);
     bar2 = bar2s.enter()
         .append('g')
         .attr('class', 'bar2');
@@ -228,12 +263,12 @@ function barSVGDraw__(name, data, type, duration_ = 200){
 
             return [
                 {
-                    pick:data.data.pick[i],
-                    return: data.data.return[i]
+                    pick:data.pick[i],
+                    return: data.return[i]
                 },
                 {
-                    pick:data.data.pick[i],
-                    return: data.data.return[i]
+                    pick:data.pick[i],
+                    return: data.return[i]
                 }
             ];
         });
@@ -245,7 +280,7 @@ function barSVGDraw__(name, data, type, duration_ = 200){
     if(type === 0){
         barSVGYScale.domain(sum_extent);
         bar2.attr('transform', (d, i)=>{
-                return `translate(${i * barWidth_ + barWidth / 2}, ${barSVGChartHeight - barSVGYScale(data.data.pick[i] + data.data.return[i])})`;
+                return `translate(${i * barWidth_ + barWidth / 2}, ${barSVGChartHeight - barSVGYScale(data.pick[i] + data.return[i])})`;
             });
         bar.attr('height', (d, i)=>{
                 if(i === 0){
@@ -261,8 +296,7 @@ function barSVGDraw__(name, data, type, duration_ = 200){
             .attr('fill', (d, i)=>{
                 return i === 0? barPickColor: barReturnColor;
             })
-            .attr('rx', 2)
-            .attr('ry', 2);
+            .attr('rx', 2).attr('ry', 2);
         
         barSVGYScale.domain([sum_extent[1], sum_extent[0]]);
         barSVGXAxis
@@ -326,6 +360,49 @@ function barSVGDraw__(name, data, type, duration_ = 200){
     // draw title
     barSVGTitle.text(name);
 
+    // draw legend;
+    let legendItems
+    if(type === 0 || type === 1){
+        legendItems = barSVGLegend.selectAll('.legend-item')
+            .data(
+                [
+                    {
+                        color: barPickColor,
+                        text: "Pick"
+                    },
+                    {
+                        color: barReturnColor,
+                        text: "Return"
+                    }
+                ]
+            );   
+    }else{
+        legendItems = barSVGLegend.selectAll('.legend-item')
+            .data(
+                [
+                    {
+                        color: barPickColor,
+                        text: "Net Pick"
+                    },
+                    {
+                        color: barReturnColor,
+                        text: "Net Return"
+                    }
+                ]
+            );
+    }
+    legendItems = legendItems.enter()
+        .append('g').attr('class', 'legend-item')
+        .attr('transform', (d, i)=>{
+            return `translate(0, ${i * 20})`;
+        });
+    legendItems.append('rect')
+        .attr('rx', 2).attr('ry', 2)
+        .attr('x', 0).attr('y', 0).attr('width', 16).attr('height', 16)
+        .attr('fill', d=>d.color)
+    legendItems.append('text')
+        .text(d=>d.text)
+        .attr("x", 30).attr("y", 14);
 }
 
 

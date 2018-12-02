@@ -7,13 +7,10 @@ label {
     padding: 2px;
 }
 
-.legend circle {
-    stroke: #555;
-}
 
 .legend text {
-    font-family: "Open Sans";
-    font-size: 12px;
+    font-family: sans-serif;
+    font-size: 13px;
     fill: #555;
 }
 
@@ -39,7 +36,7 @@ body{
 }
   
 
-#bar-chart-svg .bar{
+#bar-chart-svg .bar, .legend-item rect{
     stroke:#f0f0f0;
     stroke-width: 1;
 }
@@ -92,8 +89,8 @@ body{
     left: 880px;
 }
 #btn-show-bar-chart{
-    background-color: blue; 
+    background-color: #FFEB3B; 
 }
 #btn-show-line-chart{
-    background-color: green; 
+    background-color: #FF8A65; 
 }

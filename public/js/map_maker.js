@@ -77,7 +77,7 @@ var dotsEnter;
 var stations;
 var colorScale = d3.scaleSequential(d3["interpolateBlues"]);
 var station_names = [];
-var barViewCounter = 0;
+
 d3.json('../data/station_v4.json', (err, stations_)=>{
     if(err){
         console.log(err);
@@ -145,9 +145,7 @@ function createChart() {
                 let e = d;
                 console.log(e);
                 myMap.setView([stations[e].location[0], stations[e].location[1]], 14);
-                lineSVGdraw(e, stations[e]);
-                barViewCounter = 0;
-                barSVGDraw(e,  stations[e], barViewCounter);
+                
             });
         })
         
