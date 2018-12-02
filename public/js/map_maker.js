@@ -74,9 +74,9 @@ var mapSvg = d3.select('#map').select('svg');
 var stationG = mapSvg.append('g');
 var dots;
 var dotsEnter;
-var stations;
+//var stations;
 var colorScale = d3.scaleSequential(d3["interpolateBlues"]);
-var station_names = [];
+//var station_names = [];
 
 d3.json('../data/station_v4.json', (err, stations_)=>{
     if(err){
@@ -98,7 +98,7 @@ d3.json('../data/station_v4.json', (err, stations_)=>{
    
 });
 
-function createChart() {
+function createChart(station_names, stations) {
 
     dots = stationG.selectAll('.station')
         .data(station_names, (d)=>{
@@ -141,11 +141,9 @@ function createChart() {
                 let e = d;
                 console.log(e);
                 myMap.setView([stations[e].location[0], stations[e].location[1]], 14);
-                
+                updateStation(e);
             });
-        })
-        
-        
+        });
 }
 
 var tooltip = d3.select("body")

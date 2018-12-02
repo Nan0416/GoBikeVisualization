@@ -27,8 +27,11 @@ d3.json('../data/station_v6.json', (err, stations_)=>{
             mainStationNames.push(key);
         }
     }
-   
+    
     mainSelectedStation = mainStationNames[0];
+    //init map
+    createChart(mainStationNames, mainStations);
+    //init charts
     showChart(mainStations, mainSelectedStation, "all", 0, 0);
     updateArrows(false);
 });
@@ -60,6 +63,20 @@ function updateArrows(isVisible){
         tmp[i].style.display= isVisible? 'block':'none';
     }
 }
+
+
+//////////////// function for map_maker update station ////////////////////
+function updateStation(station_name){
+    if(station_name !== mainSelectedStation){
+        mainSelectedStation = station_name;
+        mainBarViewCounter = 0;
+        mainSelection = "all";
+        mainSelectionMonthCounter = 0;
+        mainSelectionWeekCounter = 0;
+        updateArrows(false);
+        showChart(mainStations, mainSelectedStation, "all", 0, mainBarViewCounter);
+    }
+}
 //////////////// Configure Event Listener Below ///////////////////////////
 /* switch between line chart and bar chart*/
 document.getElementById('btn-show-line-chart').addEventListener('click', ()=>{
@@ -79,7 +96,13 @@ document.getElementById('btn-show-line-chart').addEventListener('click', ()=>{
 document.getElementById('bar-chart-svg').addEventListener('click', ()=>{
     mainBarViewCounter++;
     mainBarViewCounter = mainBarViewCounter % 3;
-    barSVGDraw(mainSelectedStation, mainStations[mainSelectedStation].weekly[0], mainBarViewCounter);
+    if(mainSelection === 'monthly'){
+        showChart(mainStations, mainSelectedStation, "monthly", mainSelectionMonthCounter, mainBarViewCounter);
+    }else if(mainSelection === 'weekly'){
+        showChart(mainStations, mainSelectedStation, "weekly", mainSelectionWeekCounter, mainBarViewCounter);
+    }else{
+        showChart(mainStations, mainSelectedStation, "all", 0, mainBarViewCounter);
+    }
 }, false);
 
 /** last month or week */
@@ -125,4 +148,4 @@ document.getElementById("select-division").addEventListener('change', ()=>{
         }
     }
 }, false);
-   
+
