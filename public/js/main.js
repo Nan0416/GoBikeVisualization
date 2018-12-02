@@ -3,10 +3,13 @@
 let mainStationNames = [];
 let mainStations = null;
 
-let mainSelectedData = null;
+
 let mainSelectedStation = null;
 
 let mainBarViewCounter = 0;
+let mainSelection = "monthly";
+let mainSelectionMonthCounter = 0;
+let mainSelectionWeekCounter = 0;
 
 d3.json('../data/station_v5.json', (err, stations_)=>{
     if(err){
@@ -23,11 +26,8 @@ d3.json('../data/station_v5.json', (err, stations_)=>{
     }
    
     mainSelectedStation = mainStationNames[0];
-    mainSelectedData = mainStations[mainSelectedStation].monthly[0];
-
-    console.log(mainSelectedStation, mainSelectedData);
-    lineSVGdraw(mainSelectedStation, mainSelectedData);            
-    barSVGDraw(mainSelectedStation, mainSelectedData, mainBarViewCounter);
+    lineSVGdraw(mainSelectedStation, mainStations[mainSelectedStation].weekly[3]);            
+    barSVGDraw(mainSelectedStation, mainStations[mainSelectedStation].weekly[3], mainBarViewCounter);
     
 });
 
@@ -46,19 +46,32 @@ document.getElementById('btn-show-line-chart').addEventListener('click', ()=>{
         document.getElementById('bar-chart-svg').classList.add('bar-chart-in');
     }, false);
 }, false);
-
 /** switch to different view of bar chart */
 document.getElementById('bar-chart-svg').addEventListener('click', ()=>{
     mainBarViewCounter++;
     mainBarViewCounter = mainBarViewCounter % 3;
-    barSVGDraw(mainSelectedStation, mainSelectedData, mainBarViewCounter);
+    barSVGDraw(mainSelectedStation, mainStations[mainSelectedStation].weekly[0], mainBarViewCounter);
 }, false);
 
-let month_ = 0;
-function mainUpdateMonth(){
-    month_ ++;
-    month_ = month_ % 10;
-    mainSelectedData = mainStations[mainSelectedStation].monthly[month_];
-    lineSVGdraw(mainSelectedStation, mainSelectedData);            
-    barSVGDraw(mainSelectedStation, mainSelectedData, mainBarViewCounter);
-}
+/** last month or week */
+document.getElementById('last-btn').addEventListener('click',()=>{
+    if(mainSelection === 'monthly'){
+        mainSelectionMonthCounter += 9;
+        mainSelectionMonthCounter %= 10;
+        lineSVGdraw(mainSelectedStation, mainStations[mainSelectedStation].monthly[mainSelectionMonthCounter]);            
+        barSVGDraw(mainSelectedStation, mainStations[mainSelectedStation].monthly[mainSelectionMonthCounter], mainBarViewCounter);
+    }else if(mainSelection === 'weekly'){
+
+    }
+}, false);
+/** next month or week */
+document.getElementById('next-btn').addEventListener('click',()=>{
+    if(mainSelection === 'monthly'){
+        mainSelectionMonthCounter++;
+        mainSelectionMonthCounter %= 10;
+        lineSVGdraw(mainSelectedStation, mainStations[mainSelectedStation].monthly[mainSelectionMonthCounter]);            
+        barSVGDraw(mainSelectedStation, mainStations[mainSelectedStation].monthly[mainSelectionMonthCounter], mainBarViewCounter);
+    }else if(mainSelection === 'weekly'){
+        
+    }
+}, false);

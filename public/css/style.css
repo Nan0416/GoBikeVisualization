@@ -33,6 +33,10 @@ body{
     border-radius: 3px;
     background-color:#ffffff;
     overflow: hidden;
+    
+}
+#content{
+    position: relative;
 }
   
 
@@ -93,4 +97,30 @@ body{
 }
 #btn-show-line-chart{
     background-color: #FF8A65; 
+}
+.nav-btn{
+    width: 80px;
+    height: 80px;   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.nav-btn:hover{
+    cursor: pointer;
+}
+.nav-btn i{
+    font-size: 45px;
+    color:white;
+}
+#last-btn{
+    position: absolute;
+    top: 340px;
+    left: -130px;
+    
+}
+#next-btn{
+    position: absolute;
+    top: 340px;
+    right: -130px;
 }
