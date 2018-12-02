@@ -13,7 +13,7 @@ let barSVGYScale = d3.scaleLinear().range([0, barSVGChartHeight]);
 
 let barSVG = d3.select('#bar-chart-svg');
 // setup y axis
-let barYAxis = d3.axisLeft(barSVGYScale).tickSizeInner(-barSVGChartWidth).ticks(4);
+let barYAxis = d3.axisLeft(barSVGYScale).tickSizeInner(-barSVGChartWidth).ticks(4).tickFormat(d=>Math.abs(d));
 let barSVGYAxis = barSVG.append('g')
     .attr('transform', `translate(${barSVGPadding.l}, ${barSVGPadding.t})`)
     .attr('class', 'y axis');

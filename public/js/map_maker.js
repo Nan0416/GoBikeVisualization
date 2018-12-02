@@ -95,11 +95,7 @@ d3.json('../data/station_v4.json', (err, stations_)=>{
     createChart();
     drawStation();
     myMap.on('zoomend', drawStation);
-    d3.select('#bar-chart-svg').on('click', ()=>{
-        barViewCounter++;
-        barViewCounter = barViewCounter % 3;
-        barSVGDraw(null,  null, barViewCounter);
-    });
+   
 });
 
 function createChart() {
