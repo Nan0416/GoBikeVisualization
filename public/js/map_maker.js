@@ -1,3 +1,26 @@
+var cfg = {
+    // radius should be small ONLY if scaleRadius is true (or small radius is intended)
+    // if scaleRadius is false it will be the constant radius used in pixels
+    "radius": 0.005,
+    "maxOpacity": .8, 
+    // scales the radius based on map zoom
+    "scaleRadius": true, 
+    // if set to false the heatmap uses the global maximum for colorization
+    // if activated: uses the data maximum within the current map boundaries 
+    //   (there will always be a red spot with useLocalExtremas true)
+    "useLocalExtrema": true,
+    latField: 'lat',
+    lngField: 'lng',
+    valueField: 'count',
+    gradient: {
+        '.5': '#1976D2',
+        '.8': '#2E7D32'
+    }
+  };
+  var heatmapLayer = new HeatmapOverlay(cfg);
+  
+
+
 // Create a Map
 var myMap = L.map('map', {
     minZoom: 11,
@@ -68,7 +91,7 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
     id: 'mapbox.streets',
     accessToken: 'pk.eyJ1IjoiamFydmVlIiwiYSI6ImNqb2Y4Z3U4aDAxcnkza3BodmNndGM5M2wifQ.07r_YRi1y_H3YzEP5A4-vQ'
 }).addTo(myMap);
-
+heatmapLayer.addTo(myMap);
 var svgLayer = L.svg();
 svgLayer.addTo(myMap);
 
@@ -112,6 +135,7 @@ function mapUpdate(station_names, stations, selection, value){
     dots.attr('fill', (d)=>{
         return colorScale(Math.pow(colorValue[d], 0.2));
     });
+    heatmapLayer.setData(quantifyStationsPattern(station_names, stations, selection, value));
 }
 
 function mapInitalizer(station_names, stations) {
@@ -134,7 +158,7 @@ function mapInitalizer(station_names, stations) {
     dots = dots.enter()
         .append('circle')
         .attr('class', 'point').attr('class', 'station')
-        .attr('stroke', '#606060').attr('stroke-width', 1).attr('r', 5)
+        .attr('stroke', '#606060').attr('stroke-width', 1).attr('r', 3).attr('opacity', 0.5)
         .attr("pointer-events","visible")
         .attr('fill', function(d){
             /*colorScale.domain([Math.pow(12, 0.3), Math.pow(74128, 0.3)]);
@@ -182,6 +206,9 @@ function mapInitalizer(station_names, stations) {
                 return myMap.latLngToLayerPoint(stations[d].location).y;
             })
     });
+    
+    
+    heatmapLayer.setData(quantifyStationsPattern(station_names, stations, "all", 0));
 }
 
 var tooltip = d3.select("body")
@@ -192,5 +219,80 @@ var tooltip = d3.select("body")
     .text("a simple tooltip");
 
 
+/** 
+ * data:{
+ *  sum:[]
+ *  diff:[]
+ *  return:[]
+ *  pick:[]
+ * }
+*/
+function quantifyPattern(data){
+    let count = 0;
+    for(let i = 0; i < 24; i++){
+        if(i < 12){
+            count -= data.diff[i];
+        }else{
+            count += data.diff[i];
+        }
+    }
+    return count;
+}
+function quantifyStationsPattern(station_names, stations, selection, value){
+    let data = [];
+    let max = 0;
+    let min = 0;
+    if(selection === 'monthly'){
+        for(let i = 0; i < station_names.length; i++){
+            let count = quantifyPattern(stations[station_names[i]].monthly[value]);
+            if(count > max){
+                max = count;
+            }else if(count < min){
+                min = count;
+            }
+            data.push({
+                lat: stations[station_names[i]].location[0],
+                lng: stations[station_names[i]].location[1],
+                count: count
+            });
+        }
+    }else if(selection === 'weekly'){
+        for(let i = 0; i < station_names.length; i++){
+            let count = quantifyPattern(stations[station_names[i]].weekly[value]);
+            if(count > max){
+                max = count;
+            }else if(count < min){
+                min = count;
+            }
+            data.push({
+                lat: stations[station_names[i]].location[0],
+                lng: stations[station_names[i]].location[1],
+                count: count
+            });
+        }
+    }else{
+        for(let i = 0; i < station_names.length; i++){
+            let count = quantifyPattern(stations[station_names[i]].total);
+            if(count > max){
+                max = count;
+            }else if(count < min){
+                min = count;
+            }
+            data.push({
+                lat: stations[station_names[i]].location[0],
+                lng: stations[station_names[i]].location[1],
+                count: count
+            });
+        }
+    }
+    /*max = max - min;
+    for(let  i = 0; i < data.length; i++){
+        data[i].count -= min;
+    }*/
+    return {
+        max: max,
+        min: min,
+        data: data
+    }
 
-
+}
