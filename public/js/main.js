@@ -30,7 +30,7 @@ d3.json('../data/station_v6.json', (err, stations_)=>{
     
     mainSelectedStation = mainStationNames[0];
     //init map
-    createChart(mainStationNames, mainStations);
+    mapInitalizer(mainStationNames, mainStations);
     //init charts
     showChart(mainStations, mainSelectedStation, "all", 0, 0);
     updateArrows(false);
@@ -69,12 +69,17 @@ function updateArrows(isVisible){
 function updateStation(station_name){
     if(station_name !== mainSelectedStation){
         mainSelectedStation = station_name;
-        mainBarViewCounter = 0;
-        mainSelection = "all";
-        mainSelectionMonthCounter = 0;
-        mainSelectionWeekCounter = 0;
-        updateArrows(false);
-        showChart(mainStations, mainSelectedStation, "all", 0, mainBarViewCounter);
+        if(mainSelection === "monthly"){
+            showChart(mainStations, mainSelectedStation, "monthly", mainSelectionMonthCounter, mainBarViewCounter);
+            mapUpdate(mainStationNames, mainStations, "monthly", mainSelectionMonthCounter);
+        }else if(mainSelection === "weekly"){
+            showChart(mainStations, mainSelectedStation, "weekly", mainSelectionWeekCounter, mainBarViewCounter);
+            mapUpdate(mainStationNames, mainStations, "weekly", mainSelectionWeekCounter);
+        }else{
+            showChart(mainStations, mainSelectedStation, "all", 0, mainBarViewCounter);
+            mapUpdate(mainStationNames, mainStations, "all", 0);
+        }
+       
     }
 }
 //////////////// Configure Event Listener Below ///////////////////////////
@@ -111,10 +116,12 @@ document.getElementById('last-btn').addEventListener('click',()=>{
         mainSelectionMonthCounter += 9;
         mainSelectionMonthCounter %= 10;
         showChart(mainStations, mainSelectedStation, "monthly", mainSelectionMonthCounter, mainBarViewCounter);
+        mapUpdate(mainStationNames, mainStations, "monthly", mainSelectionMonthCounter);
     }else if(mainSelection === 'weekly'){
         mainSelectionWeekCounter += 6;
         mainSelectionWeekCounter %= 7;
         showChart(mainStations, mainSelectedStation, "weekly", mainSelectionWeekCounter, mainBarViewCounter);
+        mapUpdate(mainStationNames, mainStations, "weekly", mainSelectionWeekCounter);
     }
 }, false);
 /** next month or week */
@@ -123,28 +130,33 @@ document.getElementById('next-btn').addEventListener('click',()=>{
         mainSelectionMonthCounter++;
         mainSelectionMonthCounter %= 10;
         showChart(mainStations, mainSelectedStation, "monthly", mainSelectionMonthCounter, mainBarViewCounter);
+        mapUpdate(mainStationNames, mainStations, "monthly", mainSelectionMonthCounter);
     }else if(mainSelection === 'weekly'){
         mainSelectionWeekCounter++;
         mainSelectionWeekCounter %= 7;
         showChart(mainStations, mainSelectedStation, "weekly", mainSelectionWeekCounter, mainBarViewCounter);
+        mapUpdate(mainStationNames, mainStations, "weekly", mainSelectionWeekCounter);
     }
 }, false);
-
+/**Update selection (division) montly, weekly, or all */
 document.getElementById("select-division").addEventListener('change', ()=>{
     let selectField = document.getElementById("select-division").value;
     if(mainSelection !== selectField){
-        // update
+        // update chart and map
         mainBarViewCounter = 0;
         mainSelection = selectField;
         if(selectField === "monthly"){
             updateArrows(true);
             showChart(mainStations, mainSelectedStation, "monthly", mainSelectionMonthCounter, mainBarViewCounter);
+            mapUpdate(mainStationNames, mainStations, selectField, mainSelectionMonthCounter);
         }else if(selectField === 'weekly'){
             updateArrows(true);
             showChart(mainStations, mainSelectedStation, "weekly", mainSelectionWeekCounter, mainBarViewCounter);
+            mapUpdate(mainStationNames, mainStations, selectField, mainSelectionWeekCounter);
         }else{
             updateArrows(false);
             showChart(mainStations, mainSelectedStation, "all", 0, mainBarViewCounter);
+            mapUpdate(mainStationNames, mainStations, "all", 0);
         }
     }
 }, false);
