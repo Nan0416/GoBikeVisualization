@@ -62,8 +62,8 @@ let lineSVGLegend = lineSVG.append('g')
     .attr('class', 'legend');
 
 function lineSVGDrawLegend(g){
-    let pick = g.append('g');
-    let return_ = g.append('g')
+    let return_ = g.append('g');
+    let pick = g.append('g')
         .attr('transform', 'translate(0, 20)');
     pick.append('line')
         .attr('x1', 0)

@@ -206,13 +206,14 @@ function barSVGDraw(name, data, type, duration_ = 200){
         legendItems = barSVGLegend.selectAll('.legend-item')
             .data(
                 [
-                    {
-                        color: barPickColor,
-                        text: "Pick"
-                    },
+                    
                     {
                         color: barReturnColor,
                         text: "Return"
+                    },
+                    {
+                        color: barPickColor,
+                        text: "Pick"
                     }
                 ]
             );   
@@ -221,12 +222,12 @@ function barSVGDraw(name, data, type, duration_ = 200){
             .data(
                 [
                     {
-                        color: barPickColor,
-                        text: "Net Pick"
-                    },
-                    {
                         color: barReturnColor,
                         text: "Net Return"
+                    },
+                    {
+                        color: barPickColor,
+                        text: "Net Pick"
                     }
                 ]
             );
@@ -367,12 +368,12 @@ function barSVGDraw__(name, data, type, duration_ = 200){
             .data(
                 [
                     {
-                        color: barPickColor,
-                        text: "Pick"
-                    },
-                    {
                         color: barReturnColor,
                         text: "Return"
+                    },
+                    {
+                        color: barPickColor,
+                        text: "Pick"
                     }
                 ]
             );   
@@ -380,13 +381,14 @@ function barSVGDraw__(name, data, type, duration_ = 200){
         legendItems = barSVGLegend.selectAll('.legend-item')
             .data(
                 [
-                    {
-                        color: barPickColor,
-                        text: "Net Pick"
-                    },
+                   
                     {
                         color: barReturnColor,
                         text: "Net Return"
+                    },
+                    {
+                        color: barPickColor,
+                        text: "Net Pick"
                     }
                 ]
             );
