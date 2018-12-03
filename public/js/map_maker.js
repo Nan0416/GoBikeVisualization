@@ -1,5 +1,8 @@
 // Create a Map
-var myMap = L.map('map').setView([37.805,-122.354849], 12);
+var myMap = L.map('map', {
+    minZoom: 11,
+    maxZoom: 15
+}).setView([37.805,-122.354849], 12);
 
 // Set the Map to GreyScale
 L.TileLayer.Grayscale = L.TileLayer.extend({
@@ -73,47 +76,74 @@ svgLayer.addTo(myMap);
 var mapSvg = d3.select('#map').select('svg');
 var stationG = mapSvg.append('g');
 var dots;
-var dotsEnter;
-var stations;
+//var dotsEnter;
+//var mapStations;
 var colorScale = d3.scaleSequential(d3["interpolateBlues"]);
-var station_names = [];
+//var station_names = [];
 
-d3.json('../data/station_v4.json', (err, stations_)=>{
-    if(err){
-        console.log(err);
-        alert("Error!");
-        return;
-    }
-    
-    stations = stations_;
-    for (var key in stations) {
-        if (stations.hasOwnProperty(key)) {
-            station_names.push(key);
+/** update the color of each dot according to each month or each day */
+function mapUpdate(station_names, stations, selection, value){
+    let maxV = 0, minV = 10000;
+    let rowData;
+    let colorValue = {};
+    for(let i = 0; i < station_names.length; i++){
+        if(selection === 'weekly'){
+            rowData = stations[station_names[i]].weekly[value].sum;
+        }else if(selection === 'monthly'){
+            rowData = stations[station_names[i]].monthly[value].sum;
+        }else{
+            rowData = stations[station_names[i]].total.sum;
         }
+        let tmp = 0;
+        for(let i = 0; i < rowData.length; i++){
+            tmp += rowData[i];
+        }
+        if(maxV < tmp){
+            maxV = tmp;
+        }
+        if(minV > tmp){
+            minV = tmp;
+        }
+        colorValue[station_names[i]] = tmp;
     }
+    console.log(maxV, minV);
+    colorScale.domain([0, Math.pow(maxV, 0.2)]);
 
-    createChart();
-    drawStation();
-    myMap.on('zoomend', drawStation);
-   
-});
+    dots.attr('fill', (d)=>{
+        return colorScale(Math.pow(colorValue[d], 0.2));
+    });
+}
 
-function createChart() {
-
+function mapInitalizer(station_names, stations) {
+    let maxV = 0, minV = 10000, rowData, colorValue = {}, tmp = 0;
+    for(let i = 0; i < station_names.length; i++){
+        rowData = stations[station_names[i]].total.sum;
+        tmp = 0;
+        for(let i = 0; i < rowData.length; i++){ tmp += rowData[i]; }
+        if(maxV < tmp){  maxV = tmp; }
+        if(minV > tmp){ minV = tmp; }
+        colorValue[station_names[i]] = tmp;
+    }
+    console.log(maxV, minV);
+    colorScale.domain([0, Math.pow(maxV, 0.2)]);
     dots = stationG.selectAll('.station')
         .data(station_names, (d)=>{
             return d;
         });
-
-    dotsEnter = dots.enter()
+    
+    dots = dots.enter()
         .append('circle')
-        .attr('class', 'point')
+        .attr('class', 'point').attr('class', 'station')
+        .attr('stroke', '#606060').attr('stroke-width', 1).attr('r', 5)
         .attr("pointer-events","visible")
         .attr('fill', function(d){
-            colorScale.domain([Math.pow(12, 0.3), Math.pow(74128, 0.3)]);
-            return colorScale(Math.pow(stations[d].total, 0.3));
+            /*colorScale.domain([Math.pow(12, 0.3), Math.pow(74128, 0.3)]);
+            let colorValue = 0;
+            for(let i = 0; i < stations[d].total.sum.length; i++){
+                colorValue += stations[d].total.sum[i];
+            }*/
+            return colorScale(Math.pow(colorValue[d], 0.2));
         })
-        .attr('r', 5)
         .attr('cx', d=>{
             return myMap.latLngToLayerPoint(stations[d].location).x
         })
@@ -141,11 +171,17 @@ function createChart() {
                 let e = d;
                 console.log(e);
                 myMap.setView([stations[e].location[0], stations[e].location[1]], 14);
-                
+                updateStation(e);
             });
-        })
-        
-        
+        });
+    myMap.on('zoomend', ()=>{
+        dots.attr('cx', d=>{
+                return myMap.latLngToLayerPoint(stations[d].location).x;
+            })
+            .attr('cy', d=>{
+                return myMap.latLngToLayerPoint(stations[d].location).y;
+            })
+    });
 }
 
 var tooltip = d3.select("body")
@@ -155,14 +191,6 @@ var tooltip = d3.select("body")
     .style("visibility", "hidden")
     .text("a simple tooltip");
 
-function drawStation() {
-    dots.merge(dotsEnter)
-        .attr('cx', d=>{
-            return myMap.latLngToLayerPoint(stations[d].location).x
-        })
-        .attr('cy', d=>{
-            return myMap.latLngToLayerPoint(stations[d].location).y
-        })
-}
+
 
 
