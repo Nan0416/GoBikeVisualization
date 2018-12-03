@@ -12,10 +12,11 @@ var cfg = {
     latField: 'lat',
     lngField: 'lng',
     valueField: 'count',
-    gradient: {
-        '.5': '#1976D2',
-        '.8': '#2E7D32'
-    }
+    /*gradient: {
+        '0':'blue',
+        '.001': 'green',
+        '.8': 'red'
+    }*/
   };
   var heatmapLayer = new HeatmapOverlay(cfg);
   
@@ -273,6 +274,8 @@ function quantifyStationsPattern(station_names, stations, selection, value){
     }else{
         for(let i = 0; i < station_names.length; i++){
             let count = quantifyPattern(stations[station_names[i]].total);
+            
+            count = count > 0? Math.pow(Math.abs(count), 1/3): -1 * Math.pow(Math.abs(count), 1/3);
             if(count > max){
                 max = count;
             }else if(count < min){
@@ -285,13 +288,16 @@ function quantifyStationsPattern(station_names, stations, selection, value){
             });
         }
     }
-    /*max = max - min;
+    //max = max - min;
     for(let  i = 0; i < data.length; i++){
-        data[i].count -= min;
-    }*/
+        if(data[i].count < 0){
+            data[i].count = max - data[i].count;
+        }
+        console.log(max, max - min, data[i].count)
+    }
     return {
-        max: max,
-        min: min,
+        max: max - min,
+        min: 0,
         data: data
     }
 
