@@ -260,6 +260,7 @@ function quantifyStationsPattern(station_names, stations, selection, value){
     }else if(selection === 'weekly'){
         for(let i = 0; i < station_names.length; i++){
             let count = quantifyPattern(stations[station_names[i]].weekly[value]);
+            count = count > 0? Math.pow(Math.abs(count), 1/2): -1 * Math.pow(Math.abs(count), 1/2);
             if(count > max){
                 max = count;
             }else if(count < min){
