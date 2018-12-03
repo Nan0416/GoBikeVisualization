@@ -1,5 +1,8 @@
 // Create a Map
-var myMap = L.map('map').setView([37.805,-122.354849], 12);
+var myMap = L.map('map', {
+    minZoom: 11,
+    maxZoom: 15
+}).setView([37.805,-122.354849], 12);
 
 // Set the Map to GreyScale
 L.TileLayer.Grayscale = L.TileLayer.extend({
