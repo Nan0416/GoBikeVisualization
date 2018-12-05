@@ -180,7 +180,7 @@ function mapInitalizer(station_names, stations) {
         .on('mouseover', function(d){
             var markerGroup = L.layerGroup().addTo(myMap);
             L.circle([stations[d].location[0], stations[d].location[1]], {
-                color: "none",
+                color: "red",
                 stroke: 1,
                 fillColor: colorScale(Math.pow(stations[d].total, 0.3)),
                 fillOpacity: 0,

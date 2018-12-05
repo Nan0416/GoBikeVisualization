@@ -9,7 +9,7 @@ let pieRadius = Math.min(pieSVGChartWidth, pieSVGChartHeight) / 2;
 let color = d3.scaleOrdinal().range(["#98abc5", "#7b6888"]);
 let arc = d3.arc().outerRadius(pieRadius - 10).innerRadius(0);
 
-let labelArc = d3.arc().outerRadius(pieRadius - 40).innerRadius(pieRadius - 40);
+let labelArc = d3.arc().outerRadius(pieRadius - 40).innerRadius(pieRadius - 20);
 
 let pie = d3.pie().sort(null).value(function(d) { return d.value; });
 
@@ -32,18 +32,18 @@ function pieSVGdraw(data, name, value){
 
     let filteredData = [];
 
+    let sumTo = data[name][value].male + data[name][value].female;
 
     var maleObj = {};
     maleObj.label = "Male";
-    maleObj.value = data[name][value].male;
+    maleObj.value = Math.round((data[name][value].male / sumTo) * 100);
     filteredData.push(maleObj);
 
     var femaleObj = {};
     femaleObj.label = "Female";
-    femaleObj.value = data[name][value].female;
+    femaleObj.value = Math.round((data[name][value].female / sumTo) * 100);
     filteredData.push(femaleObj);
 
-    console.log(filteredData);
     drawPieChart(filteredData);
            
 }
@@ -64,24 +64,25 @@ function pieSVGdrawAll() {
             sumFemale += female;
         }
     }
+
+    let sum = sumMale + sumFemale;
+
     var maleObj = {};
     maleObj.label = "Male";
-    maleObj.value = sumMale;
+    maleObj.value = Math.round((sumMale / sum) * 100);
 
     data.push(maleObj);
 
     var femaleObj = {};
     femaleObj.label = "Female";
-    femaleObj.value = sumFemale;
+    femaleObj.value = Math.round((sumFemale / sum) * 100);
     data.push(femaleObj);
 
     drawPieChart(data);
-    
 }
 
 function drawPieChart(data) {
     path = pieSVG.selectAll("path").data(pie(data));
-
     textLabel = pieSVG.selectAll("text").data(pie(data));
         
     pathEnter = path.enter()
@@ -99,29 +100,16 @@ function drawPieChart(data) {
         .attr("fill", "white")
         .attr("stroke-width", "0.5")
         .attr("font-family", "sans-serif")
-        .attr("font-size", "14px")
+        .attr("font-size", "10px")
         .each(function(d) {
             var centroid = labelArc.centroid(d);
             d3.select(this)
-                .attr('x', centroid[0])
+                .attr('x', centroid[0] - 15)
                 .attr('y', centroid[1])
                 .attr('dy', '0.33em')
-                .text(d.data.value);
+                .text(d.data.label + " " + d.data.value + "%");
         });
-
-    pieSVG.append('g')
-        .attr('class', 'legend')
-        .selectAll('text')
-        .data(data)
-        .enter()
-        .append('text')
-        .text(function(d) { return '• ' + d.label; })
-        .attr("fill", (d, i) => i ? "white" : "red")
-        .attr('x', "120")
-        .attr('y', function(d, i) { return 20 * (i - 3); })
-
-
-
+    
     path.exit().remove();
     textLabel.exit().remove();
 }

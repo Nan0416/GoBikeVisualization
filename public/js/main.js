@@ -2,7 +2,8 @@
 
 let mainStationNames = [];
 let mainStations = null;
-
+let station_monthly_gender = null;
+let station_weekly_gender = null;
 
 let mainSelectedStation = null;
 
