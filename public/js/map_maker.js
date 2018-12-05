@@ -99,6 +99,9 @@ svgLayer.addTo(myMap);
 // UI configuration & Global SVG handler
 var mapSvg = d3.select('#map').select('svg');
 var stationG = mapSvg.append('g');
+
+
+
 var dots;
 //var dotsEnter;
 //var mapStations;
@@ -208,6 +211,7 @@ function mapInitalizer(station_names, stations) {
     
     
     heatmapLayer.setData(quantifyStationsPattern(station_names, stations, "all", 0));
+
 }
 
 var tooltip = d3.select("body")
