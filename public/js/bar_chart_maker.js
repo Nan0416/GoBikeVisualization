@@ -1,7 +1,7 @@
 
 let barSVGHeight = d3.select('#bar-chart-svg').attr('height');
 let barSVGWidth = d3.select('#bar-chart-svg').attr('width');
-let barSVGPadding = {t: 60, r: 40, b: 30, l: 40};
+let barSVGPadding = {t: 60, r: 40, b: 30, l: 60};
 let barSVGChartWidth = barSVGWidth - barSVGPadding.l - barSVGPadding.r;
 let barSVGChartHeight = barSVGHeight - barSVGPadding.t - barSVGPadding.b;
 let barWidth_ = barSVGChartWidth / 24;
@@ -30,6 +30,10 @@ let barXAxis = d3.axisBottom(barSVGXScale)
 let barSVGXAxis = barSVG.append('g')
     .attr('transform', `translate(${barSVGPadding.l}, ${barSVGPadding.t + barSVGChartHeight})`)
     .attr('class', 'x axis');
+let barIsXTitleOn = false;
+let barXTitle = barSVG.append('g')
+    .attr("transform",`translate(${barSVGPadding.l / 2 - 5},${barSVGPadding.t + barSVGChartHeight / 2 + 20}) rotate(270)`)
+    //.text("Planet Mass (relative to Earth)");
 
 
 
@@ -405,6 +409,9 @@ function barSVGDraw__(name, data, type, duration_ = 200){
     legendItems.append('text')
         .text(d=>d.text)
         .attr("x", 30).attr("y", 14);
+    barXTitle.append('text')
+        .text('#use')
+        .attr('class', 'x-title');
 }
 
 

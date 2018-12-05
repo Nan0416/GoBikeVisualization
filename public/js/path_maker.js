@@ -1,7 +1,7 @@
 
 let lineSVGHeight = d3.select('#line-chart-svg').attr('height');
 let lineSVGWidth = d3.select('#line-chart-svg').attr('width');
-let lineSVGPadding = {t: 60, r: 40, b: 30, l: 40};
+let lineSVGPadding = {t: 60, r: 40, b: 30, l: 60};
 let lineSVGChartWidth = lineSVGWidth - lineSVGPadding.l - lineSVGPadding.r;
 let lineSVGChartHeight = lineSVGHeight - lineSVGPadding.t - lineSVGPadding.b;
 
@@ -24,6 +24,11 @@ let lineXAxis = d3.axisBottom(lineSVGXScale)
 let lineSVGXAxis = lineSVG.append('g')
     .attr('transform', `translate(${lineSVGPadding.l}, ${lineSVGPadding.t + lineSVGChartHeight})`)
     .attr('class', 'x axis');
+let lineIsXTitleOn = false;
+let lineXTitle = lineSVG.append('g')
+    .attr("transform",`translate(${lineSVGPadding.l / 2 - 5},${lineSVGPadding.t + lineSVGChartHeight / 2 + 20}) rotate(270)`)
+    //.text("Planet Mass (relative to Earth)");
+
     
 // setup paths (lines)
 let lineSVGPathG = lineSVG.append('g')
@@ -132,8 +137,10 @@ function lineSVGdraw(name, data, duration_ = 200){
     // draw legend for once.
     if(!lineIsDrawnLegend){
         lineSVGDrawLegend(lineSVGLegend);
+        lineXTitle.append('text').text('#use').attr('class', 'x-title');
         lineIsDrawnLegend = true;
     }
+
 
 }
 
