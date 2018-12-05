@@ -78,7 +78,7 @@ function lineSVGDrawLegend(g){
         .attr('stroke', linePickColor)
         .attr('stroke-width', 2);
     pick.append('text')
-        .text('Pick')
+        .text('Rent')
         .attr("x", 50)             
         .attr("y", 10);
     return_.append('line')

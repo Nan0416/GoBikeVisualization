@@ -217,7 +217,7 @@ function barSVGDraw(name, data, type, duration_ = 200){
                     },
                     {
                         color: barPickColor,
-                        text: "Pick"
+                        text: "Rent"
                     }
                 ]
             );   
@@ -231,7 +231,7 @@ function barSVGDraw(name, data, type, duration_ = 200){
                     },
                     {
                         color: barPickColor,
-                        text: "Net Pick"
+                        text: "Net Rent"
                     }
                 ]
             );
@@ -377,7 +377,7 @@ function barSVGDraw__(name, data, type, duration_ = 200){
                     },
                     {
                         color: barPickColor,
-                        text: "Pick"
+                        text: "Rent"
                     }
                 ]
             );   
@@ -392,7 +392,7 @@ function barSVGDraw__(name, data, type, duration_ = 200){
                     },
                     {
                         color: barPickColor,
-                        text: "Net Pick"
+                        text: "Net Rent"
                     }
                 ]
             );
