@@ -4,6 +4,8 @@ let mainStationNames = [];
 let mainStations = null;
 let station_monthly_gender = null;
 let station_weekly_gender = null;
+let station_monthly_user = null;
+let station_weekly_user = null;
 
 let mainSelectedStation = null;
 
@@ -57,6 +59,24 @@ d3.json('../data/station_weekly_gender.json', (err, dataset)=>{
     station_weekly_gender = dataset;
 });
 
+d3.json('../data/station_monthly_user.json', (err, dataset)=>{
+    if(err){
+        console.log(err);
+        alert("Error: d3 failed to read data.");
+        return;
+    }
+    station_monthly_user = dataset;
+
+});
+
+d3.json('../data/station_weekly_user.json', (err, dataset)=>{
+    if(err){
+        console.log(err);
+        alert("Error: d3 failed to read data.");
+        return;
+    }
+    station_weekly_user = dataset;
+});
 
 /**
  * @param {*} stations 
@@ -71,16 +91,19 @@ function showChart(stations, station_name, division, value, view){
         lineSVGdraw(station_name, stations[station_name].monthly[value]);
         barSVGDraw(station_name, stations[station_name].monthly[value], view);
         pieSVGdraw(station_monthly_gender, station_name, value);
+        pieUserSVGdraw(station_monthly_user, station_name, value);
     }else if(division==="weekly"){
         document.getElementById('text-container').innerHTML = mainWeekName[value];
         lineSVGdraw(station_name, stations[station_name].weekly[value]);
         barSVGDraw(station_name, stations[station_name].weekly[value], view);
         pieSVGdraw(station_monthly_gender, station_name, value);
+        pieUserSVGdraw(station_monthly_user, station_name, value);
     }else{
         document.getElementById('text-container').innerHTML = " ";
         lineSVGdraw(station_name, stations[station_name].total);
         barSVGDraw(station_name, stations[station_name].total, view);
         pieSVGdrawAll();
+        pieUserSVGdrawAll();
     }
 }
 function updateArrows(isVisible){

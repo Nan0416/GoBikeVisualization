@@ -1,0 +1,10396 @@
+{
+  "Mission Dolores Park": [
+    {
+      "subscriber": 1385,
+      "customer": 439
+    },
+    {
+      "subscriber": 1351,
+      "customer": 319
+    },
+    {
+      "subscriber": 1482,
+      "customer": 360
+    },
+    {
+      "subscriber": 1228,
+      "customer": 375
+    },
+    {
+      "subscriber": 1381,
+      "customer": 528
+    },
+    {
+      "subscriber": 1534,
+      "customer": 1029
+    },
+    {
+      "subscriber": 1607,
+      "customer": 886
+    }
+  ],
+  "Webster St at O'Farrell St": [
+    {
+      "subscriber": 1197,
+      "customer": 282
+    },
+    {
+      "subscriber": 1250,
+      "customer": 261
+    },
+    {
+      "subscriber": 1369,
+      "customer": 281
+    },
+    {
+      "subscriber": 1329,
+      "customer": 295
+    },
+    {
+      "subscriber": 1218,
+      "customer": 325
+    },
+    {
+      "subscriber": 1303,
+      "customer": 641
+    },
+    {
+      "subscriber": 1185,
+      "customer": 493
+    }
+  ],
+  "San Francisco Ferry Building (Harry Bridges Plaza)": [
+    {
+      "subscriber": 9220,
+      "customer": 2330
+    },
+    {
+      "subscriber": 10201,
+      "customer": 2178
+    },
+    {
+      "subscriber": 9937,
+      "customer": 2235
+    },
+    {
+      "subscriber": 9598,
+      "customer": 2371
+    },
+    {
+      "subscriber": 8311,
+      "customer": 2863
+    },
+    {
+      "subscriber": 2905,
+      "customer": 4883
+    },
+    {
+      "subscriber": 1991,
+      "customer": 3264
+    }
+  ],
+  "Jackson St at 5th St": [
+    {
+      "subscriber": 253,
+      "customer": 72
+    },
+    {
+      "subscriber": 267,
+      "customer": 66
+    },
+    {
+      "subscriber": 292,
+      "customer": 83
+    },
+    {
+      "subscriber": 287,
+      "customer": 66
+    },
+    {
+      "subscriber": 277,
+      "customer": 81
+    },
+    {
+      "subscriber": 186,
+      "customer": 156
+    },
+    {
+      "subscriber": 184,
+      "customer": 178
+    }
+  ],
+  "5th St at Virginia St": [
+    {
+      "subscriber": 1657,
+      "customer": 30
+    },
+    {
+      "subscriber": 1687,
+      "customer": 37
+    },
+    {
+      "subscriber": 1769,
+      "customer": 42
+    },
+    {
+      "subscriber": 1762,
+      "customer": 32
+    },
+    {
+      "subscriber": 1507,
+      "customer": 55
+    },
+    {
+      "subscriber": 874,
+      "customer": 35
+    },
+    {
+      "subscriber": 772,
+      "customer": 61
+    }
+  ],
+  "Market St at Franklin St": [
+    {
+      "subscriber": 1980,
+      "customer": 266
+    },
+    {
+      "subscriber": 2249,
+      "customer": 223
+    },
+    {
+      "subscriber": 2466,
+      "customer": 289
+    },
+    {
+      "subscriber": 2230,
+      "customer": 298
+    },
+    {
+      "subscriber": 2034,
+      "customer": 295
+    },
+    {
+      "subscriber": 1282,
+      "customer": 498
+    },
+    {
+      "subscriber": 1090,
+      "customer": 377
+    }
+  ],
+  "4th St at Harrison St": [
+    {
+      "subscriber": 2998,
+      "customer": 235
+    },
+    {
+      "subscriber": 3000,
+      "customer": 238
+    },
+    {
+      "subscriber": 3206,
+      "customer": 296
+    },
+    {
+      "subscriber": 2853,
+      "customer": 288
+    },
+    {
+      "subscriber": 2712,
+      "customer": 271
+    },
+    {
+      "subscriber": 1243,
+      "customer": 349
+    },
+    {
+      "subscriber": 1296,
+      "customer": 272
+    }
+  ],
+  "Laguna St at Hayes St": [
+    {
+      "subscriber": 2095,
+      "customer": 380
+    },
+    {
+      "subscriber": 2476,
+      "customer": 339
+    },
+    {
+      "subscriber": 2446,
+      "customer": 426
+    },
+    {
+      "subscriber": 2261,
+      "customer": 382
+    },
+    {
+      "subscriber": 2269,
+      "customer": 506
+    },
+    {
+      "subscriber": 1797,
+      "customer": 918
+    },
+    {
+      "subscriber": 1788,
+      "customer": 792
+    }
+  ],
+  "Post St at Kearny St": [
+    {
+      "subscriber": 4075,
+      "customer": 547
+    },
+    {
+      "subscriber": 4606,
+      "customer": 566
+    },
+    {
+      "subscriber": 4530,
+      "customer": 581
+    },
+    {
+      "subscriber": 4457,
+      "customer": 586
+    },
+    {
+      "subscriber": 3980,
+      "customer": 609
+    },
+    {
+      "subscriber": 1149,
+      "customer": 662
+    },
+    {
+      "subscriber": 768,
+      "customer": 523
+    }
+  ],
+  "Market St at 8th St": [
+    {
+      "subscriber": 179,
+      "customer": 18
+    },
+    {
+      "subscriber": 213,
+      "customer": 12
+    },
+    {
+      "subscriber": 177,
+      "customer": 18
+    },
+    {
+      "subscriber": 195,
+      "customer": 30
+    },
+    {
+      "subscriber": 189,
+      "customer": 7
+    },
+    {
+      "subscriber": 64,
+      "customer": 26
+    },
+    {
+      "subscriber": 51,
+      "customer": 21
+    }
+  ],
+  "West Oakland BART Station": [
+    {
+      "subscriber": 2367,
+      "customer": 218
+    },
+    {
+      "subscriber": 2794,
+      "customer": 246
+    },
+    {
+      "subscriber": 2755,
+      "customer": 238
+    },
+    {
+      "subscriber": 2536,
+      "customer": 224
+    },
+    {
+      "subscriber": 2336,
+      "customer": 260
+    },
+    {
+      "subscriber": 875,
+      "customer": 239
+    },
+    {
+      "subscriber": 733,
+      "customer": 222
+    }
+  ],
+  "17th & Folsom Street Park (17th St at Folsom St)": [
+    {
+      "subscriber": 1031,
+      "customer": 124
+    },
+    {
+      "subscriber": 1282,
+      "customer": 204
+    },
+    {
+      "subscriber": 1215,
+      "customer": 196
+    },
+    {
+      "subscriber": 1143,
+      "customer": 187
+    },
+    {
+      "subscriber": 1092,
+      "customer": 188
+    },
+    {
+      "subscriber": 756,
+      "customer": 227
+    },
+    {
+      "subscriber": 641,
+      "customer": 234
+    }
+  ],
+  "Valencia St at 24th St": [
+    {
+      "subscriber": 3036,
+      "customer": 327
+    },
+    {
+      "subscriber": 3393,
+      "customer": 264
+    },
+    {
+      "subscriber": 3732,
+      "customer": 389
+    },
+    {
+      "subscriber": 3206,
+      "customer": 322
+    },
+    {
+      "subscriber": 3222,
+      "customer": 416
+    },
+    {
+      "subscriber": 2205,
+      "customer": 614
+    },
+    {
+      "subscriber": 1844,
+      "customer": 544
+    }
+  ],
+  "Berry St at 4th St": [
+    {
+      "subscriber": 9190,
+      "customer": 941
+    },
+    {
+      "subscriber": 10108,
+      "customer": 983
+    },
+    {
+      "subscriber": 9724,
+      "customer": 1006
+    },
+    {
+      "subscriber": 9373,
+      "customer": 1020
+    },
+    {
+      "subscriber": 8328,
+      "customer": 991
+    },
+    {
+      "subscriber": 2298,
+      "customer": 875
+    },
+    {
+      "subscriber": 2168,
+      "customer": 712
+    }
+  ],
+  "4th St at Mission Bay Blvd S": [
+    {
+      "subscriber": 4728,
+      "customer": 596
+    },
+    {
+      "subscriber": 5023,
+      "customer": 644
+    },
+    {
+      "subscriber": 5039,
+      "customer": 674
+    },
+    {
+      "subscriber": 5016,
+      "customer": 718
+    },
+    {
+      "subscriber": 4610,
+      "customer": 758
+    },
+    {
+      "subscriber": 1689,
+      "customer": 711
+    },
+    {
+      "subscriber": 1453,
+      "customer": 564
+    }
+  ],
+  "Cyril Magnin St at Ellis St": [
+    {
+      "subscriber": 1016,
+      "customer": 381
+    },
+    {
+      "subscriber": 1102,
+      "customer": 349
+    },
+    {
+      "subscriber": 1183,
+      "customer": 392
+    },
+    {
+      "subscriber": 1069,
+      "customer": 371
+    },
+    {
+      "subscriber": 1072,
+      "customer": 514
+    },
+    {
+      "subscriber": 841,
+      "customer": 718
+    },
+    {
+      "subscriber": 679,
+      "customer": 644
+    }
+  ],
+  "Ryland Park": [
+    {
+      "subscriber": 1155,
+      "customer": 27
+    },
+    {
+      "subscriber": 1224,
+      "customer": 22
+    },
+    {
+      "subscriber": 1229,
+      "customer": 19
+    },
+    {
+      "subscriber": 1206,
+      "customer": 8
+    },
+    {
+      "subscriber": 1087,
+      "customer": 26
+    },
+    {
+      "subscriber": 957,
+      "customer": 45
+    },
+    {
+      "subscriber": 952,
+      "customer": 57
+    }
+  ],
+  "San Salvador St at 9th St": [
+    {
+      "subscriber": 1004,
+      "customer": 36
+    },
+    {
+      "subscriber": 1071,
+      "customer": 30
+    },
+    {
+      "subscriber": 1117,
+      "customer": 35
+    },
+    {
+      "subscriber": 1023,
+      "customer": 42
+    },
+    {
+      "subscriber": 1096,
+      "customer": 50
+    },
+    {
+      "subscriber": 774,
+      "customer": 65
+    },
+    {
+      "subscriber": 871,
+      "customer": 85
+    }
+  ],
+  "Valencia St at 16th St": [
+    {
+      "subscriber": 2459,
+      "customer": 379
+    },
+    {
+      "subscriber": 2659,
+      "customer": 316
+    },
+    {
+      "subscriber": 2659,
+      "customer": 384
+    },
+    {
+      "subscriber": 2780,
+      "customer": 381
+    },
+    {
+      "subscriber": 2623,
+      "customer": 464
+    },
+    {
+      "subscriber": 2222,
+      "customer": 795
+    },
+    {
+      "subscriber": 2051,
+      "customer": 631
+    }
+  ],
+  "Division St at Potrero Ave": [
+    {
+      "subscriber": 3274,
+      "customer": 267
+    },
+    {
+      "subscriber": 3462,
+      "customer": 313
+    },
+    {
+      "subscriber": 3175,
+      "customer": 290
+    },
+    {
+      "subscriber": 2962,
+      "customer": 314
+    },
+    {
+      "subscriber": 2849,
+      "customer": 279
+    },
+    {
+      "subscriber": 1326,
+      "customer": 179
+    },
+    {
+      "subscriber": 1052,
+      "customer": 140
+    }
+  ],
+  "San Francisco Public Library (Grove St at Hyde St)": [
+    {
+      "subscriber": 2666,
+      "customer": 236
+    },
+    {
+      "subscriber": 3359,
+      "customer": 354
+    },
+    {
+      "subscriber": 3440,
+      "customer": 292
+    },
+    {
+      "subscriber": 3130,
+      "customer": 317
+    },
+    {
+      "subscriber": 2493,
+      "customer": 258
+    },
+    {
+      "subscriber": 1080,
+      "customer": 438
+    },
+    {
+      "subscriber": 1192,
+      "customer": 391
+    }
+  ],
+  "16th St Mission BART Station 2": [
+    {
+      "subscriber": 2333,
+      "customer": 168
+    },
+    {
+      "subscriber": 2680,
+      "customer": 192
+    },
+    {
+      "subscriber": 2692,
+      "customer": 196
+    },
+    {
+      "subscriber": 2390,
+      "customer": 185
+    },
+    {
+      "subscriber": 2150,
+      "customer": 192
+    },
+    {
+      "subscriber": 901,
+      "customer": 232
+    },
+    {
+      "subscriber": 847,
+      "customer": 186
+    }
+  ],
+  "Market St at Dolores St": [
+    {
+      "subscriber": 1580,
+      "customer": 223
+    },
+    {
+      "subscriber": 1736,
+      "customer": 198
+    },
+    {
+      "subscriber": 1637,
+      "customer": 238
+    },
+    {
+      "subscriber": 1622,
+      "customer": 323
+    },
+    {
+      "subscriber": 1713,
+      "customer": 362
+    },
+    {
+      "subscriber": 1823,
+      "customer": 528
+    },
+    {
+      "subscriber": 1780,
+      "customer": 495
+    }
+  ],
+  "San Pedro Square": [
+    {
+      "subscriber": 620,
+      "customer": 86
+    },
+    {
+      "subscriber": 662,
+      "customer": 86
+    },
+    {
+      "subscriber": 771,
+      "customer": 144
+    },
+    {
+      "subscriber": 708,
+      "customer": 81
+    },
+    {
+      "subscriber": 733,
+      "customer": 147
+    },
+    {
+      "subscriber": 453,
+      "customer": 276
+    },
+    {
+      "subscriber": 346,
+      "customer": 228
+    }
+  ],
+  "Locust St at Grant St": [
+    {
+      "subscriber": 138,
+      "customer": 3
+    },
+    {
+      "subscriber": 202,
+      "customer": 4
+    },
+    {
+      "subscriber": 215,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 124,
+      "customer": 6
+    },
+    {
+      "subscriber": 107,
+      "customer": 11
+    },
+    {
+      "subscriber": 93,
+      "customer": 7
+    },
+    {
+      "subscriber": 50,
+      "customer": 16
+    }
+  ],
+  "Frank H Ogawa Plaza": [
+    {
+      "subscriber": 2140,
+      "customer": 245
+    },
+    {
+      "subscriber": 2576,
+      "customer": 283
+    },
+    {
+      "subscriber": 2553,
+      "customer": 229
+    },
+    {
+      "subscriber": 2396,
+      "customer": 313
+    },
+    {
+      "subscriber": 2126,
+      "customer": 336
+    },
+    {
+      "subscriber": 860,
+      "customer": 257
+    },
+    {
+      "subscriber": 632,
+      "customer": 178
+    }
+  ],
+  "Lakeside Dr at 14th St": [
+    {
+      "subscriber": 1153,
+      "customer": 243
+    },
+    {
+      "subscriber": 1285,
+      "customer": 223
+    },
+    {
+      "subscriber": 1234,
+      "customer": 190
+    },
+    {
+      "subscriber": 1141,
+      "customer": 216
+    },
+    {
+      "subscriber": 1130,
+      "customer": 256
+    },
+    {
+      "subscriber": 924,
+      "customer": 486
+    },
+    {
+      "subscriber": 821,
+      "customer": 491
+    }
+  ],
+  "McCoppin St at Valencia St": [
+    {
+      "subscriber": 1935,
+      "customer": 189
+    },
+    {
+      "subscriber": 2287,
+      "customer": 214
+    },
+    {
+      "subscriber": 2119,
+      "customer": 226
+    },
+    {
+      "subscriber": 2063,
+      "customer": 228
+    },
+    {
+      "subscriber": 1904,
+      "customer": 229
+    },
+    {
+      "subscriber": 1121,
+      "customer": 363
+    },
+    {
+      "subscriber": 955,
+      "customer": 311
+    }
+  ],
+  "San Francisco Caltrain Station 2  (Townsend St at 4th St)": [
+    {
+      "subscriber": 12576,
+      "customer": 980
+    },
+    {
+      "subscriber": 14170,
+      "customer": 1160
+    },
+    {
+      "subscriber": 13849,
+      "customer": 1235
+    },
+    {
+      "subscriber": 13400,
+      "customer": 1235
+    },
+    {
+      "subscriber": 10564,
+      "customer": 1066
+    },
+    {
+      "subscriber": 1501,
+      "customer": 542
+    },
+    {
+      "subscriber": 1384,
+      "customer": 466
+    }
+  ],
+  "Townsend St at 5th St": [
+    {
+      "subscriber": 3194,
+      "customer": 258
+    },
+    {
+      "subscriber": 2980,
+      "customer": 322
+    },
+    {
+      "subscriber": 2821,
+      "customer": 284
+    },
+    {
+      "subscriber": 2676,
+      "customer": 309
+    },
+    {
+      "subscriber": 2413,
+      "customer": 318
+    },
+    {
+      "subscriber": 477,
+      "customer": 169
+    },
+    {
+      "subscriber": 427,
+      "customer": 129
+    }
+  ],
+  "Folsom St at 9th St": [
+    {
+      "subscriber": 1848,
+      "customer": 180
+    },
+    {
+      "subscriber": 2203,
+      "customer": 224
+    },
+    {
+      "subscriber": 2155,
+      "customer": 230
+    },
+    {
+      "subscriber": 2241,
+      "customer": 230
+    },
+    {
+      "subscriber": 1759,
+      "customer": 220
+    },
+    {
+      "subscriber": 895,
+      "customer": 220
+    },
+    {
+      "subscriber": 809,
+      "customer": 194
+    }
+  ],
+  "Fulton St at Bancroft Way": [
+    {
+      "subscriber": 1032,
+      "customer": 90
+    },
+    {
+      "subscriber": 948,
+      "customer": 81
+    },
+    {
+      "subscriber": 1053,
+      "customer": 95
+    },
+    {
+      "subscriber": 929,
+      "customer": 124
+    },
+    {
+      "subscriber": 887,
+      "customer": 122
+    },
+    {
+      "subscriber": 616,
+      "customer": 187
+    },
+    {
+      "subscriber": 618,
+      "customer": 124
+    }
+  ],
+  "Oregon St at Adeline St": [
+    {
+      "subscriber": 941,
+      "customer": 108
+    },
+    {
+      "subscriber": 860,
+      "customer": 90
+    },
+    {
+      "subscriber": 887,
+      "customer": 100
+    },
+    {
+      "subscriber": 833,
+      "customer": 102
+    },
+    {
+      "subscriber": 814,
+      "customer": 138
+    },
+    {
+      "subscriber": 834,
+      "customer": 139
+    },
+    {
+      "subscriber": 796,
+      "customer": 144
+    }
+  ],
+  "San Jose Diridon Station": [
+    {
+      "subscriber": 1948,
+      "customer": 123
+    },
+    {
+      "subscriber": 1865,
+      "customer": 108
+    },
+    {
+      "subscriber": 1961,
+      "customer": 136
+    },
+    {
+      "subscriber": 1788,
+      "customer": 123
+    },
+    {
+      "subscriber": 1446,
+      "customer": 123
+    },
+    {
+      "subscriber": 233,
+      "customer": 79
+    },
+    {
+      "subscriber": 197,
+      "customer": 87
+    }
+  ],
+  "Ashby BART Station": [
+    {
+      "subscriber": 2065,
+      "customer": 176
+    },
+    {
+      "subscriber": 2414,
+      "customer": 159
+    },
+    {
+      "subscriber": 2289,
+      "customer": 147
+    },
+    {
+      "subscriber": 2198,
+      "customer": 179
+    },
+    {
+      "subscriber": 2015,
+      "customer": 215
+    },
+    {
+      "subscriber": 730,
+      "customer": 215
+    },
+    {
+      "subscriber": 487,
+      "customer": 158
+    }
+  ],
+  "65th St at Hollis St": [
+    {
+      "subscriber": 629,
+      "customer": 109
+    },
+    {
+      "subscriber": 636,
+      "customer": 88
+    },
+    {
+      "subscriber": 683,
+      "customer": 101
+    },
+    {
+      "subscriber": 631,
+      "customer": 121
+    },
+    {
+      "subscriber": 569,
+      "customer": 128
+    },
+    {
+      "subscriber": 345,
+      "customer": 195
+    },
+    {
+      "subscriber": 366,
+      "customer": 165
+    }
+  ],
+  "Bancroft Way at Telegraph Ave": [
+    {
+      "subscriber": 2552,
+      "customer": 270
+    },
+    {
+      "subscriber": 2803,
+      "customer": 291
+    },
+    {
+      "subscriber": 2863,
+      "customer": 240
+    },
+    {
+      "subscriber": 2626,
+      "customer": 281
+    },
+    {
+      "subscriber": 2432,
+      "customer": 264
+    },
+    {
+      "subscriber": 1335,
+      "customer": 453
+    },
+    {
+      "subscriber": 1335,
+      "customer": 444
+    }
+  ],
+  "Shattuck Ave at Hearst Ave": [
+    {
+      "subscriber": 584,
+      "customer": 79
+    },
+    {
+      "subscriber": 642,
+      "customer": 95
+    },
+    {
+      "subscriber": 673,
+      "customer": 105
+    },
+    {
+      "subscriber": 586,
+      "customer": 102
+    },
+    {
+      "subscriber": 561,
+      "customer": 142
+    },
+    {
+      "subscriber": 380,
+      "customer": 147
+    },
+    {
+      "subscriber": 396,
+      "customer": 135
+    }
+  ],
+  "19th Street BART Station": [
+    {
+      "subscriber": 5010,
+      "customer": 350
+    },
+    {
+      "subscriber": 5317,
+      "customer": 333
+    },
+    {
+      "subscriber": 5487,
+      "customer": 350
+    },
+    {
+      "subscriber": 5325,
+      "customer": 396
+    },
+    {
+      "subscriber": 4715,
+      "customer": 421
+    },
+    {
+      "subscriber": 1424,
+      "customer": 304
+    },
+    {
+      "subscriber": 1181,
+      "customer": 248
+    }
+  ],
+  "Telegraph Ave at 19th St": [
+    {
+      "subscriber": 1604,
+      "customer": 163
+    },
+    {
+      "subscriber": 1719,
+      "customer": 210
+    },
+    {
+      "subscriber": 1628,
+      "customer": 188
+    },
+    {
+      "subscriber": 1555,
+      "customer": 179
+    },
+    {
+      "subscriber": 1391,
+      "customer": 307
+    },
+    {
+      "subscriber": 953,
+      "customer": 364
+    },
+    {
+      "subscriber": 883,
+      "customer": 281
+    }
+  ],
+  "18th St at Noe St": [
+    {
+      "subscriber": 1105,
+      "customer": 195
+    },
+    {
+      "subscriber": 1296,
+      "customer": 224
+    },
+    {
+      "subscriber": 1229,
+      "customer": 231
+    },
+    {
+      "subscriber": 1186,
+      "customer": 253
+    },
+    {
+      "subscriber": 1228,
+      "customer": 264
+    },
+    {
+      "subscriber": 1093,
+      "customer": 426
+    },
+    {
+      "subscriber": 1117,
+      "customer": 409
+    }
+  ],
+  "MacArthur BART Station": [
+    {
+      "subscriber": 3777,
+      "customer": 362
+    },
+    {
+      "subscriber": 4404,
+      "customer": 366
+    },
+    {
+      "subscriber": 4194,
+      "customer": 358
+    },
+    {
+      "subscriber": 4040,
+      "customer": 390
+    },
+    {
+      "subscriber": 3489,
+      "customer": 397
+    },
+    {
+      "subscriber": 1097,
+      "customer": 260
+    },
+    {
+      "subscriber": 856,
+      "customer": 189
+    }
+  ],
+  "Genoa St at 55th St": [
+    {
+      "subscriber": 835,
+      "customer": 90
+    },
+    {
+      "subscriber": 972,
+      "customer": 88
+    },
+    {
+      "subscriber": 888,
+      "customer": 93
+    },
+    {
+      "subscriber": 875,
+      "customer": 74
+    },
+    {
+      "subscriber": 867,
+      "customer": 107
+    },
+    {
+      "subscriber": 594,
+      "customer": 107
+    },
+    {
+      "subscriber": 484,
+      "customer": 86
+    }
+  ],
+  "Folsom St at 19th St": [
+    {
+      "subscriber": 1494,
+      "customer": 184
+    },
+    {
+      "subscriber": 1713,
+      "customer": 190
+    },
+    {
+      "subscriber": 1820,
+      "customer": 227
+    },
+    {
+      "subscriber": 1661,
+      "customer": 237
+    },
+    {
+      "subscriber": 1504,
+      "customer": 282
+    },
+    {
+      "subscriber": 794,
+      "customer": 277
+    },
+    {
+      "subscriber": 621,
+      "customer": 225
+    }
+  ],
+  "29th St at Church St": [
+    {
+      "subscriber": 931,
+      "customer": 89
+    },
+    {
+      "subscriber": 1080,
+      "customer": 66
+    },
+    {
+      "subscriber": 1192,
+      "customer": 97
+    },
+    {
+      "subscriber": 1089,
+      "customer": 89
+    },
+    {
+      "subscriber": 1020,
+      "customer": 114
+    },
+    {
+      "subscriber": 656,
+      "customer": 144
+    },
+    {
+      "subscriber": 559,
+      "customer": 136
+    }
+  ],
+  "Valencia St at 22nd St": [
+    {
+      "subscriber": 1371,
+      "customer": 228
+    },
+    {
+      "subscriber": 1691,
+      "customer": 235
+    },
+    {
+      "subscriber": 1706,
+      "customer": 265
+    },
+    {
+      "subscriber": 1543,
+      "customer": 254
+    },
+    {
+      "subscriber": 1484,
+      "customer": 265
+    },
+    {
+      "subscriber": 1396,
+      "customer": 402
+    },
+    {
+      "subscriber": 1199,
+      "customer": 403
+    }
+  ],
+  "Parker St at Fulton St": [
+    {
+      "subscriber": 1490,
+      "customer": 118
+    },
+    {
+      "subscriber": 1635,
+      "customer": 122
+    },
+    {
+      "subscriber": 1630,
+      "customer": 104
+    },
+    {
+      "subscriber": 1582,
+      "customer": 105
+    },
+    {
+      "subscriber": 1436,
+      "customer": 136
+    },
+    {
+      "subscriber": 1109,
+      "customer": 186
+    },
+    {
+      "subscriber": 1043,
+      "customer": 176
+    }
+  ],
+  "Washington St at 8th St": [
+    {
+      "subscriber": 671,
+      "customer": 126
+    },
+    {
+      "subscriber": 755,
+      "customer": 143
+    },
+    {
+      "subscriber": 716,
+      "customer": 109
+    },
+    {
+      "subscriber": 747,
+      "customer": 86
+    },
+    {
+      "subscriber": 942,
+      "customer": 141
+    },
+    {
+      "subscriber": 504,
+      "customer": 227
+    },
+    {
+      "subscriber": 357,
+      "customer": 201
+    }
+  ],
+  "Bay Pl at Vernon St": [
+    {
+      "subscriber": 2146,
+      "customer": 156
+    },
+    {
+      "subscriber": 2274,
+      "customer": 144
+    },
+    {
+      "subscriber": 2285,
+      "customer": 169
+    },
+    {
+      "subscriber": 2057,
+      "customer": 139
+    },
+    {
+      "subscriber": 1991,
+      "customer": 209
+    },
+    {
+      "subscriber": 1409,
+      "customer": 283
+    },
+    {
+      "subscriber": 1229,
+      "customer": 302
+    }
+  ],
+  "Valencia St at Cesar Chavez St": [
+    {
+      "subscriber": 1516,
+      "customer": 187
+    },
+    {
+      "subscriber": 1752,
+      "customer": 160
+    },
+    {
+      "subscriber": 1682,
+      "customer": 172
+    },
+    {
+      "subscriber": 1637,
+      "customer": 200
+    },
+    {
+      "subscriber": 1621,
+      "customer": 223
+    },
+    {
+      "subscriber": 1035,
+      "customer": 259
+    },
+    {
+      "subscriber": 822,
+      "customer": 229
+    }
+  ],
+  "7th St at Brannan St": [
+    {
+      "subscriber": 2162,
+      "customer": 247
+    },
+    {
+      "subscriber": 2472,
+      "customer": 216
+    },
+    {
+      "subscriber": 2293,
+      "customer": 232
+    },
+    {
+      "subscriber": 2349,
+      "customer": 233
+    },
+    {
+      "subscriber": 2128,
+      "customer": 244
+    },
+    {
+      "subscriber": 656,
+      "customer": 191
+    },
+    {
+      "subscriber": 617,
+      "customer": 150
+    }
+  ],
+  "The Embarcadero at Sansome St": [
+    {
+      "subscriber": 6759,
+      "customer": 2874
+    },
+    {
+      "subscriber": 7081,
+      "customer": 2527
+    },
+    {
+      "subscriber": 7286,
+      "customer": 2663
+    },
+    {
+      "subscriber": 6848,
+      "customer": 2727
+    },
+    {
+      "subscriber": 6005,
+      "customer": 3677
+    },
+    {
+      "subscriber": 2476,
+      "customer": 5953
+    },
+    {
+      "subscriber": 2076,
+      "customer": 4911
+    }
+  ],
+  "Rhode Island St at 17th St": [
+    {
+      "subscriber": 2815,
+      "customer": 246
+    },
+    {
+      "subscriber": 3175,
+      "customer": 301
+    },
+    {
+      "subscriber": 3208,
+      "customer": 309
+    },
+    {
+      "subscriber": 2935,
+      "customer": 305
+    },
+    {
+      "subscriber": 2630,
+      "customer": 325
+    },
+    {
+      "subscriber": 1398,
+      "customer": 382
+    },
+    {
+      "subscriber": 1266,
+      "customer": 340
+    }
+  ],
+  "San Francisco Caltrain (Townsend St at 4th St)": [
+    {
+      "subscriber": 11725,
+      "customer": 933
+    },
+    {
+      "subscriber": 13104,
+      "customer": 1082
+    },
+    {
+      "subscriber": 12379,
+      "customer": 1137
+    },
+    {
+      "subscriber": 12081,
+      "customer": 1160
+    },
+    {
+      "subscriber": 9942,
+      "customer": 1058
+    },
+    {
+      "subscriber": 1080,
+      "customer": 594
+    },
+    {
+      "subscriber": 882,
+      "customer": 460
+    }
+  ],
+  "Folsom St at 15th St": [
+    {
+      "subscriber": 1307,
+      "customer": 135
+    },
+    {
+      "subscriber": 1436,
+      "customer": 158
+    },
+    {
+      "subscriber": 1416,
+      "customer": 137
+    },
+    {
+      "subscriber": 1271,
+      "customer": 166
+    },
+    {
+      "subscriber": 1255,
+      "customer": 148
+    },
+    {
+      "subscriber": 993,
+      "customer": 261
+    },
+    {
+      "subscriber": 926,
+      "customer": 201
+    }
+  ],
+  "19th St at Florida St": [
+    {
+      "subscriber": 1360,
+      "customer": 132
+    },
+    {
+      "subscriber": 1475,
+      "customer": 110
+    },
+    {
+      "subscriber": 1519,
+      "customer": 163
+    },
+    {
+      "subscriber": 1368,
+      "customer": 156
+    },
+    {
+      "subscriber": 1259,
+      "customer": 135
+    },
+    {
+      "subscriber": 653,
+      "customer": 258
+    },
+    {
+      "subscriber": 555,
+      "customer": 226
+    }
+  ],
+  "Sanchez St at 17th St": [
+    {
+      "subscriber": 553,
+      "customer": 81
+    },
+    {
+      "subscriber": 700,
+      "customer": 68
+    },
+    {
+      "subscriber": 645,
+      "customer": 68
+    },
+    {
+      "subscriber": 757,
+      "customer": 87
+    },
+    {
+      "subscriber": 710,
+      "customer": 92
+    },
+    {
+      "subscriber": 490,
+      "customer": 180
+    },
+    {
+      "subscriber": 464,
+      "customer": 171
+    }
+  ],
+  "Civic Center/UN Plaza BART Station (Market St at McAllister St)": [
+    {
+      "subscriber": 4147,
+      "customer": 600
+    },
+    {
+      "subscriber": 4905,
+      "customer": 670
+    },
+    {
+      "subscriber": 4845,
+      "customer": 697
+    },
+    {
+      "subscriber": 4635,
+      "customer": 701
+    },
+    {
+      "subscriber": 4636,
+      "customer": 697
+    },
+    {
+      "subscriber": 1833,
+      "customer": 918
+    },
+    {
+      "subscriber": 1645,
+      "customer": 770
+    }
+  ],
+  "Precita Park": [
+    {
+      "subscriber": 990,
+      "customer": 164
+    },
+    {
+      "subscriber": 1099,
+      "customer": 181
+    },
+    {
+      "subscriber": 1160,
+      "customer": 188
+    },
+    {
+      "subscriber": 1010,
+      "customer": 142
+    },
+    {
+      "subscriber": 987,
+      "customer": 219
+    },
+    {
+      "subscriber": 710,
+      "customer": 300
+    },
+    {
+      "subscriber": 668,
+      "customer": 265
+    }
+  ],
+  "Sanchez St at 15th St": [
+    {
+      "subscriber": 1094,
+      "customer": 201
+    },
+    {
+      "subscriber": 1333,
+      "customer": 182
+    },
+    {
+      "subscriber": 1481,
+      "customer": 250
+    },
+    {
+      "subscriber": 1325,
+      "customer": 199
+    },
+    {
+      "subscriber": 1322,
+      "customer": 228
+    },
+    {
+      "subscriber": 1127,
+      "customer": 359
+    },
+    {
+      "subscriber": 1070,
+      "customer": 321
+    }
+  ],
+  "S Van Ness Ave at Market St": [
+    {
+      "subscriber": 2789,
+      "customer": 187
+    },
+    {
+      "subscriber": 3185,
+      "customer": 207
+    },
+    {
+      "subscriber": 3215,
+      "customer": 216
+    },
+    {
+      "subscriber": 3217,
+      "customer": 210
+    },
+    {
+      "subscriber": 2843,
+      "customer": 295
+    },
+    {
+      "subscriber": 719,
+      "customer": 181
+    },
+    {
+      "subscriber": 700,
+      "customer": 219
+    }
+  ],
+  "14th St at Mandela Pkwy": [
+    {
+      "subscriber": 766,
+      "customer": 59
+    },
+    {
+      "subscriber": 842,
+      "customer": 76
+    },
+    {
+      "subscriber": 912,
+      "customer": 65
+    },
+    {
+      "subscriber": 784,
+      "customer": 83
+    },
+    {
+      "subscriber": 667,
+      "customer": 71
+    },
+    {
+      "subscriber": 313,
+      "customer": 71
+    },
+    {
+      "subscriber": 327,
+      "customer": 102
+    }
+  ],
+  "24th St at Market St": [
+    {
+      "subscriber": 439,
+      "customer": 25
+    },
+    {
+      "subscriber": 420,
+      "customer": 47
+    },
+    {
+      "subscriber": 469,
+      "customer": 26
+    },
+    {
+      "subscriber": 428,
+      "customer": 24
+    },
+    {
+      "subscriber": 427,
+      "customer": 31
+    },
+    {
+      "subscriber": 303,
+      "customer": 32
+    },
+    {
+      "subscriber": 283,
+      "customer": 55
+    }
+  ],
+  "Market St at 10th St": [
+    {
+      "subscriber": 8421,
+      "customer": 862
+    },
+    {
+      "subscriber": 9600,
+      "customer": 1001
+    },
+    {
+      "subscriber": 9524,
+      "customer": 1062
+    },
+    {
+      "subscriber": 8873,
+      "customer": 916
+    },
+    {
+      "subscriber": 8469,
+      "customer": 1150
+    },
+    {
+      "subscriber": 3426,
+      "customer": 1111
+    },
+    {
+      "subscriber": 3058,
+      "customer": 879
+    }
+  ],
+  "Howard St at 8th St": [
+    {
+      "subscriber": 2702,
+      "customer": 380
+    },
+    {
+      "subscriber": 3179,
+      "customer": 463
+    },
+    {
+      "subscriber": 3128,
+      "customer": 459
+    },
+    {
+      "subscriber": 3137,
+      "customer": 510
+    },
+    {
+      "subscriber": 2967,
+      "customer": 524
+    },
+    {
+      "subscriber": 1428,
+      "customer": 534
+    },
+    {
+      "subscriber": 1204,
+      "customer": 482
+    }
+  ],
+  "Golden Gate Ave at Polk St": [
+    {
+      "subscriber": 2679,
+      "customer": 321
+    },
+    {
+      "subscriber": 2895,
+      "customer": 367
+    },
+    {
+      "subscriber": 3022,
+      "customer": 395
+    },
+    {
+      "subscriber": 2938,
+      "customer": 391
+    },
+    {
+      "subscriber": 2731,
+      "customer": 494
+    },
+    {
+      "subscriber": 1693,
+      "customer": 676
+    },
+    {
+      "subscriber": 1367,
+      "customer": 520
+    }
+  ],
+  "The Embarcadero at Bryant St": [
+    {
+      "subscriber": 2641,
+      "customer": 480
+    },
+    {
+      "subscriber": 2905,
+      "customer": 535
+    },
+    {
+      "subscriber": 2891,
+      "customer": 491
+    },
+    {
+      "subscriber": 2860,
+      "customer": 539
+    },
+    {
+      "subscriber": 2518,
+      "customer": 799
+    },
+    {
+      "subscriber": 1108,
+      "customer": 1004
+    },
+    {
+      "subscriber": 994,
+      "customer": 787
+    }
+  ],
+  "29th St at Tiffany Ave": [
+    {
+      "subscriber": 1140,
+      "customer": 118
+    },
+    {
+      "subscriber": 1354,
+      "customer": 120
+    },
+    {
+      "subscriber": 1407,
+      "customer": 137
+    },
+    {
+      "subscriber": 1258,
+      "customer": 139
+    },
+    {
+      "subscriber": 1169,
+      "customer": 149
+    },
+    {
+      "subscriber": 800,
+      "customer": 171
+    },
+    {
+      "subscriber": 715,
+      "customer": 207
+    }
+  ],
+  "Washington St at Kearny St": [
+    {
+      "subscriber": 1506,
+      "customer": 509
+    },
+    {
+      "subscriber": 1535,
+      "customer": 457
+    },
+    {
+      "subscriber": 1627,
+      "customer": 469
+    },
+    {
+      "subscriber": 1487,
+      "customer": 441
+    },
+    {
+      "subscriber": 1392,
+      "customer": 623
+    },
+    {
+      "subscriber": 1003,
+      "customer": 921
+    },
+    {
+      "subscriber": 910,
+      "customer": 812
+    }
+  ],
+  "San Francisco City Hall (Polk St at Grove St)": [
+    {
+      "subscriber": 1344,
+      "customer": 299
+    },
+    {
+      "subscriber": 1844,
+      "customer": 293
+    },
+    {
+      "subscriber": 1765,
+      "customer": 301
+    },
+    {
+      "subscriber": 1837,
+      "customer": 286
+    },
+    {
+      "subscriber": 1659,
+      "customer": 339
+    },
+    {
+      "subscriber": 712,
+      "customer": 456
+    },
+    {
+      "subscriber": 688,
+      "customer": 439
+    }
+  ],
+  "13th St at Franklin St": [
+    {
+      "subscriber": 639,
+      "customer": 72
+    },
+    {
+      "subscriber": 713,
+      "customer": 120
+    },
+    {
+      "subscriber": 644,
+      "customer": 97
+    },
+    {
+      "subscriber": 646,
+      "customer": 83
+    },
+    {
+      "subscriber": 698,
+      "customer": 91
+    },
+    {
+      "subscriber": 320,
+      "customer": 104
+    },
+    {
+      "subscriber": 173,
+      "customer": 58
+    }
+  ],
+  "2nd Ave at E 18th St": [
+    {
+      "subscriber": 1987,
+      "customer": 236
+    },
+    {
+      "subscriber": 2261,
+      "customer": 210
+    },
+    {
+      "subscriber": 2181,
+      "customer": 240
+    },
+    {
+      "subscriber": 1981,
+      "customer": 276
+    },
+    {
+      "subscriber": 1924,
+      "customer": 316
+    },
+    {
+      "subscriber": 1288,
+      "customer": 397
+    },
+    {
+      "subscriber": 1095,
+      "customer": 441
+    }
+  ],
+  "Commercial St at Montgomery St": [
+    {
+      "subscriber": 2135,
+      "customer": 294
+    },
+    {
+      "subscriber": 2568,
+      "customer": 278
+    },
+    {
+      "subscriber": 2578,
+      "customer": 296
+    },
+    {
+      "subscriber": 2555,
+      "customer": 294
+    },
+    {
+      "subscriber": 2233,
+      "customer": 327
+    },
+    {
+      "subscriber": 360,
+      "customer": 298
+    },
+    {
+      "subscriber": 384,
+      "customer": 232
+    }
+  ],
+  "Broadway at Battery St": [
+    {
+      "subscriber": 2412,
+      "customer": 341
+    },
+    {
+      "subscriber": 2748,
+      "customer": 324
+    },
+    {
+      "subscriber": 2897,
+      "customer": 390
+    },
+    {
+      "subscriber": 2713,
+      "customer": 364
+    },
+    {
+      "subscriber": 2381,
+      "customer": 420
+    },
+    {
+      "subscriber": 375,
+      "customer": 610
+    },
+    {
+      "subscriber": 341,
+      "customer": 468
+    }
+  ],
+  "30th St at San Jose Ave": [
+    {
+      "subscriber": 522,
+      "customer": 94
+    },
+    {
+      "subscriber": 541,
+      "customer": 86
+    },
+    {
+      "subscriber": 555,
+      "customer": 97
+    },
+    {
+      "subscriber": 552,
+      "customer": 106
+    },
+    {
+      "subscriber": 540,
+      "customer": 100
+    },
+    {
+      "subscriber": 375,
+      "customer": 141
+    },
+    {
+      "subscriber": 376,
+      "customer": 127
+    }
+  ],
+  "11th St at Natoma St": [
+    {
+      "subscriber": 2036,
+      "customer": 217
+    },
+    {
+      "subscriber": 2390,
+      "customer": 259
+    },
+    {
+      "subscriber": 2400,
+      "customer": 239
+    },
+    {
+      "subscriber": 2221,
+      "customer": 276
+    },
+    {
+      "subscriber": 2222,
+      "customer": 298
+    },
+    {
+      "subscriber": 720,
+      "customer": 172
+    },
+    {
+      "subscriber": 616,
+      "customer": 213
+    }
+  ],
+  "Church St at Duboce Ave": [
+    {
+      "subscriber": 1140,
+      "customer": 124
+    },
+    {
+      "subscriber": 1256,
+      "customer": 130
+    },
+    {
+      "subscriber": 1233,
+      "customer": 146
+    },
+    {
+      "subscriber": 1209,
+      "customer": 168
+    },
+    {
+      "subscriber": 1052,
+      "customer": 134
+    },
+    {
+      "subscriber": 975,
+      "customer": 201
+    },
+    {
+      "subscriber": 879,
+      "customer": 188
+    }
+  ],
+  "Dolores St at 15th St": [
+    {
+      "subscriber": 1271,
+      "customer": 120
+    },
+    {
+      "subscriber": 1392,
+      "customer": 139
+    },
+    {
+      "subscriber": 1469,
+      "customer": 152
+    },
+    {
+      "subscriber": 1400,
+      "customer": 126
+    },
+    {
+      "subscriber": 1268,
+      "customer": 181
+    },
+    {
+      "subscriber": 991,
+      "customer": 280
+    },
+    {
+      "subscriber": 917,
+      "customer": 256
+    }
+  ],
+  "Victoria Manalo Draves Park": [
+    {
+      "subscriber": 2034,
+      "customer": 200
+    },
+    {
+      "subscriber": 2438,
+      "customer": 245
+    },
+    {
+      "subscriber": 2386,
+      "customer": 243
+    },
+    {
+      "subscriber": 2310,
+      "customer": 234
+    },
+    {
+      "subscriber": 2217,
+      "customer": 255
+    },
+    {
+      "subscriber": 1418,
+      "customer": 287
+    },
+    {
+      "subscriber": 1290,
+      "customer": 235
+    }
+  ],
+  "1st St at Folsom St": [
+    {
+      "subscriber": 1706,
+      "customer": 139
+    },
+    {
+      "subscriber": 1960,
+      "customer": 189
+    },
+    {
+      "subscriber": 1838,
+      "customer": 187
+    },
+    {
+      "subscriber": 1801,
+      "customer": 233
+    },
+    {
+      "subscriber": 1562,
+      "customer": 189
+    },
+    {
+      "subscriber": 854,
+      "customer": 263
+    },
+    {
+      "subscriber": 688,
+      "customer": 222
+    }
+  ],
+  "Telegraph Ave at 27th St": [
+    {
+      "subscriber": 1147,
+      "customer": 97
+    },
+    {
+      "subscriber": 1274,
+      "customer": 90
+    },
+    {
+      "subscriber": 1174,
+      "customer": 97
+    },
+    {
+      "subscriber": 1219,
+      "customer": 70
+    },
+    {
+      "subscriber": 1101,
+      "customer": 211
+    },
+    {
+      "subscriber": 620,
+      "customer": 204
+    },
+    {
+      "subscriber": 514,
+      "customer": 115
+    }
+  ],
+  "12th St at 4th Ave": [
+    {
+      "subscriber": 472,
+      "customer": 40
+    },
+    {
+      "subscriber": 524,
+      "customer": 61
+    },
+    {
+      "subscriber": 484,
+      "customer": 22
+    },
+    {
+      "subscriber": 480,
+      "customer": 44
+    },
+    {
+      "subscriber": 381,
+      "customer": 29
+    },
+    {
+      "subscriber": 223,
+      "customer": 66
+    },
+    {
+      "subscriber": 186,
+      "customer": 63
+    }
+  ],
+  "Yerba Buena Center for the Arts (Howard St at 3rd St)": [
+    {
+      "subscriber": 2350,
+      "customer": 451
+    },
+    {
+      "subscriber": 2803,
+      "customer": 485
+    },
+    {
+      "subscriber": 2836,
+      "customer": 504
+    },
+    {
+      "subscriber": 2796,
+      "customer": 626
+    },
+    {
+      "subscriber": 2707,
+      "customer": 597
+    },
+    {
+      "subscriber": 1280,
+      "customer": 684
+    },
+    {
+      "subscriber": 1336,
+      "customer": 672
+    }
+  ],
+  "Clay St at Battery St": [
+    {
+      "subscriber": 3079,
+      "customer": 384
+    },
+    {
+      "subscriber": 3550,
+      "customer": 343
+    },
+    {
+      "subscriber": 3451,
+      "customer": 409
+    },
+    {
+      "subscriber": 3337,
+      "customer": 457
+    },
+    {
+      "subscriber": 2930,
+      "customer": 561
+    },
+    {
+      "subscriber": 671,
+      "customer": 485
+    },
+    {
+      "subscriber": 533,
+      "customer": 489
+    }
+  ],
+  "5th St at Howard St": [
+    {
+      "subscriber": 1184,
+      "customer": 162
+    },
+    {
+      "subscriber": 1440,
+      "customer": 181
+    },
+    {
+      "subscriber": 1384,
+      "customer": 144
+    },
+    {
+      "subscriber": 1332,
+      "customer": 196
+    },
+    {
+      "subscriber": 1182,
+      "customer": 193
+    },
+    {
+      "subscriber": 496,
+      "customer": 234
+    },
+    {
+      "subscriber": 345,
+      "customer": 170
+    }
+  ],
+  "10th St at Fallon St": [
+    {
+      "subscriber": 977,
+      "customer": 126
+    },
+    {
+      "subscriber": 1065,
+      "customer": 123
+    },
+    {
+      "subscriber": 1111,
+      "customer": 131
+    },
+    {
+      "subscriber": 953,
+      "customer": 164
+    },
+    {
+      "subscriber": 933,
+      "customer": 166
+    },
+    {
+      "subscriber": 309,
+      "customer": 114
+    },
+    {
+      "subscriber": 287,
+      "customer": 148
+    }
+  ],
+  "Duboce Park": [
+    {
+      "subscriber": 769,
+      "customer": 133
+    },
+    {
+      "subscriber": 872,
+      "customer": 108
+    },
+    {
+      "subscriber": 885,
+      "customer": 167
+    },
+    {
+      "subscriber": 793,
+      "customer": 175
+    },
+    {
+      "subscriber": 771,
+      "customer": 142
+    },
+    {
+      "subscriber": 471,
+      "customer": 250
+    },
+    {
+      "subscriber": 487,
+      "customer": 192
+    }
+  ],
+  "Broadway at Kearny": [
+    {
+      "subscriber": 1821,
+      "customer": 568
+    },
+    {
+      "subscriber": 1905,
+      "customer": 428
+    },
+    {
+      "subscriber": 1832,
+      "customer": 525
+    },
+    {
+      "subscriber": 1927,
+      "customer": 616
+    },
+    {
+      "subscriber": 1804,
+      "customer": 741
+    },
+    {
+      "subscriber": 1257,
+      "customer": 1307
+    },
+    {
+      "subscriber": 1183,
+      "customer": 1142
+    }
+  ],
+  "Powell St BART Station (Market St at 5th St)": [
+    {
+      "subscriber": 5656,
+      "customer": 1075
+    },
+    {
+      "subscriber": 6380,
+      "customer": 999
+    },
+    {
+      "subscriber": 6175,
+      "customer": 1099
+    },
+    {
+      "subscriber": 5975,
+      "customer": 1097
+    },
+    {
+      "subscriber": 5385,
+      "customer": 1259
+    },
+    {
+      "subscriber": 2905,
+      "customer": 1927
+    },
+    {
+      "subscriber": 2285,
+      "customer": 1469
+    }
+  ],
+  "Koshland Park": [
+    {
+      "subscriber": 659,
+      "customer": 125
+    },
+    {
+      "subscriber": 819,
+      "customer": 146
+    },
+    {
+      "subscriber": 800,
+      "customer": 116
+    },
+    {
+      "subscriber": 809,
+      "customer": 135
+    },
+    {
+      "subscriber": 787,
+      "customer": 123
+    },
+    {
+      "subscriber": 639,
+      "customer": 249
+    },
+    {
+      "subscriber": 563,
+      "customer": 178
+    }
+  ],
+  "Folsom St at 3rd St": [
+    {
+      "subscriber": 2834,
+      "customer": 399
+    },
+    {
+      "subscriber": 3380,
+      "customer": 423
+    },
+    {
+      "subscriber": 3302,
+      "customer": 504
+    },
+    {
+      "subscriber": 3371,
+      "customer": 501
+    },
+    {
+      "subscriber": 2879,
+      "customer": 520
+    },
+    {
+      "subscriber": 986,
+      "customer": 508
+    },
+    {
+      "subscriber": 951,
+      "customer": 433
+    }
+  ],
+  "17th St at Valencia St": [
+    {
+      "subscriber": 1939,
+      "customer": 277
+    },
+    {
+      "subscriber": 2239,
+      "customer": 232
+    },
+    {
+      "subscriber": 2062,
+      "customer": 275
+    },
+    {
+      "subscriber": 2060,
+      "customer": 320
+    },
+    {
+      "subscriber": 2139,
+      "customer": 356
+    },
+    {
+      "subscriber": 1816,
+      "customer": 598
+    },
+    {
+      "subscriber": 1674,
+      "customer": 556
+    }
+  ],
+  "Grove St at Divisadero": [
+    {
+      "subscriber": 929,
+      "customer": 246
+    },
+    {
+      "subscriber": 949,
+      "customer": 218
+    },
+    {
+      "subscriber": 1078,
+      "customer": 244
+    },
+    {
+      "subscriber": 1014,
+      "customer": 218
+    },
+    {
+      "subscriber": 1081,
+      "customer": 370
+    },
+    {
+      "subscriber": 898,
+      "customer": 643
+    },
+    {
+      "subscriber": 849,
+      "customer": 622
+    }
+  ],
+  "Montgomery St BART Station (Market St at 2nd St)": [
+    {
+      "subscriber": 9205,
+      "customer": 1042
+    },
+    {
+      "subscriber": 10455,
+      "customer": 1070
+    },
+    {
+      "subscriber": 10613,
+      "customer": 1033
+    },
+    {
+      "subscriber": 10122,
+      "customer": 1160
+    },
+    {
+      "subscriber": 8817,
+      "customer": 1163
+    },
+    {
+      "subscriber": 1715,
+      "customer": 906
+    },
+    {
+      "subscriber": 1276,
+      "customer": 802
+    }
+  ],
+  "Haste St at Telegraph Ave": [
+    {
+      "subscriber": 1167,
+      "customer": 150
+    },
+    {
+      "subscriber": 1178,
+      "customer": 132
+    },
+    {
+      "subscriber": 1230,
+      "customer": 127
+    },
+    {
+      "subscriber": 1235,
+      "customer": 132
+    },
+    {
+      "subscriber": 1229,
+      "customer": 175
+    },
+    {
+      "subscriber": 1002,
+      "customer": 228
+    },
+    {
+      "subscriber": 912,
+      "customer": 213
+    }
+  ],
+  "Telegraph Ave at Ashby Ave": [
+    {
+      "subscriber": 891,
+      "customer": 106
+    },
+    {
+      "subscriber": 937,
+      "customer": 107
+    },
+    {
+      "subscriber": 970,
+      "customer": 99
+    },
+    {
+      "subscriber": 924,
+      "customer": 98
+    },
+    {
+      "subscriber": 828,
+      "customer": 88
+    },
+    {
+      "subscriber": 622,
+      "customer": 163
+    },
+    {
+      "subscriber": 635,
+      "customer": 90
+    }
+  ],
+  "16th St Mission BART": [
+    {
+      "subscriber": 1418,
+      "customer": 103
+    },
+    {
+      "subscriber": 1513,
+      "customer": 118
+    },
+    {
+      "subscriber": 1484,
+      "customer": 105
+    },
+    {
+      "subscriber": 1459,
+      "customer": 122
+    },
+    {
+      "subscriber": 1256,
+      "customer": 111
+    },
+    {
+      "subscriber": 412,
+      "customer": 162
+    },
+    {
+      "subscriber": 286,
+      "customer": 80
+    }
+  ],
+  "16th St at Prosper St": [
+    {
+      "subscriber": 795,
+      "customer": 108
+    },
+    {
+      "subscriber": 841,
+      "customer": 75
+    },
+    {
+      "subscriber": 856,
+      "customer": 113
+    },
+    {
+      "subscriber": 795,
+      "customer": 113
+    },
+    {
+      "subscriber": 854,
+      "customer": 123
+    },
+    {
+      "subscriber": 870,
+      "customer": 231
+    },
+    {
+      "subscriber": 737,
+      "customer": 232
+    }
+  ],
+  "8th St at Ringold St": [
+    {
+      "subscriber": 2766,
+      "customer": 285
+    },
+    {
+      "subscriber": 3028,
+      "customer": 280
+    },
+    {
+      "subscriber": 3238,
+      "customer": 321
+    },
+    {
+      "subscriber": 2902,
+      "customer": 374
+    },
+    {
+      "subscriber": 2772,
+      "customer": 416
+    },
+    {
+      "subscriber": 1388,
+      "customer": 315
+    },
+    {
+      "subscriber": 1212,
+      "customer": 295
+    }
+  ],
+  "Harrison St at 17th St": [
+    {
+      "subscriber": 1999,
+      "customer": 245
+    },
+    {
+      "subscriber": 2185,
+      "customer": 245
+    },
+    {
+      "subscriber": 1982,
+      "customer": 244
+    },
+    {
+      "subscriber": 1827,
+      "customer": 270
+    },
+    {
+      "subscriber": 1753,
+      "customer": 263
+    },
+    {
+      "subscriber": 1086,
+      "customer": 229
+    },
+    {
+      "subscriber": 1108,
+      "customer": 263
+    }
+  ],
+  "Jackson Playground": [
+    {
+      "subscriber": 1342,
+      "customer": 200
+    },
+    {
+      "subscriber": 1584,
+      "customer": 222
+    },
+    {
+      "subscriber": 1627,
+      "customer": 214
+    },
+    {
+      "subscriber": 1542,
+      "customer": 221
+    },
+    {
+      "subscriber": 1535,
+      "customer": 284
+    },
+    {
+      "subscriber": 810,
+      "customer": 296
+    },
+    {
+      "subscriber": 790,
+      "customer": 265
+    }
+  ],
+  "Broadway at 40th St": [
+    {
+      "subscriber": 1048,
+      "customer": 169
+    },
+    {
+      "subscriber": 1124,
+      "customer": 150
+    },
+    {
+      "subscriber": 1254,
+      "customer": 165
+    },
+    {
+      "subscriber": 1159,
+      "customer": 179
+    },
+    {
+      "subscriber": 913,
+      "customer": 202
+    },
+    {
+      "subscriber": 633,
+      "customer": 256
+    },
+    {
+      "subscriber": 564,
+      "customer": 231
+    }
+  ],
+  "Shattuck Ave at 55th Ave": [
+    {
+      "subscriber": 200,
+      "customer": 28
+    },
+    {
+      "subscriber": 221,
+      "customer": 29
+    },
+    {
+      "subscriber": 251,
+      "customer": 33
+    },
+    {
+      "subscriber": 251,
+      "customer": 20
+    },
+    {
+      "subscriber": 222,
+      "customer": 14
+    },
+    {
+      "subscriber": 145,
+      "customer": 23
+    },
+    {
+      "subscriber": 107,
+      "customer": 20
+    }
+  ],
+  "North Berkeley BART Station": [
+    {
+      "subscriber": 681,
+      "customer": 134
+    },
+    {
+      "subscriber": 829,
+      "customer": 157
+    },
+    {
+      "subscriber": 735,
+      "customer": 154
+    },
+    {
+      "subscriber": 795,
+      "customer": 156
+    },
+    {
+      "subscriber": 703,
+      "customer": 156
+    },
+    {
+      "subscriber": 368,
+      "customer": 160
+    },
+    {
+      "subscriber": 294,
+      "customer": 168
+    }
+  ],
+  "Addison St at Fourth St": [
+    {
+      "subscriber": 616,
+      "customer": 277
+    },
+    {
+      "subscriber": 642,
+      "customer": 218
+    },
+    {
+      "subscriber": 600,
+      "customer": 293
+    },
+    {
+      "subscriber": 624,
+      "customer": 261
+    },
+    {
+      "subscriber": 570,
+      "customer": 259
+    },
+    {
+      "subscriber": 600,
+      "customer": 627
+    },
+    {
+      "subscriber": 610,
+      "customer": 617
+    }
+  ],
+  "5th St at Brannan St": [
+    {
+      "subscriber": 2476,
+      "customer": 275
+    },
+    {
+      "subscriber": 2752,
+      "customer": 305
+    },
+    {
+      "subscriber": 2435,
+      "customer": 260
+    },
+    {
+      "subscriber": 2482,
+      "customer": 294
+    },
+    {
+      "subscriber": 2205,
+      "customer": 282
+    },
+    {
+      "subscriber": 648,
+      "customer": 231
+    },
+    {
+      "subscriber": 564,
+      "customer": 157
+    }
+  ],
+  "11th St at Bryant St": [
+    {
+      "subscriber": 2276,
+      "customer": 180
+    },
+    {
+      "subscriber": 2750,
+      "customer": 272
+    },
+    {
+      "subscriber": 2673,
+      "customer": 254
+    },
+    {
+      "subscriber": 2709,
+      "customer": 250
+    },
+    {
+      "subscriber": 2563,
+      "customer": 307
+    },
+    {
+      "subscriber": 1244,
+      "customer": 376
+    },
+    {
+      "subscriber": 1381,
+      "customer": 373
+    }
+  ],
+  "S Park St at 3rd St": [
+    {
+      "subscriber": 3291,
+      "customer": 274
+    },
+    {
+      "subscriber": 3816,
+      "customer": 356
+    },
+    {
+      "subscriber": 3742,
+      "customer": 393
+    },
+    {
+      "subscriber": 3664,
+      "customer": 409
+    },
+    {
+      "subscriber": 3315,
+      "customer": 342
+    },
+    {
+      "subscriber": 493,
+      "customer": 289
+    },
+    {
+      "subscriber": 371,
+      "customer": 193
+    }
+  ],
+  "Rockridge BART Station": [
+    {
+      "subscriber": 1956,
+      "customer": 156
+    },
+    {
+      "subscriber": 2083,
+      "customer": 175
+    },
+    {
+      "subscriber": 2065,
+      "customer": 183
+    },
+    {
+      "subscriber": 1929,
+      "customer": 176
+    },
+    {
+      "subscriber": 1721,
+      "customer": 180
+    },
+    {
+      "subscriber": 824,
+      "customer": 221
+    },
+    {
+      "subscriber": 795,
+      "customer": 175
+    }
+  ],
+  "Shafter Ave at Cavour St": [
+    {
+      "subscriber": 225,
+      "customer": 15
+    },
+    {
+      "subscriber": 318,
+      "customer": 23
+    },
+    {
+      "subscriber": 252,
+      "customer": 13
+    },
+    {
+      "subscriber": 273,
+      "customer": 31
+    },
+    {
+      "subscriber": 230,
+      "customer": 22
+    },
+    {
+      "subscriber": 131,
+      "customer": 19
+    },
+    {
+      "subscriber": 108,
+      "customer": 35
+    }
+  ],
+  "McAllister St at Baker St": [
+    {
+      "subscriber": 942,
+      "customer": 180
+    },
+    {
+      "subscriber": 1034,
+      "customer": 199
+    },
+    {
+      "subscriber": 1047,
+      "customer": 198
+    },
+    {
+      "subscriber": 1051,
+      "customer": 240
+    },
+    {
+      "subscriber": 911,
+      "customer": 234
+    },
+    {
+      "subscriber": 655,
+      "customer": 308
+    },
+    {
+      "subscriber": 614,
+      "customer": 292
+    }
+  ],
+  "Union Square (Powell St at Post St)": [
+    {
+      "subscriber": 2016,
+      "customer": 796
+    },
+    {
+      "subscriber": 2380,
+      "customer": 707
+    },
+    {
+      "subscriber": 2468,
+      "customer": 743
+    },
+    {
+      "subscriber": 2226,
+      "customer": 729
+    },
+    {
+      "subscriber": 2041,
+      "customer": 908
+    },
+    {
+      "subscriber": 1303,
+      "customer": 1459
+    },
+    {
+      "subscriber": 1067,
+      "customer": 1251
+    }
+  ],
+  "Powell St BART Station (Market St at 4th St)": [
+    {
+      "subscriber": 7017,
+      "customer": 1460
+    },
+    {
+      "subscriber": 7775,
+      "customer": 1293
+    },
+    {
+      "subscriber": 7805,
+      "customer": 1343
+    },
+    {
+      "subscriber": 7387,
+      "customer": 1372
+    },
+    {
+      "subscriber": 6928,
+      "customer": 1531
+    },
+    {
+      "subscriber": 3712,
+      "customer": 2261
+    },
+    {
+      "subscriber": 3395,
+      "customer": 1850
+    }
+  ],
+  "Lakeshore Ave at Trestle Glen Rd": [
+    {
+      "subscriber": 849,
+      "customer": 128
+    },
+    {
+      "subscriber": 952,
+      "customer": 122
+    },
+    {
+      "subscriber": 920,
+      "customer": 131
+    },
+    {
+      "subscriber": 870,
+      "customer": 148
+    },
+    {
+      "subscriber": 832,
+      "customer": 167
+    },
+    {
+      "subscriber": 489,
+      "customer": 221
+    },
+    {
+      "subscriber": 405,
+      "customer": 184
+    }
+  ],
+  "Mississippi St at 17th St": [
+    {
+      "subscriber": 1599,
+      "customer": 172
+    },
+    {
+      "subscriber": 1792,
+      "customer": 217
+    },
+    {
+      "subscriber": 1690,
+      "customer": 201
+    },
+    {
+      "subscriber": 1742,
+      "customer": 214
+    },
+    {
+      "subscriber": 1500,
+      "customer": 209
+    },
+    {
+      "subscriber": 629,
+      "customer": 199
+    },
+    {
+      "subscriber": 591,
+      "customer": 145
+    }
+  ],
+  "Santa Clara St at Almaden Blvd": [
+    {
+      "subscriber": 377,
+      "customer": 51
+    },
+    {
+      "subscriber": 453,
+      "customer": 63
+    },
+    {
+      "subscriber": 425,
+      "customer": 57
+    },
+    {
+      "subscriber": 377,
+      "customer": 54
+    },
+    {
+      "subscriber": 349,
+      "customer": 68
+    },
+    {
+      "subscriber": 171,
+      "customer": 79
+    },
+    {
+      "subscriber": 171,
+      "customer": 108
+    }
+  ],
+  "The Alameda at Bush St": [
+    {
+      "subscriber": 683,
+      "customer": 58
+    },
+    {
+      "subscriber": 651,
+      "customer": 72
+    },
+    {
+      "subscriber": 679,
+      "customer": 104
+    },
+    {
+      "subscriber": 656,
+      "customer": 60
+    },
+    {
+      "subscriber": 669,
+      "customer": 86
+    },
+    {
+      "subscriber": 739,
+      "customer": 131
+    },
+    {
+      "subscriber": 676,
+      "customer": 115
+    }
+  ],
+  "MLK Jr Way at University Ave": [
+    {
+      "subscriber": 949,
+      "customer": 114
+    },
+    {
+      "subscriber": 1082,
+      "customer": 90
+    },
+    {
+      "subscriber": 1052,
+      "customer": 86
+    },
+    {
+      "subscriber": 980,
+      "customer": 106
+    },
+    {
+      "subscriber": 829,
+      "customer": 98
+    },
+    {
+      "subscriber": 733,
+      "customer": 138
+    },
+    {
+      "subscriber": 683,
+      "customer": 171
+    }
+  ],
+  "Grand Ave at Perkins St": [
+    {
+      "subscriber": 2401,
+      "customer": 307
+    },
+    {
+      "subscriber": 2559,
+      "customer": 315
+    },
+    {
+      "subscriber": 2536,
+      "customer": 277
+    },
+    {
+      "subscriber": 2357,
+      "customer": 320
+    },
+    {
+      "subscriber": 2204,
+      "customer": 404
+    },
+    {
+      "subscriber": 1346,
+      "customer": 562
+    },
+    {
+      "subscriber": 1100,
+      "customer": 480
+    }
+  ],
+  "2nd St at Folsom St": [
+    {
+      "subscriber": 3319,
+      "customer": 350
+    },
+    {
+      "subscriber": 3902,
+      "customer": 428
+    },
+    {
+      "subscriber": 3808,
+      "customer": 409
+    },
+    {
+      "subscriber": 3712,
+      "customer": 504
+    },
+    {
+      "subscriber": 3103,
+      "customer": 454
+    },
+    {
+      "subscriber": 516,
+      "customer": 314
+    },
+    {
+      "subscriber": 448,
+      "customer": 254
+    }
+  ],
+  "Townsend St at 7th St": [
+    {
+      "subscriber": 5296,
+      "customer": 315
+    },
+    {
+      "subscriber": 6059,
+      "customer": 392
+    },
+    {
+      "subscriber": 5930,
+      "customer": 436
+    },
+    {
+      "subscriber": 5774,
+      "customer": 413
+    },
+    {
+      "subscriber": 5071,
+      "customer": 413
+    },
+    {
+      "subscriber": 1219,
+      "customer": 341
+    },
+    {
+      "subscriber": 1242,
+      "customer": 258
+    }
+  ],
+  "19th St at Mission St": [
+    {
+      "subscriber": 1216,
+      "customer": 189
+    },
+    {
+      "subscriber": 1387,
+      "customer": 195
+    },
+    {
+      "subscriber": 1412,
+      "customer": 188
+    },
+    {
+      "subscriber": 1310,
+      "customer": 195
+    },
+    {
+      "subscriber": 1363,
+      "customer": 210
+    },
+    {
+      "subscriber": 1023,
+      "customer": 354
+    },
+    {
+      "subscriber": 888,
+      "customer": 287
+    }
+  ],
+  "College Ave at Taft Ave": [
+    {
+      "subscriber": 261,
+      "customer": 41
+    },
+    {
+      "subscriber": 297,
+      "customer": 35
+    },
+    {
+      "subscriber": 288,
+      "customer": 34
+    },
+    {
+      "subscriber": 247,
+      "customer": 50
+    },
+    {
+      "subscriber": 227,
+      "customer": 56
+    },
+    {
+      "subscriber": 263,
+      "customer": 88
+    },
+    {
+      "subscriber": 172,
+      "customer": 80
+    }
+  ],
+  "45th St at Manila": [
+    {
+      "subscriber": 794,
+      "customer": 75
+    },
+    {
+      "subscriber": 861,
+      "customer": 67
+    },
+    {
+      "subscriber": 812,
+      "customer": 68
+    },
+    {
+      "subscriber": 710,
+      "customer": 73
+    },
+    {
+      "subscriber": 690,
+      "customer": 87
+    },
+    {
+      "subscriber": 378,
+      "customer": 90
+    },
+    {
+      "subscriber": 363,
+      "customer": 67
+    }
+  ],
+  "Howard St at 2nd St": [
+    {
+      "subscriber": 2650,
+      "customer": 209
+    },
+    {
+      "subscriber": 3128,
+      "customer": 285
+    },
+    {
+      "subscriber": 3234,
+      "customer": 300
+    },
+    {
+      "subscriber": 3244,
+      "customer": 360
+    },
+    {
+      "subscriber": 2743,
+      "customer": 303
+    },
+    {
+      "subscriber": 353,
+      "customer": 194
+    },
+    {
+      "subscriber": 323,
+      "customer": 173
+    }
+  ],
+  "University Ave at Oxford St": [
+    {
+      "subscriber": 1006,
+      "customer": 142
+    },
+    {
+      "subscriber": 1124,
+      "customer": 120
+    },
+    {
+      "subscriber": 1138,
+      "customer": 101
+    },
+    {
+      "subscriber": 1135,
+      "customer": 138
+    },
+    {
+      "subscriber": 919,
+      "customer": 119
+    },
+    {
+      "subscriber": 351,
+      "customer": 224
+    },
+    {
+      "subscriber": 328,
+      "customer": 187
+    }
+  ],
+  "Bryant St at 6th St": [
+    {
+      "subscriber": 820,
+      "customer": 129
+    },
+    {
+      "subscriber": 1013,
+      "customer": 113
+    },
+    {
+      "subscriber": 902,
+      "customer": 107
+    },
+    {
+      "subscriber": 839,
+      "customer": 142
+    },
+    {
+      "subscriber": 761,
+      "customer": 102
+    },
+    {
+      "subscriber": 265,
+      "customer": 111
+    },
+    {
+      "subscriber": 252,
+      "customer": 45
+    }
+  ],
+  "Irwin St at 8th St": [
+    {
+      "subscriber": 1017,
+      "customer": 135
+    },
+    {
+      "subscriber": 1131,
+      "customer": 190
+    },
+    {
+      "subscriber": 926,
+      "customer": 155
+    },
+    {
+      "subscriber": 1000,
+      "customer": 154
+    },
+    {
+      "subscriber": 865,
+      "customer": 140
+    },
+    {
+      "subscriber": 295,
+      "customer": 120
+    },
+    {
+      "subscriber": 252,
+      "customer": 84
+    }
+  ],
+  "Santa Clara St at 7th St": [
+    {
+      "subscriber": 380,
+      "customer": 25
+    },
+    {
+      "subscriber": 386,
+      "customer": 16
+    },
+    {
+      "subscriber": 375,
+      "customer": 15
+    },
+    {
+      "subscriber": 316,
+      "customer": 25
+    },
+    {
+      "subscriber": 388,
+      "customer": 17
+    },
+    {
+      "subscriber": 309,
+      "customer": 27
+    },
+    {
+      "subscriber": 307,
+      "customer": 19
+    }
+  ],
+  "Julian St at 6th St": [
+    {
+      "subscriber": 320,
+      "customer": 13
+    },
+    {
+      "subscriber": 369,
+      "customer": 9
+    },
+    {
+      "subscriber": 293,
+      "customer": 23
+    },
+    {
+      "subscriber": 319,
+      "customer": 15
+    },
+    {
+      "subscriber": 285,
+      "customer": 24
+    },
+    {
+      "subscriber": 217,
+      "customer": 30
+    },
+    {
+      "subscriber": 177,
+      "customer": 26
+    }
+  ],
+  "El Embarcadero at Grand Ave": [
+    {
+      "subscriber": 1773,
+      "customer": 417
+    },
+    {
+      "subscriber": 2096,
+      "customer": 424
+    },
+    {
+      "subscriber": 1984,
+      "customer": 400
+    },
+    {
+      "subscriber": 1944,
+      "customer": 380
+    },
+    {
+      "subscriber": 1730,
+      "customer": 548
+    },
+    {
+      "subscriber": 1879,
+      "customer": 1186
+    },
+    {
+      "subscriber": 1421,
+      "customer": 1014
+    }
+  ],
+  "Central Ave at Fell St": [
+    {
+      "subscriber": 1607,
+      "customer": 744
+    },
+    {
+      "subscriber": 1844,
+      "customer": 624
+    },
+    {
+      "subscriber": 1776,
+      "customer": 724
+    },
+    {
+      "subscriber": 1683,
+      "customer": 708
+    },
+    {
+      "subscriber": 1762,
+      "customer": 944
+    },
+    {
+      "subscriber": 1863,
+      "customer": 2069
+    },
+    {
+      "subscriber": 1857,
+      "customer": 2071
+    }
+  ],
+  "Harrison St at 20th St": [
+    {
+      "subscriber": 1739,
+      "customer": 200
+    },
+    {
+      "subscriber": 2032,
+      "customer": 222
+    },
+    {
+      "subscriber": 1973,
+      "customer": 185
+    },
+    {
+      "subscriber": 1933,
+      "customer": 235
+    },
+    {
+      "subscriber": 1638,
+      "customer": 226
+    },
+    {
+      "subscriber": 1121,
+      "customer": 284
+    },
+    {
+      "subscriber": 914,
+      "customer": 190
+    }
+  ],
+  "San Fernando at 7th St": [
+    {
+      "subscriber": 1021,
+      "customer": 18
+    },
+    {
+      "subscriber": 1109,
+      "customer": 13
+    },
+    {
+      "subscriber": 935,
+      "customer": 16
+    },
+    {
+      "subscriber": 1099,
+      "customer": 15
+    },
+    {
+      "subscriber": 751,
+      "customer": 22
+    },
+    {
+      "subscriber": 387,
+      "customer": 36
+    },
+    {
+      "subscriber": 261,
+      "customer": 34
+    }
+  ],
+  "Bancroft Way at College Ave": [
+    {
+      "subscriber": 2382,
+      "customer": 245
+    },
+    {
+      "subscriber": 2754,
+      "customer": 184
+    },
+    {
+      "subscriber": 2703,
+      "customer": 205
+    },
+    {
+      "subscriber": 2686,
+      "customer": 251
+    },
+    {
+      "subscriber": 2093,
+      "customer": 245
+    },
+    {
+      "subscriber": 1168,
+      "customer": 364
+    },
+    {
+      "subscriber": 1010,
+      "customer": 228
+    }
+  ],
+  "3rd St at Townsend St": [
+    {
+      "subscriber": 5766,
+      "customer": 582
+    },
+    {
+      "subscriber": 6488,
+      "customer": 709
+    },
+    {
+      "subscriber": 6397,
+      "customer": 767
+    },
+    {
+      "subscriber": 6130,
+      "customer": 733
+    },
+    {
+      "subscriber": 5319,
+      "customer": 842
+    },
+    {
+      "subscriber": 1337,
+      "customer": 884
+    },
+    {
+      "subscriber": 1133,
+      "customer": 735
+    }
+  ],
+  "Scott St at Golden Gate Ave": [
+    {
+      "subscriber": 490,
+      "customer": 85
+    },
+    {
+      "subscriber": 674,
+      "customer": 126
+    },
+    {
+      "subscriber": 717,
+      "customer": 108
+    },
+    {
+      "subscriber": 730,
+      "customer": 132
+    },
+    {
+      "subscriber": 530,
+      "customer": 165
+    },
+    {
+      "subscriber": 341,
+      "customer": 207
+    },
+    {
+      "subscriber": 262,
+      "customer": 136
+    }
+  ],
+  "Grand Ave at Webster St": [
+    {
+      "subscriber": 2046,
+      "customer": 181
+    },
+    {
+      "subscriber": 2339,
+      "customer": 219
+    },
+    {
+      "subscriber": 2230,
+      "customer": 219
+    },
+    {
+      "subscriber": 2065,
+      "customer": 230
+    },
+    {
+      "subscriber": 2012,
+      "customer": 299
+    },
+    {
+      "subscriber": 1083,
+      "customer": 278
+    },
+    {
+      "subscriber": 910,
+      "customer": 252
+    }
+  ],
+  "Almaden Blvd at Balbach St": [
+    {
+      "subscriber": 91,
+      "customer": 16
+    },
+    {
+      "subscriber": 92,
+      "customer": 16
+    },
+    {
+      "subscriber": 112,
+      "customer": 31
+    },
+    {
+      "subscriber": 89,
+      "customer": 18
+    },
+    {
+      "subscriber": 94,
+      "customer": 39
+    },
+    {
+      "subscriber": 27,
+      "customer": 47
+    },
+    {
+      "subscriber": 23,
+      "customer": 46
+    }
+  ],
+  "Steuart St at Market St": [
+    {
+      "subscriber": 7661,
+      "customer": 854
+    },
+    {
+      "subscriber": 8284,
+      "customer": 850
+    },
+    {
+      "subscriber": 8282,
+      "customer": 1010
+    },
+    {
+      "subscriber": 7794,
+      "customer": 920
+    },
+    {
+      "subscriber": 7393,
+      "customer": 1189
+    },
+    {
+      "subscriber": 1412,
+      "customer": 1367
+    },
+    {
+      "subscriber": 1181,
+      "customer": 1023
+    }
+  ],
+  "5th at Folsom": [
+    {
+      "subscriber": 1528,
+      "customer": 187
+    },
+    {
+      "subscriber": 1950,
+      "customer": 204
+    },
+    {
+      "subscriber": 1825,
+      "customer": 168
+    },
+    {
+      "subscriber": 1796,
+      "customer": 217
+    },
+    {
+      "subscriber": 1593,
+      "customer": 184
+    },
+    {
+      "subscriber": 736,
+      "customer": 188
+    },
+    {
+      "subscriber": 635,
+      "customer": 212
+    }
+  ],
+  "14th St at Mission St": [
+    {
+      "subscriber": 1403,
+      "customer": 187
+    },
+    {
+      "subscriber": 1623,
+      "customer": 160
+    },
+    {
+      "subscriber": 1680,
+      "customer": 170
+    },
+    {
+      "subscriber": 1512,
+      "customer": 166
+    },
+    {
+      "subscriber": 1575,
+      "customer": 171
+    },
+    {
+      "subscriber": 1044,
+      "customer": 247
+    },
+    {
+      "subscriber": 1042,
+      "customer": 280
+    }
+  ],
+  "Mission Playground": [
+    {
+      "subscriber": 1969,
+      "customer": 300
+    },
+    {
+      "subscriber": 2095,
+      "customer": 270
+    },
+    {
+      "subscriber": 2203,
+      "customer": 311
+    },
+    {
+      "subscriber": 2166,
+      "customer": 280
+    },
+    {
+      "subscriber": 2169,
+      "customer": 392
+    },
+    {
+      "subscriber": 1776,
+      "customer": 622
+    },
+    {
+      "subscriber": 1610,
+      "customer": 493
+    }
+  ],
+  "O'Farrell St at Divisadero St": [
+    {
+      "subscriber": 694,
+      "customer": 195
+    },
+    {
+      "subscriber": 776,
+      "customer": 130
+    },
+    {
+      "subscriber": 751,
+      "customer": 213
+    },
+    {
+      "subscriber": 707,
+      "customer": 215
+    },
+    {
+      "subscriber": 720,
+      "customer": 258
+    },
+    {
+      "subscriber": 485,
+      "customer": 385
+    },
+    {
+      "subscriber": 455,
+      "customer": 413
+    }
+  ],
+  "Webster St at Grove St": [
+    {
+      "subscriber": 1099,
+      "customer": 285
+    },
+    {
+      "subscriber": 1183,
+      "customer": 228
+    },
+    {
+      "subscriber": 1268,
+      "customer": 253
+    },
+    {
+      "subscriber": 1228,
+      "customer": 272
+    },
+    {
+      "subscriber": 1146,
+      "customer": 324
+    },
+    {
+      "subscriber": 796,
+      "customer": 539
+    },
+    {
+      "subscriber": 654,
+      "customer": 448
+    }
+  ],
+  "Stanford Ave at Hollis St": [
+    {
+      "subscriber": 309,
+      "customer": 48
+    },
+    {
+      "subscriber": 316,
+      "customer": 49
+    },
+    {
+      "subscriber": 318,
+      "customer": 45
+    },
+    {
+      "subscriber": 288,
+      "customer": 41
+    },
+    {
+      "subscriber": 314,
+      "customer": 44
+    },
+    {
+      "subscriber": 250,
+      "customer": 74
+    },
+    {
+      "subscriber": 227,
+      "customer": 70
+    }
+  ],
+  "Mechanics Monument Plaza (Market St at Bush St)": [
+    {
+      "subscriber": 2985,
+      "customer": 530
+    },
+    {
+      "subscriber": 3504,
+      "customer": 477
+    },
+    {
+      "subscriber": 3621,
+      "customer": 560
+    },
+    {
+      "subscriber": 3519,
+      "customer": 528
+    },
+    {
+      "subscriber": 3175,
+      "customer": 609
+    },
+    {
+      "subscriber": 634,
+      "customer": 610
+    },
+    {
+      "subscriber": 517,
+      "customer": 492
+    }
+  ],
+  "Embarcadero BART Station (Beale St at Market St)": [
+    {
+      "subscriber": 5718,
+      "customer": 581
+    },
+    {
+      "subscriber": 6520,
+      "customer": 548
+    },
+    {
+      "subscriber": 6363,
+      "customer": 610
+    },
+    {
+      "subscriber": 6053,
+      "customer": 620
+    },
+    {
+      "subscriber": 5191,
+      "customer": 640
+    },
+    {
+      "subscriber": 1288,
+      "customer": 617
+    },
+    {
+      "subscriber": 839,
+      "customer": 474
+    }
+  ],
+  "San Carlos St at Market St": [
+    {
+      "subscriber": 172,
+      "customer": 120
+    },
+    {
+      "subscriber": 168,
+      "customer": 88
+    },
+    {
+      "subscriber": 175,
+      "customer": 172
+    },
+    {
+      "subscriber": 184,
+      "customer": 115
+    },
+    {
+      "subscriber": 134,
+      "customer": 87
+    },
+    {
+      "subscriber": 110,
+      "customer": 181
+    },
+    {
+      "subscriber": 128,
+      "customer": 194
+    }
+  ],
+  "Pierce Ave at Market St": [
+    {
+      "subscriber": 355,
+      "customer": 28
+    },
+    {
+      "subscriber": 360,
+      "customer": 17
+    },
+    {
+      "subscriber": 400,
+      "customer": 38
+    },
+    {
+      "subscriber": 340,
+      "customer": 20
+    },
+    {
+      "subscriber": 341,
+      "customer": 38
+    },
+    {
+      "subscriber": 220,
+      "customer": 47
+    },
+    {
+      "subscriber": 149,
+      "customer": 118
+    }
+  ],
+  "Page St at Scott St": [
+    {
+      "subscriber": 1026,
+      "customer": 207
+    },
+    {
+      "subscriber": 1237,
+      "customer": 208
+    },
+    {
+      "subscriber": 1235,
+      "customer": 237
+    },
+    {
+      "subscriber": 1164,
+      "customer": 223
+    },
+    {
+      "subscriber": 1143,
+      "customer": 260
+    },
+    {
+      "subscriber": 978,
+      "customer": 363
+    },
+    {
+      "subscriber": 937,
+      "customer": 383
+    }
+  ],
+  "Jersey St at Castro St": [
+    {
+      "subscriber": 758,
+      "customer": 94
+    },
+    {
+      "subscriber": 834,
+      "customer": 100
+    },
+    {
+      "subscriber": 955,
+      "customer": 89
+    },
+    {
+      "subscriber": 820,
+      "customer": 115
+    },
+    {
+      "subscriber": 771,
+      "customer": 125
+    },
+    {
+      "subscriber": 526,
+      "customer": 172
+    },
+    {
+      "subscriber": 483,
+      "customer": 156
+    }
+  ],
+  "Valencia St at 21st St": [
+    {
+      "subscriber": 1651,
+      "customer": 195
+    },
+    {
+      "subscriber": 1793,
+      "customer": 167
+    },
+    {
+      "subscriber": 1918,
+      "customer": 213
+    },
+    {
+      "subscriber": 1581,
+      "customer": 188
+    },
+    {
+      "subscriber": 1602,
+      "customer": 217
+    },
+    {
+      "subscriber": 1415,
+      "customer": 440
+    },
+    {
+      "subscriber": 1261,
+      "customer": 360
+    }
+  ],
+  "22nd St Caltrain Station": [
+    {
+      "subscriber": 2020,
+      "customer": 288
+    },
+    {
+      "subscriber": 2135,
+      "customer": 325
+    },
+    {
+      "subscriber": 1905,
+      "customer": 286
+    },
+    {
+      "subscriber": 1965,
+      "customer": 325
+    },
+    {
+      "subscriber": 1729,
+      "customer": 309
+    },
+    {
+      "subscriber": 685,
+      "customer": 348
+    },
+    {
+      "subscriber": 573,
+      "customer": 273
+    }
+  ],
+  "Franklin St at 9th St": [
+    {
+      "subscriber": 568,
+      "customer": 66
+    },
+    {
+      "subscriber": 626,
+      "customer": 77
+    },
+    {
+      "subscriber": 633,
+      "customer": 69
+    },
+    {
+      "subscriber": 652,
+      "customer": 63
+    },
+    {
+      "subscriber": 531,
+      "customer": 85
+    },
+    {
+      "subscriber": 483,
+      "customer": 165
+    },
+    {
+      "subscriber": 370,
+      "customer": 145
+    }
+  ],
+  "Howard St at Beale St": [
+    {
+      "subscriber": 7623,
+      "customer": 482
+    },
+    {
+      "subscriber": 8473,
+      "customer": 515
+    },
+    {
+      "subscriber": 8106,
+      "customer": 520
+    },
+    {
+      "subscriber": 7913,
+      "customer": 562
+    },
+    {
+      "subscriber": 6804,
+      "customer": 552
+    },
+    {
+      "subscriber": 780,
+      "customer": 294
+    },
+    {
+      "subscriber": 662,
+      "customer": 255
+    }
+  ],
+  "5th St at San Salvador St": [
+    {
+      "subscriber": 571,
+      "customer": 11
+    },
+    {
+      "subscriber": 561,
+      "customer": 28
+    },
+    {
+      "subscriber": 653,
+      "customer": 26
+    },
+    {
+      "subscriber": 590,
+      "customer": 14
+    },
+    {
+      "subscriber": 516,
+      "customer": 48
+    },
+    {
+      "subscriber": 276,
+      "customer": 49
+    },
+    {
+      "subscriber": 307,
+      "customer": 33
+    }
+  ],
+  "Broderick St at Oak St": [
+    {
+      "subscriber": 789,
+      "customer": 264
+    },
+    {
+      "subscriber": 892,
+      "customer": 228
+    },
+    {
+      "subscriber": 804,
+      "customer": 240
+    },
+    {
+      "subscriber": 766,
+      "customer": 235
+    },
+    {
+      "subscriber": 798,
+      "customer": 322
+    },
+    {
+      "subscriber": 697,
+      "customer": 568
+    },
+    {
+      "subscriber": 709,
+      "customer": 654
+    }
+  ],
+  "Beale St at Harrison St": [
+    {
+      "subscriber": 4932,
+      "customer": 310
+    },
+    {
+      "subscriber": 5536,
+      "customer": 354
+    },
+    {
+      "subscriber": 5285,
+      "customer": 361
+    },
+    {
+      "subscriber": 5248,
+      "customer": 423
+    },
+    {
+      "subscriber": 4505,
+      "customer": 362
+    },
+    {
+      "subscriber": 1357,
+      "customer": 255
+    },
+    {
+      "subscriber": 1243,
+      "customer": 311
+    }
+  ],
+  "Derby St at College Ave": [
+    {
+      "subscriber": 980,
+      "customer": 92
+    },
+    {
+      "subscriber": 1034,
+      "customer": 94
+    },
+    {
+      "subscriber": 979,
+      "customer": 76
+    },
+    {
+      "subscriber": 1026,
+      "customer": 86
+    },
+    {
+      "subscriber": 858,
+      "customer": 139
+    },
+    {
+      "subscriber": 647,
+      "customer": 155
+    },
+    {
+      "subscriber": 705,
+      "customer": 129
+    }
+  ],
+  "Telegraph Ave at 58th St": [
+    {
+      "subscriber": 214,
+      "customer": 41
+    },
+    {
+      "subscriber": 265,
+      "customer": 56
+    },
+    {
+      "subscriber": 266,
+      "customer": 58
+    },
+    {
+      "subscriber": 224,
+      "customer": 46
+    },
+    {
+      "subscriber": 203,
+      "customer": 45
+    },
+    {
+      "subscriber": 130,
+      "customer": 68
+    },
+    {
+      "subscriber": 106,
+      "customer": 38
+    }
+  ],
+  "Telegraph Ave at 23rd St": [
+    {
+      "subscriber": 930,
+      "customer": 106
+    },
+    {
+      "subscriber": 1007,
+      "customer": 103
+    },
+    {
+      "subscriber": 1012,
+      "customer": 97
+    },
+    {
+      "subscriber": 1050,
+      "customer": 110
+    },
+    {
+      "subscriber": 1025,
+      "customer": 185
+    },
+    {
+      "subscriber": 920,
+      "customer": 284
+    },
+    {
+      "subscriber": 802,
+      "customer": 204
+    }
+  ],
+  "Russell St at College Ave": [
+    {
+      "subscriber": 776,
+      "customer": 133
+    },
+    {
+      "subscriber": 861,
+      "customer": 110
+    },
+    {
+      "subscriber": 895,
+      "customer": 126
+    },
+    {
+      "subscriber": 821,
+      "customer": 118
+    },
+    {
+      "subscriber": 774,
+      "customer": 129
+    },
+    {
+      "subscriber": 536,
+      "customer": 216
+    },
+    {
+      "subscriber": 527,
+      "customer": 188
+    }
+  ],
+  "Bryant St at 15th St": [
+    {
+      "subscriber": 1492,
+      "customer": 155
+    },
+    {
+      "subscriber": 1488,
+      "customer": 215
+    },
+    {
+      "subscriber": 1663,
+      "customer": 182
+    },
+    {
+      "subscriber": 1442,
+      "customer": 163
+    },
+    {
+      "subscriber": 1518,
+      "customer": 180
+    },
+    {
+      "subscriber": 770,
+      "customer": 164
+    },
+    {
+      "subscriber": 652,
+      "customer": 160
+    }
+  ],
+  "Franklin Square": [
+    {
+      "subscriber": 846,
+      "customer": 86
+    },
+    {
+      "subscriber": 789,
+      "customer": 78
+    },
+    {
+      "subscriber": 756,
+      "customer": 86
+    },
+    {
+      "subscriber": 712,
+      "customer": 79
+    },
+    {
+      "subscriber": 768,
+      "customer": 99
+    },
+    {
+      "subscriber": 606,
+      "customer": 128
+    },
+    {
+      "subscriber": 550,
+      "customer": 114
+    }
+  ],
+  "Eureka Valley Recreation Center": [
+    {
+      "subscriber": 620,
+      "customer": 126
+    },
+    {
+      "subscriber": 682,
+      "customer": 110
+    },
+    {
+      "subscriber": 671,
+      "customer": 120
+    },
+    {
+      "subscriber": 615,
+      "customer": 130
+    },
+    {
+      "subscriber": 620,
+      "customer": 167
+    },
+    {
+      "subscriber": 538,
+      "customer": 258
+    },
+    {
+      "subscriber": 510,
+      "customer": 244
+    }
+  ],
+  "Broadway at Coronado Ave": [
+    {
+      "subscriber": 211,
+      "customer": 34
+    },
+    {
+      "subscriber": 239,
+      "customer": 48
+    },
+    {
+      "subscriber": 257,
+      "customer": 42
+    },
+    {
+      "subscriber": 262,
+      "customer": 46
+    },
+    {
+      "subscriber": 194,
+      "customer": 53
+    },
+    {
+      "subscriber": 180,
+      "customer": 64
+    },
+    {
+      "subscriber": 148,
+      "customer": 51
+    }
+  ],
+  "The Embarcadero at Steuart St": [
+    {
+      "subscriber": 4245,
+      "customer": 491
+    },
+    {
+      "subscriber": 4908,
+      "customer": 481
+    },
+    {
+      "subscriber": 4440,
+      "customer": 504
+    },
+    {
+      "subscriber": 4293,
+      "customer": 596
+    },
+    {
+      "subscriber": 3940,
+      "customer": 662
+    },
+    {
+      "subscriber": 805,
+      "customer": 624
+    },
+    {
+      "subscriber": 630,
+      "customer": 542
+    }
+  ],
+  "Esprit Park": [
+    {
+      "subscriber": 2966,
+      "customer": 416
+    },
+    {
+      "subscriber": 3503,
+      "customer": 428
+    },
+    {
+      "subscriber": 3329,
+      "customer": 448
+    },
+    {
+      "subscriber": 3314,
+      "customer": 479
+    },
+    {
+      "subscriber": 2963,
+      "customer": 476
+    },
+    {
+      "subscriber": 1419,
+      "customer": 599
+    },
+    {
+      "subscriber": 1126,
+      "customer": 562
+    }
+  ],
+  "49th St at Telegraph Ave": [
+    {
+      "subscriber": 585,
+      "customer": 112
+    },
+    {
+      "subscriber": 731,
+      "customer": 109
+    },
+    {
+      "subscriber": 725,
+      "customer": 110
+    },
+    {
+      "subscriber": 735,
+      "customer": 120
+    },
+    {
+      "subscriber": 717,
+      "customer": 168
+    },
+    {
+      "subscriber": 607,
+      "customer": 205
+    },
+    {
+      "subscriber": 553,
+      "customer": 150
+    }
+  ],
+  "Shattuck Ave at Telegraph Ave": [
+    {
+      "subscriber": 663,
+      "customer": 82
+    },
+    {
+      "subscriber": 607,
+      "customer": 62
+    },
+    {
+      "subscriber": 545,
+      "customer": 57
+    },
+    {
+      "subscriber": 592,
+      "customer": 64
+    },
+    {
+      "subscriber": 562,
+      "customer": 95
+    },
+    {
+      "subscriber": 537,
+      "customer": 144
+    },
+    {
+      "subscriber": 390,
+      "customer": 133
+    }
+  ],
+  "Dover St at 57th St": [
+    {
+      "subscriber": 483,
+      "customer": 60
+    },
+    {
+      "subscriber": 567,
+      "customer": 53
+    },
+    {
+      "subscriber": 573,
+      "customer": 33
+    },
+    {
+      "subscriber": 488,
+      "customer": 73
+    },
+    {
+      "subscriber": 513,
+      "customer": 65
+    },
+    {
+      "subscriber": 228,
+      "customer": 34
+    },
+    {
+      "subscriber": 203,
+      "customer": 60
+    }
+  ],
+  "Golden Gate Ave at Hyde St": [
+    {
+      "subscriber": 813,
+      "customer": 93
+    },
+    {
+      "subscriber": 965,
+      "customer": 111
+    },
+    {
+      "subscriber": 949,
+      "customer": 117
+    },
+    {
+      "subscriber": 895,
+      "customer": 104
+    },
+    {
+      "subscriber": 805,
+      "customer": 155
+    },
+    {
+      "subscriber": 600,
+      "customer": 221
+    },
+    {
+      "subscriber": 469,
+      "customer": 185
+    }
+  ],
+  "Broadway at 30th St": [
+    {
+      "subscriber": 1041,
+      "customer": 120
+    },
+    {
+      "subscriber": 1077,
+      "customer": 126
+    },
+    {
+      "subscriber": 1067,
+      "customer": 98
+    },
+    {
+      "subscriber": 1082,
+      "customer": 101
+    },
+    {
+      "subscriber": 884,
+      "customer": 133
+    },
+    {
+      "subscriber": 651,
+      "customer": 153
+    },
+    {
+      "subscriber": 535,
+      "customer": 112
+    }
+  ],
+  "San Pablo Ave at 27th St": [
+    {
+      "subscriber": 171,
+      "customer": 32
+    },
+    {
+      "subscriber": 209,
+      "customer": 28
+    },
+    {
+      "subscriber": 182,
+      "customer": 23
+    },
+    {
+      "subscriber": 172,
+      "customer": 25
+    },
+    {
+      "subscriber": 200,
+      "customer": 30
+    },
+    {
+      "subscriber": 153,
+      "customer": 61
+    },
+    {
+      "subscriber": 113,
+      "customer": 32
+    }
+  ],
+  "Paseo De San Antonio at 2nd St": [
+    {
+      "subscriber": 753,
+      "customer": 62
+    },
+    {
+      "subscriber": 828,
+      "customer": 39
+    },
+    {
+      "subscriber": 732,
+      "customer": 51
+    },
+    {
+      "subscriber": 747,
+      "customer": 32
+    },
+    {
+      "subscriber": 723,
+      "customer": 109
+    },
+    {
+      "subscriber": 546,
+      "customer": 118
+    },
+    {
+      "subscriber": 510,
+      "customer": 116
+    }
+  ],
+  "Berkeley Civic Center": [
+    {
+      "subscriber": 1337,
+      "customer": 157
+    },
+    {
+      "subscriber": 1425,
+      "customer": 141
+    },
+    {
+      "subscriber": 1411,
+      "customer": 151
+    },
+    {
+      "subscriber": 1327,
+      "customer": 189
+    },
+    {
+      "subscriber": 1148,
+      "customer": 200
+    },
+    {
+      "subscriber": 761,
+      "customer": 240
+    },
+    {
+      "subscriber": 594,
+      "customer": 166
+    }
+  ],
+  "Webster St at 19th St": [
+    {
+      "subscriber": 695,
+      "customer": 53
+    },
+    {
+      "subscriber": 824,
+      "customer": 93
+    },
+    {
+      "subscriber": 748,
+      "customer": 77
+    },
+    {
+      "subscriber": 719,
+      "customer": 87
+    },
+    {
+      "subscriber": 713,
+      "customer": 77
+    },
+    {
+      "subscriber": 347,
+      "customer": 86
+    },
+    {
+      "subscriber": 180,
+      "customer": 75
+    }
+  ],
+  "Telegraph Ave at Carleton St": [
+    {
+      "subscriber": 533,
+      "customer": 67
+    },
+    {
+      "subscriber": 571,
+      "customer": 54
+    },
+    {
+      "subscriber": 612,
+      "customer": 56
+    },
+    {
+      "subscriber": 542,
+      "customer": 55
+    },
+    {
+      "subscriber": 520,
+      "customer": 70
+    },
+    {
+      "subscriber": 400,
+      "customer": 112
+    },
+    {
+      "subscriber": 486,
+      "customer": 99
+    }
+  ],
+  "San Salvador St at 1st St": [
+    {
+      "subscriber": 374,
+      "customer": 55
+    },
+    {
+      "subscriber": 342,
+      "customer": 46
+    },
+    {
+      "subscriber": 363,
+      "customer": 56
+    },
+    {
+      "subscriber": 312,
+      "customer": 56
+    },
+    {
+      "subscriber": 339,
+      "customer": 69
+    },
+    {
+      "subscriber": 261,
+      "customer": 92
+    },
+    {
+      "subscriber": 288,
+      "customer": 138
+    }
+  ],
+  "Potrero Ave and Mariposa St": [
+    {
+      "subscriber": 481,
+      "customer": 89
+    },
+    {
+      "subscriber": 644,
+      "customer": 110
+    },
+    {
+      "subscriber": 566,
+      "customer": 104
+    },
+    {
+      "subscriber": 545,
+      "customer": 86
+    },
+    {
+      "subscriber": 485,
+      "customer": 105
+    },
+    {
+      "subscriber": 384,
+      "customer": 108
+    },
+    {
+      "subscriber": 386,
+      "customer": 135
+    }
+  ],
+  "Spear St at Folsom St": [
+    {
+      "subscriber": 3330,
+      "customer": 404
+    },
+    {
+      "subscriber": 3755,
+      "customer": 445
+    },
+    {
+      "subscriber": 3687,
+      "customer": 492
+    },
+    {
+      "subscriber": 3627,
+      "customer": 484
+    },
+    {
+      "subscriber": 3366,
+      "customer": 549
+    },
+    {
+      "subscriber": 731,
+      "customer": 332
+    },
+    {
+      "subscriber": 688,
+      "customer": 281
+    }
+  ],
+  "Garfield Square (25th St at Harrison St)": [
+    {
+      "subscriber": 1331,
+      "customer": 262
+    },
+    {
+      "subscriber": 1533,
+      "customer": 270
+    },
+    {
+      "subscriber": 1487,
+      "customer": 296
+    },
+    {
+      "subscriber": 1458,
+      "customer": 277
+    },
+    {
+      "subscriber": 1339,
+      "customer": 283
+    },
+    {
+      "subscriber": 1236,
+      "customer": 452
+    },
+    {
+      "subscriber": 1172,
+      "customer": 419
+    }
+  ],
+  "California St at University Ave": [
+    {
+      "subscriber": 551,
+      "customer": 65
+    },
+    {
+      "subscriber": 569,
+      "customer": 75
+    },
+    {
+      "subscriber": 548,
+      "customer": 91
+    },
+    {
+      "subscriber": 649,
+      "customer": 96
+    },
+    {
+      "subscriber": 494,
+      "customer": 75
+    },
+    {
+      "subscriber": 317,
+      "customer": 156
+    },
+    {
+      "subscriber": 294,
+      "customer": 117
+    }
+  ],
+  "Mosswood Park": [
+    {
+      "subscriber": 704,
+      "customer": 52
+    },
+    {
+      "subscriber": 846,
+      "customer": 55
+    },
+    {
+      "subscriber": 899,
+      "customer": 75
+    },
+    {
+      "subscriber": 912,
+      "customer": 85
+    },
+    {
+      "subscriber": 747,
+      "customer": 79
+    },
+    {
+      "subscriber": 361,
+      "customer": 93
+    },
+    {
+      "subscriber": 302,
+      "customer": 71
+    }
+  ],
+  "20th St at Bryant St": [
+    {
+      "subscriber": 1306,
+      "customer": 166
+    },
+    {
+      "subscriber": 1536,
+      "customer": 185
+    },
+    {
+      "subscriber": 1340,
+      "customer": 213
+    },
+    {
+      "subscriber": 1429,
+      "customer": 200
+    },
+    {
+      "subscriber": 1302,
+      "customer": 205
+    },
+    {
+      "subscriber": 810,
+      "customer": 209
+    },
+    {
+      "subscriber": 830,
+      "customer": 197
+    }
+  ],
+  "MacArthur Blvd at Telegraph Ave": [
+    {
+      "subscriber": 386,
+      "customer": 49
+    },
+    {
+      "subscriber": 397,
+      "customer": 61
+    },
+    {
+      "subscriber": 353,
+      "customer": 46
+    },
+    {
+      "subscriber": 320,
+      "customer": 68
+    },
+    {
+      "subscriber": 286,
+      "customer": 74
+    },
+    {
+      "subscriber": 260,
+      "customer": 91
+    },
+    {
+      "subscriber": 201,
+      "customer": 100
+    }
+  ],
+  "55th St at Telegraph Ave": [
+    {
+      "subscriber": 456,
+      "customer": 40
+    },
+    {
+      "subscriber": 352,
+      "customer": 42
+    },
+    {
+      "subscriber": 362,
+      "customer": 39
+    },
+    {
+      "subscriber": 295,
+      "customer": 26
+    },
+    {
+      "subscriber": 379,
+      "customer": 42
+    },
+    {
+      "subscriber": 331,
+      "customer": 54
+    },
+    {
+      "subscriber": 275,
+      "customer": 46
+    }
+  ],
+  "Market St at Brockhurst St": [
+    {
+      "subscriber": 505,
+      "customer": 46
+    },
+    {
+      "subscriber": 538,
+      "customer": 58
+    },
+    {
+      "subscriber": 476,
+      "customer": 25
+    },
+    {
+      "subscriber": 403,
+      "customer": 34
+    },
+    {
+      "subscriber": 455,
+      "customer": 38
+    },
+    {
+      "subscriber": 365,
+      "customer": 41
+    },
+    {
+      "subscriber": 336,
+      "customer": 54
+    }
+  ],
+  "Adeline St at 40th St": [
+    {
+      "subscriber": 408,
+      "customer": 64
+    },
+    {
+      "subscriber": 507,
+      "customer": 46
+    },
+    {
+      "subscriber": 515,
+      "customer": 67
+    },
+    {
+      "subscriber": 453,
+      "customer": 71
+    },
+    {
+      "subscriber": 492,
+      "customer": 65
+    },
+    {
+      "subscriber": 370,
+      "customer": 85
+    },
+    {
+      "subscriber": 372,
+      "customer": 83
+    }
+  ],
+  "College Ave at Harwood Ave": [
+    {
+      "subscriber": 457,
+      "customer": 64
+    },
+    {
+      "subscriber": 590,
+      "customer": 41
+    },
+    {
+      "subscriber": 484,
+      "customer": 63
+    },
+    {
+      "subscriber": 440,
+      "customer": 41
+    },
+    {
+      "subscriber": 399,
+      "customer": 54
+    },
+    {
+      "subscriber": 429,
+      "customer": 85
+    },
+    {
+      "subscriber": 335,
+      "customer": 87
+    }
+  ],
+  "Mission St at 1st St": [
+    {
+      "subscriber": 120,
+      "customer": 16
+    },
+    {
+      "subscriber": 150,
+      "customer": 9
+    },
+    {
+      "subscriber": 162,
+      "customer": 16
+    },
+    {
+      "subscriber": 149,
+      "customer": 18
+    },
+    {
+      "subscriber": 150,
+      "customer": 18
+    },
+    {
+      "subscriber": 45,
+      "customer": 37
+    },
+    {
+      "subscriber": 72,
+      "customer": 40
+    }
+  ],
+  "San Fernando St at 4th St": [
+    {
+      "subscriber": 1912,
+      "customer": 85
+    },
+    {
+      "subscriber": 1981,
+      "customer": 65
+    },
+    {
+      "subscriber": 2038,
+      "customer": 59
+    },
+    {
+      "subscriber": 1928,
+      "customer": 84
+    },
+    {
+      "subscriber": 1610,
+      "customer": 79
+    },
+    {
+      "subscriber": 1075,
+      "customer": 128
+    },
+    {
+      "subscriber": 1142,
+      "customer": 140
+    }
+  ],
+  "Snow Park": [
+    {
+      "subscriber": 711,
+      "customer": 111
+    },
+    {
+      "subscriber": 888,
+      "customer": 121
+    },
+    {
+      "subscriber": 797,
+      "customer": 111
+    },
+    {
+      "subscriber": 759,
+      "customer": 129
+    },
+    {
+      "subscriber": 626,
+      "customer": 109
+    },
+    {
+      "subscriber": 304,
+      "customer": 172
+    },
+    {
+      "subscriber": 238,
+      "customer": 147
+    }
+  ],
+  "William St at 10th St": [
+    {
+      "subscriber": 324,
+      "customer": 17
+    },
+    {
+      "subscriber": 371,
+      "customer": 22
+    },
+    {
+      "subscriber": 339,
+      "customer": 48
+    },
+    {
+      "subscriber": 348,
+      "customer": 17
+    },
+    {
+      "subscriber": 305,
+      "customer": 16
+    },
+    {
+      "subscriber": 178,
+      "customer": 39
+    },
+    {
+      "subscriber": 146,
+      "customer": 42
+    }
+  ],
+  "SAP Center": [
+    {
+      "subscriber": 113,
+      "customer": 58
+    },
+    {
+      "subscriber": 101,
+      "customer": 56
+    },
+    {
+      "subscriber": 96,
+      "customer": 52
+    },
+    {
+      "subscriber": 117,
+      "customer": 47
+    },
+    {
+      "subscriber": 114,
+      "customer": 55
+    },
+    {
+      "subscriber": 163,
+      "customer": 135
+    },
+    {
+      "subscriber": 136,
+      "customer": 137
+    }
+  ],
+  "Morrison Ave at Julian St": [
+    {
+      "subscriber": 429,
+      "customer": 9
+    },
+    {
+      "subscriber": 482,
+      "customer": 14
+    },
+    {
+      "subscriber": 518,
+      "customer": 12
+    },
+    {
+      "subscriber": 410,
+      "customer": 14
+    },
+    {
+      "subscriber": 379,
+      "customer": 17
+    },
+    {
+      "subscriber": 333,
+      "customer": 21
+    },
+    {
+      "subscriber": 263,
+      "customer": 19
+    }
+  ],
+  "W St John St at Guadalupe River Trail": [
+    {
+      "subscriber": 29,
+      "customer": 21
+    },
+    {
+      "subscriber": 28,
+      "customer": 5
+    },
+    {
+      "subscriber": 29,
+      "customer": 2
+    },
+    {
+      "subscriber": 28,
+      "customer": 8
+    },
+    {
+      "subscriber": 48,
+      "customer": 14
+    },
+    {
+      "subscriber": 61,
+      "customer": 18
+    },
+    {
+      "subscriber": 29,
+      "customer": 33
+    }
+  ],
+  "9th St at San Fernando": [
+    {
+      "subscriber": 351,
+      "customer": 19
+    },
+    {
+      "subscriber": 362,
+      "customer": 27
+    },
+    {
+      "subscriber": 411,
+      "customer": 39
+    },
+    {
+      "subscriber": 338,
+      "customer": 29
+    },
+    {
+      "subscriber": 295,
+      "customer": 48
+    },
+    {
+      "subscriber": 142,
+      "customer": 37
+    },
+    {
+      "subscriber": 105,
+      "customer": 46
+    }
+  ],
+  "Davis St at Jackson St": [
+    {
+      "subscriber": 2658,
+      "customer": 283
+    },
+    {
+      "subscriber": 2952,
+      "customer": 279
+    },
+    {
+      "subscriber": 2699,
+      "customer": 304
+    },
+    {
+      "subscriber": 2630,
+      "customer": 349
+    },
+    {
+      "subscriber": 2324,
+      "customer": 366
+    },
+    {
+      "subscriber": 814,
+      "customer": 477
+    },
+    {
+      "subscriber": 745,
+      "customer": 340
+    }
+  ],
+  "Downtown Berkeley BART": [
+    {
+      "subscriber": 2532,
+      "customer": 280
+    },
+    {
+      "subscriber": 2694,
+      "customer": 281
+    },
+    {
+      "subscriber": 2661,
+      "customer": 239
+    },
+    {
+      "subscriber": 2536,
+      "customer": 237
+    },
+    {
+      "subscriber": 2319,
+      "customer": 333
+    },
+    {
+      "subscriber": 1504,
+      "customer": 405
+    },
+    {
+      "subscriber": 1259,
+      "customer": 369
+    }
+  ],
+  "Union St at 10th St": [
+    {
+      "subscriber": 423,
+      "customer": 17
+    },
+    {
+      "subscriber": 446,
+      "customer": 34
+    },
+    {
+      "subscriber": 459,
+      "customer": 34
+    },
+    {
+      "subscriber": 423,
+      "customer": 32
+    },
+    {
+      "subscriber": 386,
+      "customer": 23
+    },
+    {
+      "subscriber": 225,
+      "customer": 52
+    },
+    {
+      "subscriber": 163,
+      "customer": 40
+    }
+  ],
+  "Fountain Alley at S 2nd St": [
+    {
+      "subscriber": 565,
+      "customer": 30
+    },
+    {
+      "subscriber": 638,
+      "customer": 24
+    },
+    {
+      "subscriber": 630,
+      "customer": 33
+    },
+    {
+      "subscriber": 602,
+      "customer": 38
+    },
+    {
+      "subscriber": 548,
+      "customer": 53
+    },
+    {
+      "subscriber": 458,
+      "customer": 63
+    },
+    {
+      "subscriber": 408,
+      "customer": 72
+    }
+  ],
+  "College Ave at Alcatraz Ave": [
+    {
+      "subscriber": 847,
+      "customer": 91
+    },
+    {
+      "subscriber": 877,
+      "customer": 106
+    },
+    {
+      "subscriber": 899,
+      "customer": 88
+    },
+    {
+      "subscriber": 831,
+      "customer": 78
+    },
+    {
+      "subscriber": 741,
+      "customer": 88
+    },
+    {
+      "subscriber": 607,
+      "customer": 176
+    },
+    {
+      "subscriber": 611,
+      "customer": 126
+    }
+  ],
+  "17th St at Dolores St": [
+    {
+      "subscriber": 902,
+      "customer": 140
+    },
+    {
+      "subscriber": 1114,
+      "customer": 108
+    },
+    {
+      "subscriber": 1046,
+      "customer": 129
+    },
+    {
+      "subscriber": 965,
+      "customer": 118
+    },
+    {
+      "subscriber": 902,
+      "customer": 120
+    },
+    {
+      "subscriber": 1022,
+      "customer": 374
+    },
+    {
+      "subscriber": 915,
+      "customer": 290
+    }
+  ],
+  "S. 4th St at San Carlos St": [
+    {
+      "subscriber": 398,
+      "customer": 37
+    },
+    {
+      "subscriber": 377,
+      "customer": 24
+    },
+    {
+      "subscriber": 399,
+      "customer": 40
+    },
+    {
+      "subscriber": 357,
+      "customer": 31
+    },
+    {
+      "subscriber": 311,
+      "customer": 16
+    },
+    {
+      "subscriber": 215,
+      "customer": 71
+    },
+    {
+      "subscriber": 219,
+      "customer": 43
+    }
+  ],
+  "MLK Jr Way at 14th St": [
+    {
+      "subscriber": 286,
+      "customer": 39
+    },
+    {
+      "subscriber": 344,
+      "customer": 41
+    },
+    {
+      "subscriber": 304,
+      "customer": 36
+    },
+    {
+      "subscriber": 312,
+      "customer": 41
+    },
+    {
+      "subscriber": 227,
+      "customer": 41
+    },
+    {
+      "subscriber": 321,
+      "customer": 70
+    },
+    {
+      "subscriber": 296,
+      "customer": 66
+    }
+  ],
+  "Jackson St at 11th St": [
+    {
+      "subscriber": 446,
+      "customer": 43
+    },
+    {
+      "subscriber": 474,
+      "customer": 37
+    },
+    {
+      "subscriber": 476,
+      "customer": 50
+    },
+    {
+      "subscriber": 492,
+      "customer": 35
+    },
+    {
+      "subscriber": 486,
+      "customer": 51
+    },
+    {
+      "subscriber": 278,
+      "customer": 111
+    },
+    {
+      "subscriber": 200,
+      "customer": 73
+    }
+  ],
+  "Raymond Kimbell Playground": [
+    {
+      "subscriber": 955,
+      "customer": 244
+    },
+    {
+      "subscriber": 949,
+      "customer": 227
+    },
+    {
+      "subscriber": 950,
+      "customer": 196
+    },
+    {
+      "subscriber": 901,
+      "customer": 235
+    },
+    {
+      "subscriber": 877,
+      "customer": 284
+    },
+    {
+      "subscriber": 753,
+      "customer": 584
+    },
+    {
+      "subscriber": 680,
+      "customer": 546
+    }
+  ],
+  "Channing Way at San Pablo Ave": [
+    {
+      "subscriber": 365,
+      "customer": 85
+    },
+    {
+      "subscriber": 472,
+      "customer": 100
+    },
+    {
+      "subscriber": 454,
+      "customer": 91
+    },
+    {
+      "subscriber": 412,
+      "customer": 119
+    },
+    {
+      "subscriber": 484,
+      "customer": 117
+    },
+    {
+      "subscriber": 276,
+      "customer": 196
+    },
+    {
+      "subscriber": 220,
+      "customer": 144
+    }
+  ],
+  "College Ave at Bryant Ave": [
+    {
+      "subscriber": 199,
+      "customer": 27
+    },
+    {
+      "subscriber": 286,
+      "customer": 16
+    },
+    {
+      "subscriber": 268,
+      "customer": 26
+    },
+    {
+      "subscriber": 236,
+      "customer": 24
+    },
+    {
+      "subscriber": 202,
+      "customer": 36
+    },
+    {
+      "subscriber": 181,
+      "customer": 44
+    },
+    {
+      "subscriber": 104,
+      "customer": 34
+    }
+  ],
+  "Vine St at Shattuck Ave": [
+    {
+      "subscriber": 597,
+      "customer": 132
+    },
+    {
+      "subscriber": 647,
+      "customer": 90
+    },
+    {
+      "subscriber": 782,
+      "customer": 90
+    },
+    {
+      "subscriber": 623,
+      "customer": 107
+    },
+    {
+      "subscriber": 591,
+      "customer": 115
+    },
+    {
+      "subscriber": 571,
+      "customer": 214
+    },
+    {
+      "subscriber": 523,
+      "customer": 175
+    }
+  ],
+  "Colin P Kelly Jr St at Townsend St (Temporary Site)": [
+    {
+      "subscriber": 805,
+      "customer": 76
+    },
+    {
+      "subscriber": 899,
+      "customer": 99
+    },
+    {
+      "subscriber": 963,
+      "customer": 89
+    },
+    {
+      "subscriber": 807,
+      "customer": 94
+    },
+    {
+      "subscriber": 696,
+      "customer": 84
+    },
+    {
+      "subscriber": 283,
+      "customer": 106
+    },
+    {
+      "subscriber": 238,
+      "customer": 110
+    }
+  ],
+  "Telegraph Ave at Alcatraz Ave": [
+    {
+      "subscriber": 526,
+      "customer": 53
+    },
+    {
+      "subscriber": 563,
+      "customer": 86
+    },
+    {
+      "subscriber": 557,
+      "customer": 83
+    },
+    {
+      "subscriber": 584,
+      "customer": 49
+    },
+    {
+      "subscriber": 473,
+      "customer": 59
+    },
+    {
+      "subscriber": 402,
+      "customer": 99
+    },
+    {
+      "subscriber": 379,
+      "customer": 69
+    }
+  ],
+  "San Bruno Ave at 16th St": [
+    {
+      "subscriber": 868,
+      "customer": 55
+    },
+    {
+      "subscriber": 940,
+      "customer": 56
+    },
+    {
+      "subscriber": 781,
+      "customer": 47
+    },
+    {
+      "subscriber": 826,
+      "customer": 50
+    },
+    {
+      "subscriber": 825,
+      "customer": 81
+    },
+    {
+      "subscriber": 156,
+      "customer": 44
+    },
+    {
+      "subscriber": 118,
+      "customer": 31
+    }
+  ],
+  "59th St at Horton St": [
+    {
+      "subscriber": 416,
+      "customer": 80
+    },
+    {
+      "subscriber": 506,
+      "customer": 70
+    },
+    {
+      "subscriber": 506,
+      "customer": 95
+    },
+    {
+      "subscriber": 482,
+      "customer": 87
+    },
+    {
+      "subscriber": 370,
+      "customer": 92
+    },
+    {
+      "subscriber": 148,
+      "customer": 90
+    },
+    {
+      "subscriber": 142,
+      "customer": 93
+    }
+  ],
+  "Lake Merritt BART Station": [
+    {
+      "subscriber": 2315,
+      "customer": 204
+    },
+    {
+      "subscriber": 2729,
+      "customer": 260
+    },
+    {
+      "subscriber": 2558,
+      "customer": 249
+    },
+    {
+      "subscriber": 2574,
+      "customer": 210
+    },
+    {
+      "subscriber": 2112,
+      "customer": 241
+    },
+    {
+      "subscriber": 873,
+      "customer": 273
+    },
+    {
+      "subscriber": 753,
+      "customer": 193
+    }
+  ],
+  "32nd St at Adeline St": [
+    {
+      "subscriber": 399,
+      "customer": 79
+    },
+    {
+      "subscriber": 464,
+      "customer": 89
+    },
+    {
+      "subscriber": 460,
+      "customer": 88
+    },
+    {
+      "subscriber": 454,
+      "customer": 78
+    },
+    {
+      "subscriber": 417,
+      "customer": 114
+    },
+    {
+      "subscriber": 206,
+      "customer": 167
+    },
+    {
+      "subscriber": 211,
+      "customer": 94
+    }
+  ],
+  "West St at 40th St": [
+    {
+      "subscriber": 424,
+      "customer": 40
+    },
+    {
+      "subscriber": 497,
+      "customer": 46
+    },
+    {
+      "subscriber": 456,
+      "customer": 53
+    },
+    {
+      "subscriber": 433,
+      "customer": 63
+    },
+    {
+      "subscriber": 341,
+      "customer": 45
+    },
+    {
+      "subscriber": 215,
+      "customer": 47
+    },
+    {
+      "subscriber": 190,
+      "customer": 49
+    }
+  ],
+  "Palm St at Willow St": [
+    {
+      "subscriber": 26,
+      "customer": 8
+    },
+    {
+      "subscriber": 41,
+      "customer": 1
+    },
+    {
+      "subscriber": 43,
+      "customer": 3
+    },
+    {
+      "subscriber": 31,
+      "customer": 4
+    },
+    {
+      "subscriber": 43,
+      "customer": 2
+    },
+    {
+      "subscriber": 28,
+      "customer": 7
+    },
+    {
+      "subscriber": 29,
+      "customer": 17
+    }
+  ],
+  "Woolsey St at Sacramento St": [
+    {
+      "subscriber": 589,
+      "customer": 68
+    },
+    {
+      "subscriber": 614,
+      "customer": 61
+    },
+    {
+      "subscriber": 656,
+      "customer": 79
+    },
+    {
+      "subscriber": 660,
+      "customer": 60
+    },
+    {
+      "subscriber": 537,
+      "customer": 64
+    },
+    {
+      "subscriber": 401,
+      "customer": 89
+    },
+    {
+      "subscriber": 354,
+      "customer": 91
+    }
+  ],
+  "Bushrod Park": [
+    {
+      "subscriber": 312,
+      "customer": 28
+    },
+    {
+      "subscriber": 328,
+      "customer": 33
+    },
+    {
+      "subscriber": 302,
+      "customer": 43
+    },
+    {
+      "subscriber": 290,
+      "customer": 20
+    },
+    {
+      "subscriber": 268,
+      "customer": 57
+    },
+    {
+      "subscriber": 179,
+      "customer": 60
+    },
+    {
+      "subscriber": 194,
+      "customer": 45
+    }
+  ],
+  "The Embarcadero at Vallejo St": [
+    {
+      "subscriber": 2124,
+      "customer": 879
+    },
+    {
+      "subscriber": 2322,
+      "customer": 772
+    },
+    {
+      "subscriber": 2324,
+      "customer": 861
+    },
+    {
+      "subscriber": 2678,
+      "customer": 988
+    },
+    {
+      "subscriber": 1865,
+      "customer": 1167
+    },
+    {
+      "subscriber": 702,
+      "customer": 2089
+    },
+    {
+      "subscriber": 530,
+      "customer": 1567
+    }
+  ],
+  "Isabella St at San Pablo Ave": [
+    {
+      "subscriber": 246,
+      "customer": 26
+    },
+    {
+      "subscriber": 276,
+      "customer": 29
+    },
+    {
+      "subscriber": 266,
+      "customer": 30
+    },
+    {
+      "subscriber": 274,
+      "customer": 32
+    },
+    {
+      "subscriber": 203,
+      "customer": 32
+    },
+    {
+      "subscriber": 127,
+      "customer": 31
+    },
+    {
+      "subscriber": 87,
+      "customer": 35
+    }
+  ],
+  "Jersey St at Church St": [
+    {
+      "subscriber": 519,
+      "customer": 65
+    },
+    {
+      "subscriber": 675,
+      "customer": 55
+    },
+    {
+      "subscriber": 663,
+      "customer": 82
+    },
+    {
+      "subscriber": 650,
+      "customer": 90
+    },
+    {
+      "subscriber": 598,
+      "customer": 80
+    },
+    {
+      "subscriber": 349,
+      "customer": 96
+    },
+    {
+      "subscriber": 304,
+      "customer": 96
+    }
+  ],
+  "Harmon St at Adeline St": [
+    {
+      "subscriber": 246,
+      "customer": 63
+    },
+    {
+      "subscriber": 313,
+      "customer": 23
+    },
+    {
+      "subscriber": 261,
+      "customer": 25
+    },
+    {
+      "subscriber": 275,
+      "customer": 56
+    },
+    {
+      "subscriber": 208,
+      "customer": 44
+    },
+    {
+      "subscriber": 237,
+      "customer": 65
+    },
+    {
+      "subscriber": 190,
+      "customer": 52
+    }
+  ],
+  "Grand Ave at Santa Clara Ave": [
+    {
+      "subscriber": 929,
+      "customer": 151
+    },
+    {
+      "subscriber": 1085,
+      "customer": 193
+    },
+    {
+      "subscriber": 1040,
+      "customer": 185
+    },
+    {
+      "subscriber": 1046,
+      "customer": 199
+    },
+    {
+      "subscriber": 890,
+      "customer": 237
+    },
+    {
+      "subscriber": 646,
+      "customer": 298
+    },
+    {
+      "subscriber": 495,
+      "customer": 226
+    }
+  ],
+  "12th St at 6th Ave": [
+    {
+      "subscriber": 83,
+      "customer": 19
+    },
+    {
+      "subscriber": 132,
+      "customer": 35
+    },
+    {
+      "subscriber": 76,
+      "customer": 31
+    },
+    {
+      "subscriber": 126,
+      "customer": 18
+    },
+    {
+      "subscriber": 133,
+      "customer": 15
+    },
+    {
+      "subscriber": 86,
+      "customer": 18
+    },
+    {
+      "subscriber": 106,
+      "customer": 25
+    }
+  ],
+  "37th St at West St": [
+    {
+      "subscriber": 180,
+      "customer": 11
+    },
+    {
+      "subscriber": 203,
+      "customer": 17
+    },
+    {
+      "subscriber": 210,
+      "customer": 17
+    },
+    {
+      "subscriber": 178,
+      "customer": 11
+    },
+    {
+      "subscriber": 142,
+      "customer": 34
+    },
+    {
+      "subscriber": 142,
+      "customer": 26
+    },
+    {
+      "subscriber": 122,
+      "customer": 19
+    }
+  ],
+  "Hearst Ave at Euclid Ave": [
+    {
+      "subscriber": 1019,
+      "customer": 117
+    },
+    {
+      "subscriber": 1083,
+      "customer": 99
+    },
+    {
+      "subscriber": 1016,
+      "customer": 110
+    },
+    {
+      "subscriber": 1030,
+      "customer": 133
+    },
+    {
+      "subscriber": 1006,
+      "customer": 109
+    },
+    {
+      "subscriber": 559,
+      "customer": 178
+    },
+    {
+      "subscriber": 575,
+      "customer": 133
+    }
+  ],
+  "Pierce St at Haight St": [
+    {
+      "subscriber": 784,
+      "customer": 157
+    },
+    {
+      "subscriber": 907,
+      "customer": 175
+    },
+    {
+      "subscriber": 981,
+      "customer": 220
+    },
+    {
+      "subscriber": 925,
+      "customer": 226
+    },
+    {
+      "subscriber": 914,
+      "customer": 261
+    },
+    {
+      "subscriber": 801,
+      "customer": 400
+    },
+    {
+      "subscriber": 668,
+      "customer": 374
+    }
+  ],
+  "Ninth St at Heinz Ave": [
+    {
+      "subscriber": 583,
+      "customer": 91
+    },
+    {
+      "subscriber": 619,
+      "customer": 81
+    },
+    {
+      "subscriber": 604,
+      "customer": 66
+    },
+    {
+      "subscriber": 607,
+      "customer": 97
+    },
+    {
+      "subscriber": 581,
+      "customer": 91
+    },
+    {
+      "subscriber": 479,
+      "customer": 152
+    },
+    {
+      "subscriber": 404,
+      "customer": 121
+    }
+  ],
+  "Doyle St at 59th St": [
+    {
+      "subscriber": 337,
+      "customer": 48
+    },
+    {
+      "subscriber": 306,
+      "customer": 54
+    },
+    {
+      "subscriber": 308,
+      "customer": 74
+    },
+    {
+      "subscriber": 311,
+      "customer": 61
+    },
+    {
+      "subscriber": 339,
+      "customer": 71
+    },
+    {
+      "subscriber": 143,
+      "customer": 71
+    },
+    {
+      "subscriber": 97,
+      "customer": 56
+    }
+  ],
+  "34th St at Telegraph Ave": [
+    {
+      "subscriber": 546,
+      "customer": 62
+    },
+    {
+      "subscriber": 575,
+      "customer": 89
+    },
+    {
+      "subscriber": 556,
+      "customer": 51
+    },
+    {
+      "subscriber": 499,
+      "customer": 53
+    },
+    {
+      "subscriber": 466,
+      "customer": 71
+    },
+    {
+      "subscriber": 207,
+      "customer": 92
+    },
+    {
+      "subscriber": 193,
+      "customer": 73
+    }
+  ],
+  "Autumn Parkway at Coleman Ave": [
+    {
+      "subscriber": 194,
+      "customer": 130
+    },
+    {
+      "subscriber": 171,
+      "customer": 64
+    },
+    {
+      "subscriber": 200,
+      "customer": 128
+    },
+    {
+      "subscriber": 168,
+      "customer": 64
+    },
+    {
+      "subscriber": 213,
+      "customer": 69
+    },
+    {
+      "subscriber": 269,
+      "customer": 172
+    },
+    {
+      "subscriber": 275,
+      "customer": 300
+    }
+  ],
+  "Cahill Park": [
+    {
+      "subscriber": 358,
+      "customer": 39
+    },
+    {
+      "subscriber": 389,
+      "customer": 37
+    },
+    {
+      "subscriber": 386,
+      "customer": 39
+    },
+    {
+      "subscriber": 384,
+      "customer": 29
+    },
+    {
+      "subscriber": 316,
+      "customer": 37
+    },
+    {
+      "subscriber": 275,
+      "customer": 44
+    },
+    {
+      "subscriber": 295,
+      "customer": 73
+    }
+  ],
+  "Father Alfred E Boeddeker Park": [
+    {
+      "subscriber": 797,
+      "customer": 158
+    },
+    {
+      "subscriber": 891,
+      "customer": 139
+    },
+    {
+      "subscriber": 845,
+      "customer": 153
+    },
+    {
+      "subscriber": 879,
+      "customer": 201
+    },
+    {
+      "subscriber": 823,
+      "customer": 175
+    },
+    {
+      "subscriber": 649,
+      "customer": 355
+    },
+    {
+      "subscriber": 595,
+      "customer": 266
+    }
+  ],
+  "Channing Way at Shattuck Ave": [
+    {
+      "subscriber": 665,
+      "customer": 68
+    },
+    {
+      "subscriber": 721,
+      "customer": 71
+    },
+    {
+      "subscriber": 770,
+      "customer": 103
+    },
+    {
+      "subscriber": 676,
+      "customer": 116
+    },
+    {
+      "subscriber": 645,
+      "customer": 105
+    },
+    {
+      "subscriber": 552,
+      "customer": 166
+    },
+    {
+      "subscriber": 584,
+      "customer": 171
+    }
+  ],
+  "Webster St at 2nd St": [
+    {
+      "subscriber": 945,
+      "customer": 121
+    },
+    {
+      "subscriber": 946,
+      "customer": 142
+    },
+    {
+      "subscriber": 1009,
+      "customer": 148
+    },
+    {
+      "subscriber": 998,
+      "customer": 166
+    },
+    {
+      "subscriber": 974,
+      "customer": 226
+    },
+    {
+      "subscriber": 594,
+      "customer": 418
+    },
+    {
+      "subscriber": 497,
+      "customer": 313
+    }
+  ],
+  "47th St at San Pablo Ave": [
+    {
+      "subscriber": 332,
+      "customer": 55
+    },
+    {
+      "subscriber": 359,
+      "customer": 54
+    },
+    {
+      "subscriber": 381,
+      "customer": 58
+    },
+    {
+      "subscriber": 330,
+      "customer": 43
+    },
+    {
+      "subscriber": 387,
+      "customer": 59
+    },
+    {
+      "subscriber": 206,
+      "customer": 74
+    },
+    {
+      "subscriber": 170,
+      "customer": 76
+    }
+  ],
+  "Julian St at The Alameda": [
+    {
+      "subscriber": 634,
+      "customer": 50
+    },
+    {
+      "subscriber": 772,
+      "customer": 35
+    },
+    {
+      "subscriber": 789,
+      "customer": 82
+    },
+    {
+      "subscriber": 711,
+      "customer": 78
+    },
+    {
+      "subscriber": 704,
+      "customer": 121
+    },
+    {
+      "subscriber": 787,
+      "customer": 85
+    },
+    {
+      "subscriber": 680,
+      "customer": 94
+    }
+  ],
+  "San Pablo Ave at MLK Jr Way": [
+    {
+      "subscriber": 273,
+      "customer": 35
+    },
+    {
+      "subscriber": 310,
+      "customer": 56
+    },
+    {
+      "subscriber": 323,
+      "customer": 31
+    },
+    {
+      "subscriber": 312,
+      "customer": 39
+    },
+    {
+      "subscriber": 301,
+      "customer": 40
+    },
+    {
+      "subscriber": 254,
+      "customer": 55
+    },
+    {
+      "subscriber": 274,
+      "customer": 66
+    }
+  ],
+  "San Carlos St at 11th St": [
+    {
+      "subscriber": 421,
+      "customer": 38
+    },
+    {
+      "subscriber": 469,
+      "customer": 20
+    },
+    {
+      "subscriber": 436,
+      "customer": 33
+    },
+    {
+      "subscriber": 411,
+      "customer": 24
+    },
+    {
+      "subscriber": 334,
+      "customer": 45
+    },
+    {
+      "subscriber": 278,
+      "customer": 51
+    },
+    {
+      "subscriber": 272,
+      "customer": 54
+    }
+  ],
+  "Emeryville Town Hall": [
+    {
+      "subscriber": 335,
+      "customer": 54
+    },
+    {
+      "subscriber": 392,
+      "customer": 28
+    },
+    {
+      "subscriber": 374,
+      "customer": 59
+    },
+    {
+      "subscriber": 422,
+      "customer": 70
+    },
+    {
+      "subscriber": 331,
+      "customer": 70
+    },
+    {
+      "subscriber": 102,
+      "customer": 67
+    },
+    {
+      "subscriber": 101,
+      "customer": 74
+    }
+  ],
+  "Marston Campbell Park": [
+    {
+      "subscriber": 190,
+      "customer": 35
+    },
+    {
+      "subscriber": 229,
+      "customer": 24
+    },
+    {
+      "subscriber": 214,
+      "customer": 31
+    },
+    {
+      "subscriber": 221,
+      "customer": 37
+    },
+    {
+      "subscriber": 199,
+      "customer": 26
+    },
+    {
+      "subscriber": 155,
+      "customer": 36
+    },
+    {
+      "subscriber": 116,
+      "customer": 39
+    }
+  ],
+  "San Jose City Hall": [
+    {
+      "subscriber": 578,
+      "customer": 29
+    },
+    {
+      "subscriber": 612,
+      "customer": 38
+    },
+    {
+      "subscriber": 538,
+      "customer": 71
+    },
+    {
+      "subscriber": 571,
+      "customer": 58
+    },
+    {
+      "subscriber": 518,
+      "customer": 59
+    },
+    {
+      "subscriber": 301,
+      "customer": 65
+    },
+    {
+      "subscriber": 271,
+      "customer": 67
+    }
+  ],
+  "2nd St at Townsend St": [
+    {
+      "subscriber": 4404,
+      "customer": 659
+    },
+    {
+      "subscriber": 4842,
+      "customer": 743
+    },
+    {
+      "subscriber": 4535,
+      "customer": 752
+    },
+    {
+      "subscriber": 4371,
+      "customer": 814
+    },
+    {
+      "subscriber": 3954,
+      "customer": 1053
+    },
+    {
+      "subscriber": 1284,
+      "customer": 1029
+    },
+    {
+      "subscriber": 1217,
+      "customer": 907
+    }
+  ],
+  "Fruitvale BART Station": [
+    {
+      "subscriber": 284,
+      "customer": 53
+    },
+    {
+      "subscriber": 311,
+      "customer": 65
+    },
+    {
+      "subscriber": 272,
+      "customer": 65
+    },
+    {
+      "subscriber": 297,
+      "customer": 65
+    },
+    {
+      "subscriber": 295,
+      "customer": 81
+    },
+    {
+      "subscriber": 139,
+      "customer": 36
+    },
+    {
+      "subscriber": 103,
+      "customer": 27
+    }
+  ],
+  "Foothill Blvd at 42nd Ave": [
+    {
+      "subscriber": 31,
+      "customer": 2
+    },
+    {
+      "subscriber": 36,
+      "customer": 7
+    },
+    {
+      "subscriber": 34,
+      "customer": 9
+    },
+    {
+      "subscriber": 55,
+      "customer": 7
+    },
+    {
+      "subscriber": 44,
+      "customer": 4
+    },
+    {
+      "subscriber": 25,
+      "customer": 6
+    },
+    {
+      "subscriber": 17,
+      "customer": 6
+    }
+  ],
+  "Bryant St at 2nd St": [
+    {
+      "subscriber": 2171,
+      "customer": 194
+    },
+    {
+      "subscriber": 2485,
+      "customer": 271
+    },
+    {
+      "subscriber": 2419,
+      "customer": 320
+    },
+    {
+      "subscriber": 2609,
+      "customer": 307
+    },
+    {
+      "subscriber": 2206,
+      "customer": 316
+    },
+    {
+      "subscriber": 404,
+      "customer": 238
+    },
+    {
+      "subscriber": 347,
+      "customer": 166
+    }
+  ],
+  "Hubbell St at 16th St": [
+    {
+      "subscriber": 1029,
+      "customer": 142
+    },
+    {
+      "subscriber": 1086,
+      "customer": 172
+    },
+    {
+      "subscriber": 1199,
+      "customer": 186
+    },
+    {
+      "subscriber": 1043,
+      "customer": 168
+    },
+    {
+      "subscriber": 896,
+      "customer": 174
+    },
+    {
+      "subscriber": 518,
+      "customer": 208
+    },
+    {
+      "subscriber": 473,
+      "customer": 168
+    }
+  ],
+  "Ninth St at Parker St": [
+    {
+      "subscriber": 409,
+      "customer": 63
+    },
+    {
+      "subscriber": 490,
+      "customer": 80
+    },
+    {
+      "subscriber": 542,
+      "customer": 67
+    },
+    {
+      "subscriber": 522,
+      "customer": 81
+    },
+    {
+      "subscriber": 451,
+      "customer": 106
+    },
+    {
+      "subscriber": 226,
+      "customer": 198
+    },
+    {
+      "subscriber": 182,
+      "customer": 119
+    }
+  ],
+  "24th St at Chattanooga St": [
+    {
+      "subscriber": 790,
+      "customer": 98
+    },
+    {
+      "subscriber": 846,
+      "customer": 87
+    },
+    {
+      "subscriber": 888,
+      "customer": 106
+    },
+    {
+      "subscriber": 860,
+      "customer": 120
+    },
+    {
+      "subscriber": 723,
+      "customer": 107
+    },
+    {
+      "subscriber": 622,
+      "customer": 149
+    },
+    {
+      "subscriber": 479,
+      "customer": 152
+    }
+  ],
+  "Ellsworth St at Russell St": [
+    {
+      "subscriber": 418,
+      "customer": 51
+    },
+    {
+      "subscriber": 540,
+      "customer": 27
+    },
+    {
+      "subscriber": 508,
+      "customer": 44
+    },
+    {
+      "subscriber": 503,
+      "customer": 46
+    },
+    {
+      "subscriber": 360,
+      "customer": 42
+    },
+    {
+      "subscriber": 222,
+      "customer": 65
+    },
+    {
+      "subscriber": 232,
+      "customer": 51
+    }
+  ],
+  "27th St at MLK Jr Way": [
+    {
+      "subscriber": 84,
+      "customer": 18
+    },
+    {
+      "subscriber": 124,
+      "customer": 24
+    },
+    {
+      "subscriber": 125,
+      "customer": 22
+    },
+    {
+      "subscriber": 114,
+      "customer": 23
+    },
+    {
+      "subscriber": 123,
+      "customer": 30
+    },
+    {
+      "subscriber": 64,
+      "customer": 27
+    },
+    {
+      "subscriber": 69,
+      "customer": 36
+    }
+  ],
+  "Emeryville Public Market": [
+    {
+      "subscriber": 328,
+      "customer": 170
+    },
+    {
+      "subscriber": 275,
+      "customer": 103
+    },
+    {
+      "subscriber": 308,
+      "customer": 111
+    },
+    {
+      "subscriber": 300,
+      "customer": 120
+    },
+    {
+      "subscriber": 252,
+      "customer": 151
+    },
+    {
+      "subscriber": 266,
+      "customer": 304
+    },
+    {
+      "subscriber": 272,
+      "customer": 246
+    }
+  ],
+  "San Pablo Park": [
+    {
+      "subscriber": 199,
+      "customer": 66
+    },
+    {
+      "subscriber": 209,
+      "customer": 48
+    },
+    {
+      "subscriber": 217,
+      "customer": 62
+    },
+    {
+      "subscriber": 215,
+      "customer": 66
+    },
+    {
+      "subscriber": 188,
+      "customer": 66
+    },
+    {
+      "subscriber": 171,
+      "customer": 92
+    },
+    {
+      "subscriber": 138,
+      "customer": 95
+    }
+  ],
+  "8th St at Brannan St": [
+    {
+      "subscriber": 1982,
+      "customer": 272
+    },
+    {
+      "subscriber": 2145,
+      "customer": 274
+    },
+    {
+      "subscriber": 1941,
+      "customer": 297
+    },
+    {
+      "subscriber": 2008,
+      "customer": 284
+    },
+    {
+      "subscriber": 1891,
+      "customer": 355
+    },
+    {
+      "subscriber": 729,
+      "customer": 282
+    },
+    {
+      "subscriber": 776,
+      "customer": 199
+    }
+  ],
+  "Howard St at Mary St": [
+    {
+      "subscriber": 1353,
+      "customer": 230
+    },
+    {
+      "subscriber": 1571,
+      "customer": 234
+    },
+    {
+      "subscriber": 1640,
+      "customer": 226
+    },
+    {
+      "subscriber": 1568,
+      "customer": 264
+    },
+    {
+      "subscriber": 1431,
+      "customer": 306
+    },
+    {
+      "subscriber": 682,
+      "customer": 264
+    },
+    {
+      "subscriber": 607,
+      "customer": 218
+    }
+  ],
+  "5th St at Taylor St": [
+    {
+      "subscriber": 197,
+      "customer": 44
+    },
+    {
+      "subscriber": 183,
+      "customer": 22
+    },
+    {
+      "subscriber": 206,
+      "customer": 36
+    },
+    {
+      "subscriber": 176,
+      "customer": 31
+    },
+    {
+      "subscriber": 190,
+      "customer": 29
+    },
+    {
+      "subscriber": 187,
+      "customer": 54
+    },
+    {
+      "subscriber": 180,
+      "customer": 60
+    }
+  ],
+  "Market St at Park St": [
+    {
+      "subscriber": 201,
+      "customer": 95
+    },
+    {
+      "subscriber": 225,
+      "customer": 79
+    },
+    {
+      "subscriber": 210,
+      "customer": 66
+    },
+    {
+      "subscriber": 287,
+      "customer": 66
+    },
+    {
+      "subscriber": 210,
+      "customer": 95
+    },
+    {
+      "subscriber": 72,
+      "customer": 83
+    },
+    {
+      "subscriber": 84,
+      "customer": 127
+    }
+  ],
+  "Almaden Blvd at San Fernando St": [
+    {
+      "subscriber": 505,
+      "customer": 49
+    },
+    {
+      "subscriber": 489,
+      "customer": 44
+    },
+    {
+      "subscriber": 530,
+      "customer": 51
+    },
+    {
+      "subscriber": 467,
+      "customer": 53
+    },
+    {
+      "subscriber": 439,
+      "customer": 50
+    },
+    {
+      "subscriber": 59,
+      "customer": 49
+    },
+    {
+      "subscriber": 47,
+      "customer": 39
+    }
+  ],
+  "Fulton St at Ashby Ave": [
+    {
+      "subscriber": 328,
+      "customer": 44
+    },
+    {
+      "subscriber": 409,
+      "customer": 41
+    },
+    {
+      "subscriber": 346,
+      "customer": 45
+    },
+    {
+      "subscriber": 315,
+      "customer": 58
+    },
+    {
+      "subscriber": 313,
+      "customer": 80
+    },
+    {
+      "subscriber": 231,
+      "customer": 61
+    },
+    {
+      "subscriber": 252,
+      "customer": 66
+    }
+  ],
+  "Market St at 40th St": [
+    {
+      "subscriber": 183,
+      "customer": 32
+    },
+    {
+      "subscriber": 226,
+      "customer": 26
+    },
+    {
+      "subscriber": 214,
+      "customer": 19
+    },
+    {
+      "subscriber": 167,
+      "customer": 25
+    },
+    {
+      "subscriber": 146,
+      "customer": 25
+    },
+    {
+      "subscriber": 120,
+      "customer": 40
+    },
+    {
+      "subscriber": 135,
+      "customer": 42
+    }
+  ],
+  "Valencia St at Clinton Park": [
+    {
+      "subscriber": 646,
+      "customer": 79
+    },
+    {
+      "subscriber": 787,
+      "customer": 112
+    },
+    {
+      "subscriber": 827,
+      "customer": 134
+    },
+    {
+      "subscriber": 741,
+      "customer": 91
+    },
+    {
+      "subscriber": 771,
+      "customer": 139
+    },
+    {
+      "subscriber": 568,
+      "customer": 153
+    },
+    {
+      "subscriber": 639,
+      "customer": 163
+    }
+  ],
+  "DeFremery Park": [
+    {
+      "subscriber": 449,
+      "customer": 83
+    },
+    {
+      "subscriber": 569,
+      "customer": 68
+    },
+    {
+      "subscriber": 527,
+      "customer": 53
+    },
+    {
+      "subscriber": 450,
+      "customer": 73
+    },
+    {
+      "subscriber": 419,
+      "customer": 91
+    },
+    {
+      "subscriber": 214,
+      "customer": 109
+    },
+    {
+      "subscriber": 161,
+      "customer": 106
+    }
+  ],
+  "Haste St at College Ave": [
+    {
+      "subscriber": 724,
+      "customer": 46
+    },
+    {
+      "subscriber": 775,
+      "customer": 53
+    },
+    {
+      "subscriber": 728,
+      "customer": 57
+    },
+    {
+      "subscriber": 792,
+      "customer": 60
+    },
+    {
+      "subscriber": 744,
+      "customer": 61
+    },
+    {
+      "subscriber": 434,
+      "customer": 70
+    },
+    {
+      "subscriber": 490,
+      "customer": 56
+    }
+  ],
+  "NULL": [
+    {
+      "subscriber": 2554,
+      "customer": 627
+    },
+    {
+      "subscriber": 2665,
+      "customer": 707
+    },
+    {
+      "subscriber": 2788,
+      "customer": 811
+    },
+    {
+      "subscriber": 2769,
+      "customer": 728
+    },
+    {
+      "subscriber": 2352,
+      "customer": 766
+    },
+    {
+      "subscriber": 1613,
+      "customer": 1153
+    },
+    {
+      "subscriber": 1497,
+      "customer": 1160
+    }
+  ],
+  "Fruitvale Ave at International Blvd": [
+    {
+      "subscriber": 33,
+      "customer": 20
+    },
+    {
+      "subscriber": 29,
+      "customer": 17
+    },
+    {
+      "subscriber": 38,
+      "customer": 7
+    },
+    {
+      "subscriber": 35,
+      "customer": 12
+    },
+    {
+      "subscriber": 36,
+      "customer": 14
+    },
+    {
+      "subscriber": 30,
+      "customer": 17
+    },
+    {
+      "subscriber": 42,
+      "customer": 9
+    }
+  ],
+  "23rd Ave at Foothill Blvd": [
+    {
+      "subscriber": 87,
+      "customer": 20
+    },
+    {
+      "subscriber": 112,
+      "customer": 12
+    },
+    {
+      "subscriber": 91,
+      "customer": 18
+    },
+    {
+      "subscriber": 106,
+      "customer": 12
+    },
+    {
+      "subscriber": 89,
+      "customer": 23
+    },
+    {
+      "subscriber": 50,
+      "customer": 31
+    },
+    {
+      "subscriber": 63,
+      "customer": 17
+    }
+  ],
+  "23rd St at Tennessee St": [
+    {
+      "subscriber": 624,
+      "customer": 131
+    },
+    {
+      "subscriber": 729,
+      "customer": 161
+    },
+    {
+      "subscriber": 620,
+      "customer": 161
+    },
+    {
+      "subscriber": 684,
+      "customer": 161
+    },
+    {
+      "subscriber": 532,
+      "customer": 139
+    },
+    {
+      "subscriber": 401,
+      "customer": 206
+    },
+    {
+      "subscriber": 332,
+      "customer": 171
+    }
+  ],
+  "Horton St at 40th St": [
+    {
+      "subscriber": 372,
+      "customer": 131
+    },
+    {
+      "subscriber": 537,
+      "customer": 101
+    },
+    {
+      "subscriber": 399,
+      "customer": 58
+    },
+    {
+      "subscriber": 381,
+      "customer": 79
+    },
+    {
+      "subscriber": 356,
+      "customer": 100
+    },
+    {
+      "subscriber": 325,
+      "customer": 230
+    },
+    {
+      "subscriber": 351,
+      "customer": 169
+    }
+  ],
+  "Market St at 45th St": [
+    {
+      "subscriber": 252,
+      "customer": 38
+    },
+    {
+      "subscriber": 293,
+      "customer": 34
+    },
+    {
+      "subscriber": 320,
+      "customer": 36
+    },
+    {
+      "subscriber": 303,
+      "customer": 43
+    },
+    {
+      "subscriber": 261,
+      "customer": 44
+    },
+    {
+      "subscriber": 136,
+      "customer": 46
+    },
+    {
+      "subscriber": 101,
+      "customer": 44
+    }
+  ],
+  "Mission Bay Kids Park": [
+    {
+      "subscriber": 1022,
+      "customer": 137
+    },
+    {
+      "subscriber": 1217,
+      "customer": 138
+    },
+    {
+      "subscriber": 1246,
+      "customer": 155
+    },
+    {
+      "subscriber": 1195,
+      "customer": 164
+    },
+    {
+      "subscriber": 1073,
+      "customer": 192
+    },
+    {
+      "subscriber": 619,
+      "customer": 256
+    },
+    {
+      "subscriber": 675,
+      "customer": 189
+    }
+  ],
+  "10th Ave at E 15th St": [
+    {
+      "subscriber": 129,
+      "customer": 28
+    },
+    {
+      "subscriber": 190,
+      "customer": 26
+    },
+    {
+      "subscriber": 144,
+      "customer": 26
+    },
+    {
+      "subscriber": 155,
+      "customer": 18
+    },
+    {
+      "subscriber": 131,
+      "customer": 34
+    },
+    {
+      "subscriber": 106,
+      "customer": 42
+    },
+    {
+      "subscriber": 90,
+      "customer": 29
+    }
+  ],
+  "53rd St at Hollis St": [
+    {
+      "subscriber": 136,
+      "customer": 28
+    },
+    {
+      "subscriber": 189,
+      "customer": 28
+    },
+    {
+      "subscriber": 164,
+      "customer": 37
+    },
+    {
+      "subscriber": 164,
+      "customer": 35
+    },
+    {
+      "subscriber": 138,
+      "customer": 45
+    },
+    {
+      "subscriber": 55,
+      "customer": 27
+    },
+    {
+      "subscriber": 57,
+      "customer": 21
+    }
+  ],
+  "5th St at Folsom": [
+    {
+      "subscriber": 1056,
+      "customer": 102
+    },
+    {
+      "subscriber": 1281,
+      "customer": 93
+    },
+    {
+      "subscriber": 1344,
+      "customer": 119
+    },
+    {
+      "subscriber": 1137,
+      "customer": 108
+    },
+    {
+      "subscriber": 1059,
+      "customer": 108
+    },
+    {
+      "subscriber": 468,
+      "customer": 116
+    },
+    {
+      "subscriber": 468,
+      "customer": 109
+    }
+  ],
+  "Jack London Square": [
+    {
+      "subscriber": 381,
+      "customer": 123
+    },
+    {
+      "subscriber": 394,
+      "customer": 100
+    },
+    {
+      "subscriber": 428,
+      "customer": 103
+    },
+    {
+      "subscriber": 405,
+      "customer": 136
+    },
+    {
+      "subscriber": 428,
+      "customer": 162
+    },
+    {
+      "subscriber": 331,
+      "customer": 303
+    },
+    {
+      "subscriber": 325,
+      "customer": 229
+    }
+  ],
+  "Shattuck Ave at 55th St": [
+    {
+      "subscriber": 231,
+      "customer": 24
+    },
+    {
+      "subscriber": 273,
+      "customer": 20
+    },
+    {
+      "subscriber": 292,
+      "customer": 20
+    },
+    {
+      "subscriber": 278,
+      "customer": 32
+    },
+    {
+      "subscriber": 271,
+      "customer": 29
+    },
+    {
+      "subscriber": 179,
+      "customer": 36
+    },
+    {
+      "subscriber": 118,
+      "customer": 15
+    }
+  ],
+  "MLK Jr Way at 36th St (Temporary Location)": [
+    {
+      "subscriber": 51,
+      "customer": 5
+    },
+    {
+      "subscriber": 42,
+      "customer": 4
+    },
+    {
+      "subscriber": 78,
+      "customer": 3
+    },
+    {
+      "subscriber": 50,
+      "customer": 7
+    },
+    {
+      "subscriber": 37,
+      "customer": 11
+    },
+    {
+      "subscriber": 43,
+      "customer": 3
+    },
+    {
+      "subscriber": 21,
+      "customer": 3
+    }
+  ],
+  "4th St at 16th St": [
+    {
+      "subscriber": 1743,
+      "customer": 268
+    },
+    {
+      "subscriber": 2006,
+      "customer": 261
+    },
+    {
+      "subscriber": 1858,
+      "customer": 328
+    },
+    {
+      "subscriber": 1852,
+      "customer": 363
+    },
+    {
+      "subscriber": 1717,
+      "customer": 336
+    },
+    {
+      "subscriber": 429,
+      "customer": 200
+    },
+    {
+      "subscriber": 367,
+      "customer": 140
+    }
+  ],
+  "Berry St at King St": [
+    {
+      "subscriber": 492,
+      "customer": 68
+    },
+    {
+      "subscriber": 585,
+      "customer": 78
+    },
+    {
+      "subscriber": 643,
+      "customer": 78
+    },
+    {
+      "subscriber": 590,
+      "customer": 78
+    },
+    {
+      "subscriber": 554,
+      "customer": 82
+    },
+    {
+      "subscriber": 420,
+      "customer": 106
+    },
+    {
+      "subscriber": 386,
+      "customer": 103
+    }
+  ],
+  "E 12th St at 6th Ave": [
+    {
+      "subscriber": 24,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 41,
+      "customer": 7
+    },
+    {
+      "subscriber": 40,
+      "customer": 5
+    },
+    {
+      "subscriber": 42,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 30,
+      "customer": 4
+    },
+    {
+      "subscriber": 13,
+      "customer": 3
+    },
+    {
+      "subscriber": 24,
+      "customer": 11
+    }
+  ],
+  "Mission Rock St at 3rd St": [
+    {
+      "subscriber": 363,
+      "customer": 52
+    },
+    {
+      "subscriber": 456,
+      "customer": 64
+    },
+    {
+      "subscriber": 464,
+      "customer": 63
+    },
+    {
+      "subscriber": 484,
+      "customer": 87
+    },
+    {
+      "subscriber": 385,
+      "customer": 77
+    },
+    {
+      "subscriber": 214,
+      "customer": 90
+    },
+    {
+      "subscriber": 185,
+      "customer": 102
+    }
+  ],
+  "Salesforce Transit Center (Natoma St at 2nd St)": [
+    {
+      "subscriber": 895,
+      "customer": 78
+    },
+    {
+      "subscriber": 1093,
+      "customer": 94
+    },
+    {
+      "subscriber": 886,
+      "customer": 87
+    },
+    {
+      "subscriber": 983,
+      "customer": 102
+    },
+    {
+      "subscriber": 804,
+      "customer": 113
+    },
+    {
+      "subscriber": 135,
+      "customer": 56
+    },
+    {
+      "subscriber": 103,
+      "customer": 35
+    }
+  ],
+  "West St at University Ave": [
+    {
+      "subscriber": 108,
+      "customer": 26
+    },
+    {
+      "subscriber": 122,
+      "customer": 17
+    },
+    {
+      "subscriber": 127,
+      "customer": 16
+    },
+    {
+      "subscriber": 127,
+      "customer": 19
+    },
+    {
+      "subscriber": 115,
+      "customer": 18
+    },
+    {
+      "subscriber": 81,
+      "customer": 66
+    },
+    {
+      "subscriber": 78,
+      "customer": 65
+    }
+  ],
+  "William St at 4th St (Temporary Location)": [
+    {
+      "subscriber": 6,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 15,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 6,
+      "customer": 1
+    },
+    {
+      "subscriber": 11,
+      "customer": 1
+    },
+    {
+      "subscriber": 5,
+      "customer": 3
+    },
+    {
+      "subscriber": 20,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 5,
+      "customer": 3
+    }
+  ],
+  "2nd St at Julian St": [
+    {
+      "subscriber": 322,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 317,
+      "customer": 3
+    },
+    {
+      "subscriber": 366,
+      "customer": 12
+    },
+    {
+      "subscriber": 308,
+      "customer": 14
+    },
+    {
+      "subscriber": 252,
+      "customer": 14
+    },
+    {
+      "subscriber": 320,
+      "customer": 8
+    },
+    {
+      "subscriber": 338,
+      "customer": 7
+    }
+  ],
+  "Virginia St at Shattuck Ave": [
+    {
+      "subscriber": 265,
+      "customer": 37
+    },
+    {
+      "subscriber": 295,
+      "customer": 32
+    },
+    {
+      "subscriber": 306,
+      "customer": 40
+    },
+    {
+      "subscriber": 287,
+      "customer": 49
+    },
+    {
+      "subscriber": 288,
+      "customer": 41
+    },
+    {
+      "subscriber": 220,
+      "customer": 92
+    },
+    {
+      "subscriber": 203,
+      "customer": 100
+    }
+  ],
+  "6th St at San Fernando St (Temporary Location)": [
+    {
+      "subscriber": 484,
+      "customer": 1
+    },
+    {
+      "subscriber": 610,
+      "customer": 9
+    },
+    {
+      "subscriber": 595,
+      "customer": 8
+    },
+    {
+      "subscriber": 566,
+      "customer": 5
+    },
+    {
+      "subscriber": 385,
+      "customer": 5
+    },
+    {
+      "subscriber": 252,
+      "customer": 8
+    },
+    {
+      "subscriber": 142,
+      "customer": 20
+    }
+  ],
+  "26th Ave at International Blvd": [
+    {
+      "subscriber": 64,
+      "customer": 8
+    },
+    {
+      "subscriber": 69,
+      "customer": 21
+    },
+    {
+      "subscriber": 54,
+      "customer": 7
+    },
+    {
+      "subscriber": 48,
+      "customer": 9
+    },
+    {
+      "subscriber": 53,
+      "customer": 14
+    },
+    {
+      "subscriber": 39,
+      "customer": 7
+    },
+    {
+      "subscriber": 33,
+      "customer": 17
+    }
+  ],
+  "San Pedro St at Hedding St": [
+    {
+      "subscriber": 60,
+      "customer": 26
+    },
+    {
+      "subscriber": 63,
+      "customer": 8
+    },
+    {
+      "subscriber": 72,
+      "customer": 5
+    },
+    {
+      "subscriber": 58,
+      "customer": 36
+    },
+    {
+      "subscriber": 30,
+      "customer": 15
+    },
+    {
+      "subscriber": 49,
+      "customer": 38
+    },
+    {
+      "subscriber": 82,
+      "customer": 32
+    }
+  ],
+  "Folsom St at 13th St": [
+    {
+      "subscriber": 365,
+      "customer": 57
+    },
+    {
+      "subscriber": 382,
+      "customer": 61
+    },
+    {
+      "subscriber": 418,
+      "customer": 60
+    },
+    {
+      "subscriber": 441,
+      "customer": 83
+    },
+    {
+      "subscriber": 376,
+      "customer": 74
+    },
+    {
+      "subscriber": 370,
+      "customer": 115
+    },
+    {
+      "subscriber": 295,
+      "customer": 85
+    }
+  ],
+  "Cesar Chavez St at Dolores St": [
+    {
+      "subscriber": 320,
+      "customer": 69
+    },
+    {
+      "subscriber": 355,
+      "customer": 80
+    },
+    {
+      "subscriber": 321,
+      "customer": 73
+    },
+    {
+      "subscriber": 328,
+      "customer": 76
+    },
+    {
+      "subscriber": 311,
+      "customer": 67
+    },
+    {
+      "subscriber": 281,
+      "customer": 64
+    },
+    {
+      "subscriber": 244,
+      "customer": 72
+    }
+  ],
+  "10th St at University Ave": [
+    {
+      "subscriber": 152,
+      "customer": 42
+    },
+    {
+      "subscriber": 151,
+      "customer": 38
+    },
+    {
+      "subscriber": 153,
+      "customer": 42
+    },
+    {
+      "subscriber": 165,
+      "customer": 40
+    },
+    {
+      "subscriber": 135,
+      "customer": 49
+    },
+    {
+      "subscriber": 150,
+      "customer": 58
+    },
+    {
+      "subscriber": 100,
+      "customer": 34
+    }
+  ],
+  "Milvia St at Derby St": [
+    {
+      "subscriber": 590,
+      "customer": 87
+    },
+    {
+      "subscriber": 659,
+      "customer": 91
+    },
+    {
+      "subscriber": 677,
+      "customer": 91
+    },
+    {
+      "subscriber": 672,
+      "customer": 97
+    },
+    {
+      "subscriber": 555,
+      "customer": 84
+    },
+    {
+      "subscriber": 404,
+      "customer": 101
+    },
+    {
+      "subscriber": 380,
+      "customer": 83
+    }
+  ],
+  "23rd St and San Bruno Ave": [
+    {
+      "subscriber": 116,
+      "customer": 37
+    },
+    {
+      "subscriber": 118,
+      "customer": 21
+    },
+    {
+      "subscriber": 134,
+      "customer": 31
+    },
+    {
+      "subscriber": 160,
+      "customer": 31
+    },
+    {
+      "subscriber": 142,
+      "customer": 43
+    },
+    {
+      "subscriber": 79,
+      "customer": 44
+    },
+    {
+      "subscriber": 88,
+      "customer": 31
+    }
+  ],
+  "45th St at MLK Jr Way": [
+    {
+      "subscriber": 188,
+      "customer": 11
+    },
+    {
+      "subscriber": 182,
+      "customer": 20
+    },
+    {
+      "subscriber": 183,
+      "customer": 14
+    },
+    {
+      "subscriber": 172,
+      "customer": 23
+    },
+    {
+      "subscriber": 171,
+      "customer": 20
+    },
+    {
+      "subscriber": 139,
+      "customer": 28
+    },
+    {
+      "subscriber": 138,
+      "customer": 26
+    }
+  ],
+  "Alcatraz Ave at Shattuck Ave": [
+    {
+      "subscriber": 252,
+      "customer": 46
+    },
+    {
+      "subscriber": 281,
+      "customer": 41
+    },
+    {
+      "subscriber": 265,
+      "customer": 44
+    },
+    {
+      "subscriber": 256,
+      "customer": 53
+    },
+    {
+      "subscriber": 255,
+      "customer": 44
+    },
+    {
+      "subscriber": 207,
+      "customer": 67
+    },
+    {
+      "subscriber": 222,
+      "customer": 48
+    }
+  ],
+  "San Antonio Park": [
+    {
+      "subscriber": 167,
+      "customer": 26
+    },
+    {
+      "subscriber": 179,
+      "customer": 38
+    },
+    {
+      "subscriber": 180,
+      "customer": 38
+    },
+    {
+      "subscriber": 204,
+      "customer": 16
+    },
+    {
+      "subscriber": 137,
+      "customer": 28
+    },
+    {
+      "subscriber": 93,
+      "customer": 44
+    },
+    {
+      "subscriber": 76,
+      "customer": 42
+    }
+  ],
+  "Foothill Blvd at Fruitvale Ave": [
+    {
+      "subscriber": 166,
+      "customer": 23
+    },
+    {
+      "subscriber": 172,
+      "customer": 27
+    },
+    {
+      "subscriber": 177,
+      "customer": 27
+    },
+    {
+      "subscriber": 183,
+      "customer": 22
+    },
+    {
+      "subscriber": 167,
+      "customer": 35
+    },
+    {
+      "subscriber": 108,
+      "customer": 18
+    },
+    {
+      "subscriber": 80,
+      "customer": 9
+    }
+  ],
+  "Shattuck Ave at 51st St": [
+    {
+      "subscriber": 261,
+      "customer": 27
+    },
+    {
+      "subscriber": 259,
+      "customer": 22
+    },
+    {
+      "subscriber": 233,
+      "customer": 37
+    },
+    {
+      "subscriber": 206,
+      "customer": 43
+    },
+    {
+      "subscriber": 261,
+      "customer": 50
+    },
+    {
+      "subscriber": 221,
+      "customer": 40
+    },
+    {
+      "subscriber": 164,
+      "customer": 35
+    }
+  ],
+  "Miles Ave at Cavour St": [
+    {
+      "subscriber": 107,
+      "customer": 7
+    },
+    {
+      "subscriber": 124,
+      "customer": 6
+    },
+    {
+      "subscriber": 149,
+      "customer": 7
+    },
+    {
+      "subscriber": 117,
+      "customer": 10
+    },
+    {
+      "subscriber": 103,
+      "customer": 5
+    },
+    {
+      "subscriber": 43,
+      "customer": 13
+    },
+    {
+      "subscriber": 109,
+      "customer": 34
+    }
+  ],
+  "6th Ave at E 12th St (Temporary Location)": [
+    {
+      "subscriber": 48,
+      "customer": 4
+    },
+    {
+      "subscriber": 74,
+      "customer": 9
+    },
+    {
+      "subscriber": 65,
+      "customer": 4
+    },
+    {
+      "subscriber": 77,
+      "customer": 2
+    },
+    {
+      "subscriber": 48,
+      "customer": 4
+    },
+    {
+      "subscriber": 42,
+      "customer": 7
+    },
+    {
+      "subscriber": 25,
+      "customer": 5
+    }
+  ],
+  "23rd St at San Bruno Ave": [
+    {
+      "subscriber": 179,
+      "customer": 23
+    },
+    {
+      "subscriber": 221,
+      "customer": 31
+    },
+    {
+      "subscriber": 241,
+      "customer": 32
+    },
+    {
+      "subscriber": 214,
+      "customer": 36
+    },
+    {
+      "subscriber": 173,
+      "customer": 33
+    },
+    {
+      "subscriber": 140,
+      "customer": 30
+    },
+    {
+      "subscriber": 98,
+      "customer": 26
+    }
+  ],
+  "Lane St at Revere Ave": [
+    {
+      "subscriber": 26,
+      "customer": 10
+    },
+    {
+      "subscriber": 19,
+      "customer": 9
+    },
+    {
+      "subscriber": 20,
+      "customer": 4
+    },
+    {
+      "subscriber": 28,
+      "customer": 3
+    },
+    {
+      "subscriber": 21,
+      "customer": 4
+    },
+    {
+      "subscriber": 15,
+      "customer": 8
+    },
+    {
+      "subscriber": 6,
+      "customer": 9
+    }
+  ],
+  "Madison St at 17th St": [
+    {
+      "subscriber": 112,
+      "customer": 13
+    },
+    {
+      "subscriber": 115,
+      "customer": 18
+    },
+    {
+      "subscriber": 118,
+      "customer": 17
+    },
+    {
+      "subscriber": 130,
+      "customer": 15
+    },
+    {
+      "subscriber": 142,
+      "customer": 15
+    },
+    {
+      "subscriber": 126,
+      "customer": 15
+    },
+    {
+      "subscriber": 108,
+      "customer": 10
+    }
+  ],
+  "Potrero Ave at 15th St (Temporary Location)": [
+    {
+      "subscriber": 533,
+      "customer": 30
+    },
+    {
+      "subscriber": 618,
+      "customer": 43
+    },
+    {
+      "subscriber": 699,
+      "customer": 30
+    },
+    {
+      "subscriber": 685,
+      "customer": 37
+    },
+    {
+      "subscriber": 585,
+      "customer": 33
+    },
+    {
+      "subscriber": 115,
+      "customer": 27
+    },
+    {
+      "subscriber": 67,
+      "customer": 19
+    }
+  ],
+  "Myrtle St at Polk St": [
+    {
+      "subscriber": 24,
+      "customer": 4
+    },
+    {
+      "subscriber": 19,
+      "customer": 7
+    },
+    {
+      "subscriber": 34,
+      "customer": 8
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 1,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 16,
+      "customer": 13
+    }
+  ],
+  "Jones St at Post St": [
+    {
+      "subscriber": 17,
+      "customer": 4
+    },
+    {
+      "subscriber": 20,
+      "customer": 3
+    },
+    {
+      "subscriber": 29,
+      "customer": 4
+    },
+    {
+      "subscriber": 21,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 27,
+      "customer": 5
+    },
+    {
+      "subscriber": 25,
+      "customer": 8
+    },
+    {
+      "subscriber": 17,
+      "customer": 5
+    }
+  ],
+  "Grove St at Masonic Ave": [
+    {
+      "subscriber": 28,
+      "customer": 9
+    },
+    {
+      "subscriber": 41,
+      "customer": 3
+    },
+    {
+      "subscriber": 14,
+      "customer": 8
+    },
+    {
+      "subscriber": 16,
+      "customer": 1
+    },
+    {
+      "subscriber": 12,
+      "customer": 1
+    },
+    {
+      "subscriber": 23,
+      "customer": 24
+    },
+    {
+      "subscriber": 20,
+      "customer": 20
+    }
+  ],
+  "Hyde St at Post St": [
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 10,
+      "customer": 2
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    }
+  ],
+  "Saint James Park": [
+    {
+      "subscriber": 271,
+      "customer": 20
+    },
+    {
+      "subscriber": 276,
+      "customer": 21
+    },
+    {
+      "subscriber": 267,
+      "customer": 9
+    },
+    {
+      "subscriber": 246,
+      "customer": 15
+    },
+    {
+      "subscriber": 194,
+      "customer": 52
+    },
+    {
+      "subscriber": 87,
+      "customer": 37
+    },
+    {
+      "subscriber": 83,
+      "customer": 31
+    }
+  ],
+  "9th St at San Fernando St": [
+    {
+      "subscriber": 120,
+      "customer": 7
+    },
+    {
+      "subscriber": 182,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 131,
+      "customer": 3
+    },
+    {
+      "subscriber": 155,
+      "customer": 13
+    },
+    {
+      "subscriber": 71,
+      "customer": 5
+    },
+    {
+      "subscriber": 66,
+      "customer": 1
+    },
+    {
+      "subscriber": 58,
+      "customer": 5
+    }
+  ],
+  "Potrero del Sol Park (25th St at Utah St)": [
+    {
+      "subscriber": 14,
+      "customer": 4
+    },
+    {
+      "subscriber": 20,
+      "customer": 3
+    },
+    {
+      "subscriber": 21,
+      "customer": 2
+    },
+    {
+      "subscriber": 14,
+      "customer": 7
+    },
+    {
+      "subscriber": 24,
+      "customer": 7
+    },
+    {
+      "subscriber": 9,
+      "customer": 15
+    },
+    {
+      "subscriber": 19,
+      "customer": 11
+    }
+  ],
+  "Turk St at Fillmore St": [
+    {
+      "subscriber": 150,
+      "customer": 35
+    },
+    {
+      "subscriber": 154,
+      "customer": 24
+    },
+    {
+      "subscriber": 197,
+      "customer": 32
+    },
+    {
+      "subscriber": 192,
+      "customer": 39
+    },
+    {
+      "subscriber": 167,
+      "customer": 28
+    },
+    {
+      "subscriber": 99,
+      "customer": 37
+    },
+    {
+      "subscriber": 121,
+      "customer": 54
+    }
+  ],
+  "Bestor Art Park": [
+    {
+      "subscriber": 152,
+      "customer": 20
+    },
+    {
+      "subscriber": 151,
+      "customer": 23
+    },
+    {
+      "subscriber": 135,
+      "customer": 15
+    },
+    {
+      "subscriber": 133,
+      "customer": 5
+    },
+    {
+      "subscriber": 105,
+      "customer": 7
+    },
+    {
+      "subscriber": 88,
+      "customer": 32
+    },
+    {
+      "subscriber": 100,
+      "customer": 36
+    }
+  ],
+  "Empire St at 1st St": [
+    {
+      "subscriber": 143,
+      "customer": 22
+    },
+    {
+      "subscriber": 118,
+      "customer": 34
+    },
+    {
+      "subscriber": 144,
+      "customer": 11
+    },
+    {
+      "subscriber": 116,
+      "customer": 14
+    },
+    {
+      "subscriber": 113,
+      "customer": 24
+    },
+    {
+      "subscriber": 135,
+      "customer": 28
+    },
+    {
+      "subscriber": 105,
+      "customer": 50
+    }
+  ],
+  "George St at 1st St": [
+    {
+      "subscriber": 127,
+      "customer": 30
+    },
+    {
+      "subscriber": 174,
+      "customer": 20
+    },
+    {
+      "subscriber": 162,
+      "customer": 16
+    },
+    {
+      "subscriber": 147,
+      "customer": 37
+    },
+    {
+      "subscriber": 120,
+      "customer": 14
+    },
+    {
+      "subscriber": 74,
+      "customer": 5
+    },
+    {
+      "subscriber": 81,
+      "customer": 19
+    }
+  ],
+  "Foothill Blvd at Harrington Ave": [
+    {
+      "subscriber": 61,
+      "customer": 24
+    },
+    {
+      "subscriber": 78,
+      "customer": 9
+    },
+    {
+      "subscriber": 62,
+      "customer": 12
+    },
+    {
+      "subscriber": 63,
+      "customer": 10
+    },
+    {
+      "subscriber": 59,
+      "customer": 14
+    },
+    {
+      "subscriber": 26,
+      "customer": 12
+    },
+    {
+      "subscriber": 33,
+      "customer": 20
+    }
+  ],
+  "Willow St at Vine St": [
+    {
+      "subscriber": 15,
+      "customer": 6
+    },
+    {
+      "subscriber": 6,
+      "customer": 3
+    },
+    {
+      "subscriber": 8,
+      "customer": 2
+    },
+    {
+      "subscriber": 14,
+      "customer": 3
+    },
+    {
+      "subscriber": 11,
+      "customer": 11
+    },
+    {
+      "subscriber": 10,
+      "customer": 19
+    },
+    {
+      "subscriber": 6,
+      "customer": 9
+    }
+  ],
+  "14th St at Filbert St": [
+    {
+      "subscriber": 269,
+      "customer": 23
+    },
+    {
+      "subscriber": 305,
+      "customer": 34
+    },
+    {
+      "subscriber": 259,
+      "customer": 29
+    },
+    {
+      "subscriber": 286,
+      "customer": 23
+    },
+    {
+      "subscriber": 268,
+      "customer": 22
+    },
+    {
+      "subscriber": 104,
+      "customer": 41
+    },
+    {
+      "subscriber": 96,
+      "customer": 40
+    }
+  ],
+  "Fifth St at Delaware St": [
+    {
+      "subscriber": 94,
+      "customer": 44
+    },
+    {
+      "subscriber": 95,
+      "customer": 9
+    },
+    {
+      "subscriber": 95,
+      "customer": 36
+    },
+    {
+      "subscriber": 93,
+      "customer": 46
+    },
+    {
+      "subscriber": 75,
+      "customer": 35
+    },
+    {
+      "subscriber": 87,
+      "customer": 69
+    },
+    {
+      "subscriber": 91,
+      "customer": 68
+    }
+  ],
+  "4th Ave at E 12th St (Temporary Location)": [
+    {
+      "subscriber": 129,
+      "customer": 8
+    },
+    {
+      "subscriber": 153,
+      "customer": 7
+    },
+    {
+      "subscriber": 159,
+      "customer": 7
+    },
+    {
+      "subscriber": 115,
+      "customer": 12
+    },
+    {
+      "subscriber": 84,
+      "customer": 8
+    },
+    {
+      "subscriber": 50,
+      "customer": 17
+    },
+    {
+      "subscriber": 57,
+      "customer": 3
+    }
+  ],
+  "Lombard St at Columbus Ave": [
+    {
+      "subscriber": 58,
+      "customer": 85
+    },
+    {
+      "subscriber": 110,
+      "customer": 91
+    },
+    {
+      "subscriber": 86,
+      "customer": 92
+    },
+    {
+      "subscriber": 60,
+      "customer": 73
+    },
+    {
+      "subscriber": 80,
+      "customer": 131
+    },
+    {
+      "subscriber": 63,
+      "customer": 106
+    },
+    {
+      "subscriber": 78,
+      "customer": 102
+    }
+  ],
+  "21st Ave at International Blvd": [
+    {
+      "subscriber": 18,
+      "customer": 7
+    },
+    {
+      "subscriber": 39,
+      "customer": 14
+    },
+    {
+      "subscriber": 22,
+      "customer": 3
+    },
+    {
+      "subscriber": 21,
+      "customer": 11
+    },
+    {
+      "subscriber": 16,
+      "customer": 11
+    },
+    {
+      "subscriber": 32,
+      "customer": 8
+    },
+    {
+      "subscriber": 8,
+      "customer": 12
+    }
+  ],
+  "Delmas Ave and San Fernando St": [
+    {
+      "subscriber": 97,
+      "customer": 7
+    },
+    {
+      "subscriber": 122,
+      "customer": 11
+    },
+    {
+      "subscriber": 95,
+      "customer": 8
+    },
+    {
+      "subscriber": 131,
+      "customer": 12
+    },
+    {
+      "subscriber": 77,
+      "customer": 25
+    },
+    {
+      "subscriber": 57,
+      "customer": 5
+    },
+    {
+      "subscriber": 63,
+      "customer": 19
+    }
+  ],
+  "Miles Ave at Cavour St (Temporary Location)": [
+    {
+      "subscriber": 110,
+      "customer": 14
+    },
+    {
+      "subscriber": 118,
+      "customer": 20
+    },
+    {
+      "subscriber": 103,
+      "customer": 12
+    },
+    {
+      "subscriber": 105,
+      "customer": 13
+    },
+    {
+      "subscriber": 72,
+      "customer": 14
+    },
+    {
+      "subscriber": 41,
+      "customer": 14
+    },
+    {
+      "subscriber": 57,
+      "customer": 38
+    }
+  ],
+  "E 12th St at 4th Ave": [
+    {
+      "subscriber": 59,
+      "customer": 12
+    },
+    {
+      "subscriber": 65,
+      "customer": 16
+    },
+    {
+      "subscriber": 82,
+      "customer": 18
+    },
+    {
+      "subscriber": 74,
+      "customer": 7
+    },
+    {
+      "subscriber": 60,
+      "customer": 12
+    },
+    {
+      "subscriber": 14,
+      "customer": 9
+    },
+    {
+      "subscriber": 29,
+      "customer": 6
+    }
+  ],
+  "Oak St at 1st St": [
+    {
+      "subscriber": 31,
+      "customer": 1
+    },
+    {
+      "subscriber": 31,
+      "customer": 6
+    },
+    {
+      "subscriber": 39,
+      "customer": 11
+    },
+    {
+      "subscriber": 60,
+      "customer": 6
+    },
+    {
+      "subscriber": 36,
+      "customer": 19
+    },
+    {
+      "subscriber": 48,
+      "customer": 8
+    },
+    {
+      "subscriber": 25,
+      "customer": 23
+    }
+  ],
+  "16th St Depot": [
+    {
+      "subscriber": 37,
+      "customer": 1
+    },
+    {
+      "subscriber": 35,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 49,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 42,
+      "customer": 1
+    },
+    {
+      "subscriber": 41,
+      "customer": 1
+    },
+    {
+      "subscriber": 5,
+      "customer": 4
+    },
+    {
+      "subscriber": 1,
+      "customer": 1
+    }
+  ],
+  "Williams Ave at Apollo St": [
+    {
+      "subscriber": 15,
+      "customer": 2
+    },
+    {
+      "subscriber": 11,
+      "customer": 3
+    },
+    {
+      "subscriber": 13,
+      "customer": 1
+    },
+    {
+      "subscriber": 20,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 10,
+      "customer": 2
+    },
+    {
+      "subscriber": 10,
+      "customer": 3
+    },
+    {
+      "subscriber": 4,
+      "customer": 6
+    }
+  ],
+  "Tamien Station": [
+    {
+      "subscriber": 42,
+      "customer": 18
+    },
+    {
+      "subscriber": 43,
+      "customer": 7
+    },
+    {
+      "subscriber": 58,
+      "customer": 18
+    },
+    {
+      "subscriber": 49,
+      "customer": 11
+    },
+    {
+      "subscriber": 48,
+      "customer": 8
+    },
+    {
+      "subscriber": 15,
+      "customer": 10
+    },
+    {
+      "subscriber": 18,
+      "customer": 20
+    }
+  ],
+  "Webster St at MacArthur Blvd (Temporary Location)": [
+    {
+      "subscriber": 89,
+      "customer": 4
+    },
+    {
+      "subscriber": 128,
+      "customer": 11
+    },
+    {
+      "subscriber": 137,
+      "customer": 7
+    },
+    {
+      "subscriber": 105,
+      "customer": 13
+    },
+    {
+      "subscriber": 89,
+      "customer": 11
+    },
+    {
+      "subscriber": 45,
+      "customer": 8
+    },
+    {
+      "subscriber": 50,
+      "customer": 9
+    }
+  ],
+  "Mendell St at Fairfax Ave": [
+    {
+      "subscriber": 15,
+      "customer": 16
+    },
+    {
+      "subscriber": 12,
+      "customer": 16
+    },
+    {
+      "subscriber": 15,
+      "customer": 4
+    },
+    {
+      "subscriber": 9,
+      "customer": 7
+    },
+    {
+      "subscriber": 4,
+      "customer": 6
+    },
+    {
+      "subscriber": 8,
+      "customer": 2
+    },
+    {
+      "subscriber": 6,
+      "customer": 3
+    }
+  ],
+  "Empire St at 7th St": [
+    {
+      "subscriber": 6,
+      "customer": 2
+    },
+    {
+      "subscriber": 3,
+      "customer": 2
+    },
+    {
+      "subscriber": 5,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 1,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 2,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 1,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 1,
+      "customer": 1
+    }
+  ],
+  "Lane St at Van Dyke Ave": [
+    {
+      "subscriber": 4,
+      "customer": 3
+    },
+    {
+      "subscriber": 4,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 6,
+      "customer": 5
+    },
+    {
+      "subscriber": 11,
+      "customer": 3
+    },
+    {
+      "subscriber": 6,
+      "customer": 1
+    },
+    {
+      "subscriber": 3,
+      "customer": 8
+    },
+    {
+      "subscriber": 9,
+      "customer": 5
+    }
+  ],
+  "Newhall St at 3rd St": [
+    {
+      "subscriber": 24,
+      "customer": 6
+    },
+    {
+      "subscriber": 14,
+      "customer": 6
+    },
+    {
+      "subscriber": 15,
+      "customer": 9
+    },
+    {
+      "subscriber": 25,
+      "customer": 2
+    },
+    {
+      "subscriber": 11,
+      "customer": 2
+    },
+    {
+      "subscriber": 12,
+      "customer": 10
+    },
+    {
+      "subscriber": 6,
+      "customer": 4
+    }
+  ],
+  "Laguna St at McAllister St": [
+    {
+      "subscriber": 15,
+      "customer": 7
+    },
+    {
+      "subscriber": 40,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 33,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 23,
+      "customer": 7
+    },
+    {
+      "subscriber": 25,
+      "customer": 10
+    },
+    {
+      "subscriber": 15,
+      "customer": 16
+    },
+    {
+      "subscriber": 13,
+      "customer": 11
+    }
+  ],
+  "Viva Calle SJ": [
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 2,
+      "customer": 38
+    }
+  ],
+  "2nd St at S Park St": [
+    {
+      "subscriber": 6,
+      "customer": 7
+    },
+    {
+      "subscriber": 31,
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    }
+  ],
+  "Outside Lands 2018 (Temporary Station)": [
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": [
+        0
+      ],
+      "customer": [
+        0
+      ]
+    },
+    {
+      "subscriber": 55,
+      "customer": 39
+    },
+    {
+      "subscriber": 96,
+      "customer": 143
+    },
+    {
+      "subscriber": 56,
+      "customer": 91
+    }
+  ]
+}
