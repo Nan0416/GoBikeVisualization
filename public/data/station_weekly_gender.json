@@ -1,0 +1,10374 @@
+{
+  "Mission Dolores Park": [
+    {
+      "male": 1130,
+      "female": 694
+    },
+    {
+      "male": 1101,
+      "female": 569
+    },
+    {
+      "male": 1208,
+      "female": 634
+    },
+    {
+      "male": 995,
+      "female": 608
+    },
+    {
+      "male": 1229,
+      "female": 680
+    },
+    {
+      "male": 1588,
+      "female": 975
+    },
+    {
+      "male": 1624,
+      "female": 869
+    }
+  ],
+  "Webster St at O'Farrell St": [
+    {
+      "male": 995,
+      "female": 484
+    },
+    {
+      "male": 977,
+      "female": 534
+    },
+    {
+      "male": 1063,
+      "female": 587
+    },
+    {
+      "male": 1094,
+      "female": 530
+    },
+    {
+      "male": 1014,
+      "female": 529
+    },
+    {
+      "male": 1263,
+      "female": 681
+    },
+    {
+      "male": 1126,
+      "female": 552
+    }
+  ],
+  "San Francisco Ferry Building (Harry Bridges Plaza)": [
+    {
+      "male": 7532,
+      "female": 4018
+    },
+    {
+      "male": 8030,
+      "female": 4349
+    },
+    {
+      "male": 7881,
+      "female": 4291
+    },
+    {
+      "male": 7890,
+      "female": 4079
+    },
+    {
+      "male": 6909,
+      "female": 4265
+    },
+    {
+      "male": 3499,
+      "female": 4289
+    },
+    {
+      "male": 2429,
+      "female": 2826
+    }
+  ],
+  "Jackson St at 5th St": [
+    {
+      "male": 187,
+      "female": 138
+    },
+    {
+      "male": 235,
+      "female": 98
+    },
+    {
+      "male": 235,
+      "female": 140
+    },
+    {
+      "male": 256,
+      "female": 97
+    },
+    {
+      "male": 231,
+      "female": 127
+    },
+    {
+      "male": 193,
+      "female": 149
+    },
+    {
+      "male": 213,
+      "female": 149
+    }
+  ],
+  "5th St at Virginia St": [
+    {
+      "male": 1176,
+      "female": 511
+    },
+    {
+      "male": 1125,
+      "female": 599
+    },
+    {
+      "male": 1240,
+      "female": 571
+    },
+    {
+      "male": 1133,
+      "female": 661
+    },
+    {
+      "male": 1094,
+      "female": 468
+    },
+    {
+      "male": 651,
+      "female": 258
+    },
+    {
+      "male": 617,
+      "female": 216
+    }
+  ],
+  "Market St at Franklin St": [
+    {
+      "male": 1631,
+      "female": 615
+    },
+    {
+      "male": 1860,
+      "female": 612
+    },
+    {
+      "male": 1920,
+      "female": 835
+    },
+    {
+      "male": 1810,
+      "female": 718
+    },
+    {
+      "male": 1717,
+      "female": 612
+    },
+    {
+      "male": 1213,
+      "female": 567
+    },
+    {
+      "male": 992,
+      "female": 475
+    }
+  ],
+  "4th St at Harrison St": [
+    {
+      "male": 2137,
+      "female": 1096
+    },
+    {
+      "male": 2127,
+      "female": 1111
+    },
+    {
+      "male": 2318,
+      "female": 1184
+    },
+    {
+      "male": 2055,
+      "female": 1086
+    },
+    {
+      "male": 1961,
+      "female": 1022
+    },
+    {
+      "male": 1096,
+      "female": 496
+    },
+    {
+      "male": 1093,
+      "female": 475
+    }
+  ],
+  "Laguna St at Hayes St": [
+    {
+      "male": 1694,
+      "female": 781
+    },
+    {
+      "male": 1917,
+      "female": 898
+    },
+    {
+      "male": 1904,
+      "female": 968
+    },
+    {
+      "male": 1749,
+      "female": 894
+    },
+    {
+      "male": 1865,
+      "female": 910
+    },
+    {
+      "male": 1704,
+      "female": 1011
+    },
+    {
+      "male": 1594,
+      "female": 986
+    }
+  ],
+  "Post St at Kearny St": [
+    {
+      "male": 3160,
+      "female": 1462
+    },
+    {
+      "male": 3530,
+      "female": 1642
+    },
+    {
+      "male": 3539,
+      "female": 1572
+    },
+    {
+      "male": 3499,
+      "female": 1544
+    },
+    {
+      "male": 3210,
+      "female": 1379
+    },
+    {
+      "male": 1070,
+      "female": 741
+    },
+    {
+      "male": 746,
+      "female": 545
+    }
+  ],
+  "Market St at 8th St": [
+    {
+      "male": 173,
+      "female": 24
+    },
+    {
+      "male": 209,
+      "female": 16
+    },
+    {
+      "male": 162,
+      "female": 33
+    },
+    {
+      "male": 189,
+      "female": 36
+    },
+    {
+      "male": 173,
+      "female": 23
+    },
+    {
+      "male": 63,
+      "female": 27
+    },
+    {
+      "male": 39,
+      "female": 33
+    }
+  ],
+  "West Oakland BART Station": [
+    {
+      "male": 1629,
+      "female": 956
+    },
+    {
+      "male": 1894,
+      "female": 1146
+    },
+    {
+      "male": 1926,
+      "female": 1067
+    },
+    {
+      "male": 1764,
+      "female": 996
+    },
+    {
+      "male": 1748,
+      "female": 848
+    },
+    {
+      "male": 711,
+      "female": 403
+    },
+    {
+      "male": 586,
+      "female": 369
+    }
+  ],
+  "17th & Folsom Street Park (17th St at Folsom St)": [
+    {
+      "male": 817,
+      "female": 338
+    },
+    {
+      "male": 1066,
+      "female": 420
+    },
+    {
+      "male": 990,
+      "female": 421
+    },
+    {
+      "male": 947,
+      "female": 383
+    },
+    {
+      "male": 896,
+      "female": 384
+    },
+    {
+      "male": 643,
+      "female": 340
+    },
+    {
+      "male": 516,
+      "female": 359
+    }
+  ],
+  "Valencia St at 24th St": [
+    {
+      "male": 2200,
+      "female": 1163
+    },
+    {
+      "male": 2314,
+      "female": 1343
+    },
+    {
+      "male": 2630,
+      "female": 1491
+    },
+    {
+      "male": 2248,
+      "female": 1280
+    },
+    {
+      "male": 2381,
+      "female": 1257
+    },
+    {
+      "male": 1754,
+      "female": 1065
+    },
+    {
+      "male": 1477,
+      "female": 911
+    }
+  ],
+  "Berry St at 4th St": [
+    {
+      "male": 7394,
+      "female": 2737
+    },
+    {
+      "male": 7976,
+      "female": 3115
+    },
+    {
+      "male": 7807,
+      "female": 2923
+    },
+    {
+      "male": 7514,
+      "female": 2879
+    },
+    {
+      "male": 6806,
+      "female": 2513
+    },
+    {
+      "male": 2049,
+      "female": 1124
+    },
+    {
+      "male": 1889,
+      "female": 991
+    }
+  ],
+  "4th St at Mission Bay Blvd S": [
+    {
+      "male": 3801,
+      "female": 1523
+    },
+    {
+      "male": 3936,
+      "female": 1731
+    },
+    {
+      "male": 4007,
+      "female": 1706
+    },
+    {
+      "male": 4082,
+      "female": 1652
+    },
+    {
+      "male": 3827,
+      "female": 1541
+    },
+    {
+      "male": 1495,
+      "female": 905
+    },
+    {
+      "male": 1311,
+      "female": 706
+    }
+  ],
+  "Cyril Magnin St at Ellis St": [
+    {
+      "male": 929,
+      "female": 468
+    },
+    {
+      "male": 963,
+      "female": 488
+    },
+    {
+      "male": 1137,
+      "female": 438
+    },
+    {
+      "male": 989,
+      "female": 451
+    },
+    {
+      "male": 1109,
+      "female": 477
+    },
+    {
+      "male": 948,
+      "female": 611
+    },
+    {
+      "male": 791,
+      "female": 532
+    }
+  ],
+  "Ryland Park": [
+    {
+      "male": 1070,
+      "female": 112
+    },
+    {
+      "male": 1148,
+      "female": 98
+    },
+    {
+      "male": 1136,
+      "female": 112
+    },
+    {
+      "male": 1137,
+      "female": 77
+    },
+    {
+      "male": 1008,
+      "female": 105
+    },
+    {
+      "male": 888,
+      "female": 114
+    },
+    {
+      "male": 874,
+      "female": 135
+    }
+  ],
+  "San Salvador St at 9th St": [
+    {
+      "male": 877,
+      "female": 163
+    },
+    {
+      "male": 909,
+      "female": 192
+    },
+    {
+      "male": 962,
+      "female": 190
+    },
+    {
+      "male": 881,
+      "female": 184
+    },
+    {
+      "male": 936,
+      "female": 210
+    },
+    {
+      "male": 690,
+      "female": 149
+    },
+    {
+      "male": 771,
+      "female": 185
+    }
+  ],
+  "Valencia St at 16th St": [
+    {
+      "male": 2079,
+      "female": 759
+    },
+    {
+      "male": 2074,
+      "female": 901
+    },
+    {
+      "male": 2137,
+      "female": 906
+    },
+    {
+      "male": 2307,
+      "female": 854
+    },
+    {
+      "male": 2142,
+      "female": 945
+    },
+    {
+      "male": 1991,
+      "female": 1026
+    },
+    {
+      "male": 1821,
+      "female": 861
+    }
+  ],
+  "Division St at Potrero Ave": [
+    {
+      "male": 2671,
+      "female": 870
+    },
+    {
+      "male": 2819,
+      "female": 956
+    },
+    {
+      "male": 2630,
+      "female": 835
+    },
+    {
+      "male": 2502,
+      "female": 774
+    },
+    {
+      "male": 2398,
+      "female": 730
+    },
+    {
+      "male": 1154,
+      "female": 351
+    },
+    {
+      "male": 898,
+      "female": 294
+    }
+  ],
+  "San Francisco Public Library (Grove St at Hyde St)": [
+    {
+      "male": 2216,
+      "female": 686
+    },
+    {
+      "male": 2687,
+      "female": 1026
+    },
+    {
+      "male": 2814,
+      "female": 918
+    },
+    {
+      "male": 2591,
+      "female": 856
+    },
+    {
+      "male": 2079,
+      "female": 672
+    },
+    {
+      "male": 973,
+      "female": 545
+    },
+    {
+      "male": 1067,
+      "female": 516
+    }
+  ],
+  "16th St Mission BART Station 2": [
+    {
+      "male": 1717,
+      "female": 784
+    },
+    {
+      "male": 1982,
+      "female": 890
+    },
+    {
+      "male": 2032,
+      "female": 856
+    },
+    {
+      "male": 1791,
+      "female": 784
+    },
+    {
+      "male": 1672,
+      "female": 670
+    },
+    {
+      "male": 791,
+      "female": 342
+    },
+    {
+      "male": 750,
+      "female": 283
+    }
+  ],
+  "Market St at Dolores St": [
+    {
+      "male": 1338,
+      "female": 465
+    },
+    {
+      "male": 1449,
+      "female": 485
+    },
+    {
+      "male": 1373,
+      "female": 502
+    },
+    {
+      "male": 1415,
+      "female": 530
+    },
+    {
+      "male": 1514,
+      "female": 561
+    },
+    {
+      "male": 1666,
+      "female": 685
+    },
+    {
+      "male": 1582,
+      "female": 693
+    }
+  ],
+  "San Pedro Square": [
+    {
+      "male": 389,
+      "female": 317
+    },
+    {
+      "male": 430,
+      "female": 318
+    },
+    {
+      "male": 506,
+      "female": 409
+    },
+    {
+      "male": 444,
+      "female": 345
+    },
+    {
+      "male": 501,
+      "female": 379
+    },
+    {
+      "male": 330,
+      "female": 399
+    },
+    {
+      "male": 315,
+      "female": 259
+    }
+  ],
+  "Locust St at Grant St": [
+    {
+      "male": 29,
+      "female": 112
+    },
+    {
+      "male": 28,
+      "female": 178
+    },
+    {
+      "male": 43,
+      "female": 172
+    },
+    {
+      "male": 26,
+      "female": 104
+    },
+    {
+      "male": 20,
+      "female": 98
+    },
+    {
+      "male": 9,
+      "female": 91
+    },
+    {
+      "male": 11,
+      "female": 55
+    }
+  ],
+  "Frank H Ogawa Plaza": [
+    {
+      "male": 1486,
+      "female": 899
+    },
+    {
+      "male": 1769,
+      "female": 1090
+    },
+    {
+      "male": 1822,
+      "female": 960
+    },
+    {
+      "male": 1643,
+      "female": 1066
+    },
+    {
+      "male": 1566,
+      "female": 896
+    },
+    {
+      "male": 644,
+      "female": 473
+    },
+    {
+      "male": 465,
+      "female": 345
+    }
+  ],
+  "Lakeside Dr at 14th St": [
+    {
+      "male": 793,
+      "female": 603
+    },
+    {
+      "male": 900,
+      "female": 608
+    },
+    {
+      "male": 828,
+      "female": 596
+    },
+    {
+      "male": 788,
+      "female": 569
+    },
+    {
+      "male": 785,
+      "female": 601
+    },
+    {
+      "male": 673,
+      "female": 737
+    },
+    {
+      "male": 583,
+      "female": 729
+    }
+  ],
+  "McCoppin St at Valencia St": [
+    {
+      "male": 1562,
+      "female": 562
+    },
+    {
+      "male": 1804,
+      "female": 697
+    },
+    {
+      "male": 1656,
+      "female": 689
+    },
+    {
+      "male": 1605,
+      "female": 686
+    },
+    {
+      "male": 1536,
+      "female": 597
+    },
+    {
+      "male": 981,
+      "female": 503
+    },
+    {
+      "male": 849,
+      "female": 417
+    }
+  ],
+  "San Francisco Caltrain Station 2  (Townsend St at 4th St)": [
+    {
+      "male": 10109,
+      "female": 3447
+    },
+    {
+      "male": 11439,
+      "female": 3891
+    },
+    {
+      "male": 11415,
+      "female": 3669
+    },
+    {
+      "male": 10950,
+      "female": 3685
+    },
+    {
+      "male": 8718,
+      "female": 2912
+    },
+    {
+      "male": 1400,
+      "female": 643
+    },
+    {
+      "male": 1292,
+      "female": 558
+    }
+  ],
+  "Townsend St at 5th St": [
+    {
+      "male": 2426,
+      "female": 1026
+    },
+    {
+      "male": 2327,
+      "female": 975
+    },
+    {
+      "male": 2213,
+      "female": 892
+    },
+    {
+      "male": 2103,
+      "female": 882
+    },
+    {
+      "male": 1931,
+      "female": 800
+    },
+    {
+      "male": 445,
+      "female": 201
+    },
+    {
+      "male": 406,
+      "female": 150
+    }
+  ],
+  "Folsom St at 9th St": [
+    {
+      "male": 1284,
+      "female": 744
+    },
+    {
+      "male": 1565,
+      "female": 862
+    },
+    {
+      "male": 1538,
+      "female": 847
+    },
+    {
+      "male": 1620,
+      "female": 851
+    },
+    {
+      "male": 1298,
+      "female": 681
+    },
+    {
+      "male": 725,
+      "female": 390
+    },
+    {
+      "male": 671,
+      "female": 332
+    }
+  ],
+  "Fulton St at Bancroft Way": [
+    {
+      "male": 749,
+      "female": 373
+    },
+    {
+      "male": 672,
+      "female": 357
+    },
+    {
+      "male": 806,
+      "female": 342
+    },
+    {
+      "male": 745,
+      "female": 308
+    },
+    {
+      "male": 677,
+      "female": 332
+    },
+    {
+      "male": 530,
+      "female": 273
+    },
+    {
+      "male": 492,
+      "female": 250
+    }
+  ],
+  "Oregon St at Adeline St": [
+    {
+      "male": 690,
+      "female": 359
+    },
+    {
+      "male": 637,
+      "female": 313
+    },
+    {
+      "male": 641,
+      "female": 346
+    },
+    {
+      "male": 599,
+      "female": 336
+    },
+    {
+      "male": 602,
+      "female": 350
+    },
+    {
+      "male": 625,
+      "female": 348
+    },
+    {
+      "male": 519,
+      "female": 421
+    }
+  ],
+  "San Jose Diridon Station": [
+    {
+      "male": 1360,
+      "female": 711
+    },
+    {
+      "male": 1337,
+      "female": 636
+    },
+    {
+      "male": 1289,
+      "female": 808
+    },
+    {
+      "male": 1340,
+      "female": 571
+    },
+    {
+      "male": 1014,
+      "female": 555
+    },
+    {
+      "male": 216,
+      "female": 96
+    },
+    {
+      "male": 179,
+      "female": 105
+    }
+  ],
+  "Ashby BART Station": [
+    {
+      "male": 1594,
+      "female": 647
+    },
+    {
+      "male": 1823,
+      "female": 750
+    },
+    {
+      "male": 1739,
+      "female": 697
+    },
+    {
+      "male": 1674,
+      "female": 703
+    },
+    {
+      "male": 1586,
+      "female": 644
+    },
+    {
+      "male": 594,
+      "female": 351
+    },
+    {
+      "male": 404,
+      "female": 241
+    }
+  ],
+  "65th St at Hollis St": [
+    {
+      "male": 473,
+      "female": 265
+    },
+    {
+      "male": 489,
+      "female": 235
+    },
+    {
+      "male": 538,
+      "female": 246
+    },
+    {
+      "male": 523,
+      "female": 229
+    },
+    {
+      "male": 472,
+      "female": 225
+    },
+    {
+      "male": 313,
+      "female": 227
+    },
+    {
+      "male": 307,
+      "female": 224
+    }
+  ],
+  "Bancroft Way at Telegraph Ave": [
+    {
+      "male": 1896,
+      "female": 926
+    },
+    {
+      "male": 2105,
+      "female": 989
+    },
+    {
+      "male": 2121,
+      "female": 982
+    },
+    {
+      "male": 1999,
+      "female": 908
+    },
+    {
+      "male": 1859,
+      "female": 837
+    },
+    {
+      "male": 1157,
+      "female": 631
+    },
+    {
+      "male": 1147,
+      "female": 632
+    }
+  ],
+  "Shattuck Ave at Hearst Ave": [
+    {
+      "male": 450,
+      "female": 213
+    },
+    {
+      "male": 512,
+      "female": 225
+    },
+    {
+      "male": 525,
+      "female": 253
+    },
+    {
+      "male": 484,
+      "female": 204
+    },
+    {
+      "male": 463,
+      "female": 240
+    },
+    {
+      "male": 336,
+      "female": 191
+    },
+    {
+      "male": 313,
+      "female": 218
+    }
+  ],
+  "19th Street BART Station": [
+    {
+      "male": 3564,
+      "female": 1796
+    },
+    {
+      "male": 3816,
+      "female": 1834
+    },
+    {
+      "male": 3892,
+      "female": 1945
+    },
+    {
+      "male": 3770,
+      "female": 1951
+    },
+    {
+      "male": 3394,
+      "female": 1742
+    },
+    {
+      "male": 1066,
+      "female": 662
+    },
+    {
+      "male": 907,
+      "female": 522
+    }
+  ],
+  "Telegraph Ave at 19th St": [
+    {
+      "male": 1137,
+      "female": 630
+    },
+    {
+      "male": 1277,
+      "female": 652
+    },
+    {
+      "male": 1181,
+      "female": 635
+    },
+    {
+      "male": 1138,
+      "female": 596
+    },
+    {
+      "male": 1049,
+      "female": 649
+    },
+    {
+      "male": 757,
+      "female": 560
+    },
+    {
+      "male": 694,
+      "female": 470
+    }
+  ],
+  "18th St at Noe St": [
+    {
+      "male": 899,
+      "female": 401
+    },
+    {
+      "male": 1066,
+      "female": 454
+    },
+    {
+      "male": 1016,
+      "female": 444
+    },
+    {
+      "male": 983,
+      "female": 456
+    },
+    {
+      "male": 1064,
+      "female": 428
+    },
+    {
+      "male": 1036,
+      "female": 483
+    },
+    {
+      "male": 1029,
+      "female": 497
+    }
+  ],
+  "MacArthur BART Station": [
+    {
+      "male": 2878,
+      "female": 1261
+    },
+    {
+      "male": 3252,
+      "female": 1518
+    },
+    {
+      "male": 3108,
+      "female": 1444
+    },
+    {
+      "male": 3107,
+      "female": 1323
+    },
+    {
+      "male": 2623,
+      "female": 1263
+    },
+    {
+      "male": 887,
+      "female": 470
+    },
+    {
+      "male": 662,
+      "female": 383
+    }
+  ],
+  "Genoa St at 55th St": [
+    {
+      "male": 526,
+      "female": 399
+    },
+    {
+      "male": 625,
+      "female": 435
+    },
+    {
+      "male": 551,
+      "female": 430
+    },
+    {
+      "male": 580,
+      "female": 369
+    },
+    {
+      "male": 578,
+      "female": 396
+    },
+    {
+      "male": 458,
+      "female": 243
+    },
+    {
+      "male": 280,
+      "female": 290
+    }
+  ],
+  "Folsom St at 19th St": [
+    {
+      "male": 1092,
+      "female": 586
+    },
+    {
+      "male": 1232,
+      "female": 671
+    },
+    {
+      "male": 1356,
+      "female": 691
+    },
+    {
+      "male": 1229,
+      "female": 669
+    },
+    {
+      "male": 1146,
+      "female": 640
+    },
+    {
+      "male": 696,
+      "female": 375
+    },
+    {
+      "male": 574,
+      "female": 272
+    }
+  ],
+  "29th St at Church St": [
+    {
+      "male": 669,
+      "female": 351
+    },
+    {
+      "male": 761,
+      "female": 385
+    },
+    {
+      "male": 853,
+      "female": 436
+    },
+    {
+      "male": 808,
+      "female": 370
+    },
+    {
+      "male": 828,
+      "female": 306
+    },
+    {
+      "male": 491,
+      "female": 309
+    },
+    {
+      "male": 485,
+      "female": 210
+    }
+  ],
+  "Valencia St at 22nd St": [
+    {
+      "male": 1114,
+      "female": 485
+    },
+    {
+      "male": 1282,
+      "female": 644
+    },
+    {
+      "male": 1380,
+      "female": 591
+    },
+    {
+      "male": 1210,
+      "female": 587
+    },
+    {
+      "male": 1214,
+      "female": 535
+    },
+    {
+      "male": 1215,
+      "female": 583
+    },
+    {
+      "male": 1054,
+      "female": 548
+    }
+  ],
+  "Parker St at Fulton St": [
+    {
+      "male": 1025,
+      "female": 583
+    },
+    {
+      "male": 1171,
+      "female": 586
+    },
+    {
+      "male": 1073,
+      "female": 661
+    },
+    {
+      "male": 1111,
+      "female": 576
+    },
+    {
+      "male": 967,
+      "female": 605
+    },
+    {
+      "male": 748,
+      "female": 547
+    },
+    {
+      "male": 760,
+      "female": 459
+    }
+  ],
+  "Washington St at 8th St": [
+    {
+      "male": 470,
+      "female": 327
+    },
+    {
+      "male": 472,
+      "female": 426
+    },
+    {
+      "male": 508,
+      "female": 317
+    },
+    {
+      "male": 488,
+      "female": 345
+    },
+    {
+      "male": 648,
+      "female": 435
+    },
+    {
+      "male": 420,
+      "female": 311
+    },
+    {
+      "male": 311,
+      "female": 247
+    }
+  ],
+  "Bay Pl at Vernon St": [
+    {
+      "male": 1491,
+      "female": 811
+    },
+    {
+      "male": 1591,
+      "female": 827
+    },
+    {
+      "male": 1574,
+      "female": 880
+    },
+    {
+      "male": 1438,
+      "female": 758
+    },
+    {
+      "male": 1342,
+      "female": 858
+    },
+    {
+      "male": 913,
+      "female": 779
+    },
+    {
+      "male": 828,
+      "female": 703
+    }
+  ],
+  "Valencia St at Cesar Chavez St": [
+    {
+      "male": 1162,
+      "female": 541
+    },
+    {
+      "male": 1291,
+      "female": 621
+    },
+    {
+      "male": 1287,
+      "female": 567
+    },
+    {
+      "male": 1244,
+      "female": 593
+    },
+    {
+      "male": 1251,
+      "female": 593
+    },
+    {
+      "male": 786,
+      "female": 508
+    },
+    {
+      "male": 691,
+      "female": 360
+    }
+  ],
+  "7th St at Brannan St": [
+    {
+      "male": 1715,
+      "female": 694
+    },
+    {
+      "male": 1955,
+      "female": 733
+    },
+    {
+      "male": 1846,
+      "female": 679
+    },
+    {
+      "male": 1944,
+      "female": 638
+    },
+    {
+      "male": 1764,
+      "female": 608
+    },
+    {
+      "male": 605,
+      "female": 242
+    },
+    {
+      "male": 574,
+      "female": 193
+    }
+  ],
+  "The Embarcadero at Sansome St": [
+    {
+      "male": 6009,
+      "female": 3624
+    },
+    {
+      "male": 6051,
+      "female": 3557
+    },
+    {
+      "male": 6308,
+      "female": 3641
+    },
+    {
+      "male": 6073,
+      "female": 3502
+    },
+    {
+      "male": 5698,
+      "female": 3984
+    },
+    {
+      "male": 3777,
+      "female": 4652
+    },
+    {
+      "male": 3113,
+      "female": 3874
+    }
+  ],
+  "Rhode Island St at 17th St": [
+    {
+      "male": 2192,
+      "female": 869
+    },
+    {
+      "male": 2537,
+      "female": 939
+    },
+    {
+      "male": 2581,
+      "female": 936
+    },
+    {
+      "male": 2318,
+      "female": 922
+    },
+    {
+      "male": 2097,
+      "female": 858
+    },
+    {
+      "male": 1116,
+      "female": 664
+    },
+    {
+      "male": 1031,
+      "female": 575
+    }
+  ],
+  "San Francisco Caltrain (Townsend St at 4th St)": [
+    {
+      "male": 9594,
+      "female": 3064
+    },
+    {
+      "male": 10731,
+      "female": 3455
+    },
+    {
+      "male": 10241,
+      "female": 3275
+    },
+    {
+      "male": 10040,
+      "female": 3201
+    },
+    {
+      "male": 8464,
+      "female": 2536
+    },
+    {
+      "male": 1116,
+      "female": 558
+    },
+    {
+      "male": 896,
+      "female": 446
+    }
+  ],
+  "Folsom St at 15th St": [
+    {
+      "male": 1020,
+      "female": 422
+    },
+    {
+      "male": 1113,
+      "female": 481
+    },
+    {
+      "male": 1141,
+      "female": 412
+    },
+    {
+      "male": 1003,
+      "female": 434
+    },
+    {
+      "male": 991,
+      "female": 412
+    },
+    {
+      "male": 792,
+      "female": 462
+    },
+    {
+      "male": 772,
+      "female": 355
+    }
+  ],
+  "19th St at Florida St": [
+    {
+      "male": 940,
+      "female": 552
+    },
+    {
+      "male": 1049,
+      "female": 536
+    },
+    {
+      "male": 1068,
+      "female": 614
+    },
+    {
+      "male": 1018,
+      "female": 506
+    },
+    {
+      "male": 873,
+      "female": 521
+    },
+    {
+      "male": 606,
+      "female": 305
+    },
+    {
+      "male": 545,
+      "female": 236
+    }
+  ],
+  "Sanchez St at 17th St": [
+    {
+      "male": 447,
+      "female": 187
+    },
+    {
+      "male": 559,
+      "female": 209
+    },
+    {
+      "male": 509,
+      "female": 204
+    },
+    {
+      "male": 598,
+      "female": 246
+    },
+    {
+      "male": 592,
+      "female": 210
+    },
+    {
+      "male": 454,
+      "female": 216
+    },
+    {
+      "male": 430,
+      "female": 205
+    }
+  ],
+  "Civic Center/UN Plaza BART Station (Market St at McAllister St)": [
+    {
+      "male": 3359,
+      "female": 1388
+    },
+    {
+      "male": 3903,
+      "female": 1672
+    },
+    {
+      "male": 3968,
+      "female": 1574
+    },
+    {
+      "male": 3765,
+      "female": 1571
+    },
+    {
+      "male": 3900,
+      "female": 1433
+    },
+    {
+      "male": 1730,
+      "female": 1021
+    },
+    {
+      "male": 1503,
+      "female": 912
+    }
+  ],
+  "Precita Park": [
+    {
+      "male": 717,
+      "female": 437
+    },
+    {
+      "male": 796,
+      "female": 484
+    },
+    {
+      "male": 876,
+      "female": 472
+    },
+    {
+      "male": 713,
+      "female": 439
+    },
+    {
+      "male": 735,
+      "female": 471
+    },
+    {
+      "male": 543,
+      "female": 467
+    },
+    {
+      "male": 555,
+      "female": 378
+    }
+  ],
+  "Sanchez St at 15th St": [
+    {
+      "male": 1001,
+      "female": 294
+    },
+    {
+      "male": 1127,
+      "female": 388
+    },
+    {
+      "male": 1316,
+      "female": 415
+    },
+    {
+      "male": 1155,
+      "female": 369
+    },
+    {
+      "male": 1176,
+      "female": 374
+    },
+    {
+      "male": 1094,
+      "female": 392
+    },
+    {
+      "male": 959,
+      "female": 432
+    }
+  ],
+  "S Van Ness Ave at Market St": [
+    {
+      "male": 2306,
+      "female": 670
+    },
+    {
+      "male": 2629,
+      "female": 763
+    },
+    {
+      "male": 2614,
+      "female": 817
+    },
+    {
+      "male": 2612,
+      "female": 815
+    },
+    {
+      "male": 2366,
+      "female": 772
+    },
+    {
+      "male": 585,
+      "female": 315
+    },
+    {
+      "male": 613,
+      "female": 306
+    }
+  ],
+  "14th St at Mandela Pkwy": [
+    {
+      "male": 553,
+      "female": 272
+    },
+    {
+      "male": 563,
+      "female": 355
+    },
+    {
+      "male": 613,
+      "female": 364
+    },
+    {
+      "male": 530,
+      "female": 337
+    },
+    {
+      "male": 515,
+      "female": 223
+    },
+    {
+      "male": 225,
+      "female": 159
+    },
+    {
+      "male": 243,
+      "female": 186
+    }
+  ],
+  "24th St at Market St": [
+    {
+      "male": 224,
+      "female": 240
+    },
+    {
+      "male": 232,
+      "female": 235
+    },
+    {
+      "male": 266,
+      "female": 229
+    },
+    {
+      "male": 239,
+      "female": 213
+    },
+    {
+      "male": 278,
+      "female": 180
+    },
+    {
+      "male": 212,
+      "female": 123
+    },
+    {
+      "male": 232,
+      "female": 106
+    }
+  ],
+  "Market St at 10th St": [
+    {
+      "male": 7129,
+      "female": 2154
+    },
+    {
+      "male": 8178,
+      "female": 2423
+    },
+    {
+      "male": 8219,
+      "female": 2367
+    },
+    {
+      "male": 7577,
+      "female": 2212
+    },
+    {
+      "male": 7485,
+      "female": 2134
+    },
+    {
+      "male": 3139,
+      "female": 1398
+    },
+    {
+      "male": 2764,
+      "female": 1173
+    }
+  ],
+  "Howard St at 8th St": [
+    {
+      "male": 2191,
+      "female": 891
+    },
+    {
+      "male": 2597,
+      "female": 1045
+    },
+    {
+      "male": 2622,
+      "female": 965
+    },
+    {
+      "male": 2650,
+      "female": 997
+    },
+    {
+      "male": 2567,
+      "female": 924
+    },
+    {
+      "male": 1399,
+      "female": 563
+    },
+    {
+      "male": 1141,
+      "female": 545
+    }
+  ],
+  "Golden Gate Ave at Polk St": [
+    {
+      "male": 2058,
+      "female": 942
+    },
+    {
+      "male": 2166,
+      "female": 1096
+    },
+    {
+      "male": 2314,
+      "female": 1103
+    },
+    {
+      "male": 2229,
+      "female": 1100
+    },
+    {
+      "male": 2305,
+      "female": 920
+    },
+    {
+      "male": 1665,
+      "female": 704
+    },
+    {
+      "male": 1366,
+      "female": 521
+    }
+  ],
+  "The Embarcadero at Bryant St": [
+    {
+      "male": 2318,
+      "female": 803
+    },
+    {
+      "male": 2527,
+      "female": 913
+    },
+    {
+      "male": 2514,
+      "female": 868
+    },
+    {
+      "male": 2532,
+      "female": 867
+    },
+    {
+      "male": 2372,
+      "female": 945
+    },
+    {
+      "male": 1204,
+      "female": 908
+    },
+    {
+      "male": 1013,
+      "female": 768
+    }
+  ],
+  "29th St at Tiffany Ave": [
+    {
+      "male": 892,
+      "female": 366
+    },
+    {
+      "male": 1041,
+      "female": 433
+    },
+    {
+      "male": 1055,
+      "female": 489
+    },
+    {
+      "male": 952,
+      "female": 445
+    },
+    {
+      "male": 913,
+      "female": 405
+    },
+    {
+      "male": 653,
+      "female": 318
+    },
+    {
+      "male": 641,
+      "female": 281
+    }
+  ],
+  "Washington St at Kearny St": [
+    {
+      "male": 1415,
+      "female": 600
+    },
+    {
+      "male": 1373,
+      "female": 619
+    },
+    {
+      "male": 1504,
+      "female": 592
+    },
+    {
+      "male": 1309,
+      "female": 619
+    },
+    {
+      "male": 1417,
+      "female": 598
+    },
+    {
+      "male": 1157,
+      "female": 767
+    },
+    {
+      "male": 1047,
+      "female": 675
+    }
+  ],
+  "San Francisco City Hall (Polk St at Grove St)": [
+    {
+      "male": 1081,
+      "female": 562
+    },
+    {
+      "male": 1373,
+      "female": 764
+    },
+    {
+      "male": 1389,
+      "female": 677
+    },
+    {
+      "male": 1425,
+      "female": 698
+    },
+    {
+      "male": 1317,
+      "female": 681
+    },
+    {
+      "male": 673,
+      "female": 495
+    },
+    {
+      "male": 630,
+      "female": 497
+    }
+  ],
+  "13th St at Franklin St": [
+    {
+      "male": 448,
+      "female": 263
+    },
+    {
+      "male": 495,
+      "female": 338
+    },
+    {
+      "male": 443,
+      "female": 298
+    },
+    {
+      "male": 465,
+      "female": 264
+    },
+    {
+      "male": 510,
+      "female": 279
+    },
+    {
+      "male": 229,
+      "female": 195
+    },
+    {
+      "male": 129,
+      "female": 102
+    }
+  ],
+  "2nd Ave at E 18th St": [
+    {
+      "male": 1293,
+      "female": 930
+    },
+    {
+      "male": 1469,
+      "female": 1002
+    },
+    {
+      "male": 1467,
+      "female": 954
+    },
+    {
+      "male": 1324,
+      "female": 933
+    },
+    {
+      "male": 1363,
+      "female": 877
+    },
+    {
+      "male": 914,
+      "female": 771
+    },
+    {
+      "male": 830,
+      "female": 706
+    }
+  ],
+  "Commercial St at Montgomery St": [
+    {
+      "male": 1935,
+      "female": 494
+    },
+    {
+      "male": 2220,
+      "female": 626
+    },
+    {
+      "male": 2248,
+      "female": 626
+    },
+    {
+      "male": 2264,
+      "female": 585
+    },
+    {
+      "male": 1990,
+      "female": 570
+    },
+    {
+      "male": 378,
+      "female": 280
+    },
+    {
+      "male": 411,
+      "female": 205
+    }
+  ],
+  "Broadway at Battery St": [
+    {
+      "male": 1985,
+      "female": 768
+    },
+    {
+      "male": 2302,
+      "female": 770
+    },
+    {
+      "male": 2376,
+      "female": 911
+    },
+    {
+      "male": 2262,
+      "female": 815
+    },
+    {
+      "male": 2098,
+      "female": 703
+    },
+    {
+      "male": 503,
+      "female": 482
+    },
+    {
+      "male": 420,
+      "female": 389
+    }
+  ],
+  "30th St at San Jose Ave": [
+    {
+      "male": 447,
+      "female": 169
+    },
+    {
+      "male": 458,
+      "female": 169
+    },
+    {
+      "male": 465,
+      "female": 187
+    },
+    {
+      "male": 444,
+      "female": 214
+    },
+    {
+      "male": 464,
+      "female": 176
+    },
+    {
+      "male": 325,
+      "female": 191
+    },
+    {
+      "male": 334,
+      "female": 169
+    }
+  ],
+  "11th St at Natoma St": [
+    {
+      "male": 1744,
+      "female": 509
+    },
+    {
+      "male": 2019,
+      "female": 630
+    },
+    {
+      "male": 1965,
+      "female": 674
+    },
+    {
+      "male": 1898,
+      "female": 599
+    },
+    {
+      "male": 1904,
+      "female": 616
+    },
+    {
+      "male": 619,
+      "female": 273
+    },
+    {
+      "male": 569,
+      "female": 260
+    }
+  ],
+  "Church St at Duboce Ave": [
+    {
+      "male": 900,
+      "female": 364
+    },
+    {
+      "male": 1002,
+      "female": 384
+    },
+    {
+      "male": 980,
+      "female": 399
+    },
+    {
+      "male": 965,
+      "female": 412
+    },
+    {
+      "male": 817,
+      "female": 369
+    },
+    {
+      "male": 812,
+      "female": 364
+    },
+    {
+      "male": 749,
+      "female": 318
+    }
+  ],
+  "Dolores St at 15th St": [
+    {
+      "male": 1082,
+      "female": 309
+    },
+    {
+      "male": 1170,
+      "female": 361
+    },
+    {
+      "male": 1225,
+      "female": 396
+    },
+    {
+      "male": 1208,
+      "female": 318
+    },
+    {
+      "male": 1093,
+      "female": 356
+    },
+    {
+      "male": 904,
+      "female": 367
+    },
+    {
+      "male": 854,
+      "female": 319
+    }
+  ],
+  "Victoria Manalo Draves Park": [
+    {
+      "male": 1512,
+      "female": 722
+    },
+    {
+      "male": 1833,
+      "female": 850
+    },
+    {
+      "male": 1821,
+      "female": 808
+    },
+    {
+      "male": 1726,
+      "female": 818
+    },
+    {
+      "male": 1732,
+      "female": 740
+    },
+    {
+      "male": 1265,
+      "female": 440
+    },
+    {
+      "male": 1086,
+      "female": 439
+    }
+  ],
+  "1st St at Folsom St": [
+    {
+      "male": 1360,
+      "female": 485
+    },
+    {
+      "male": 1567,
+      "female": 582
+    },
+    {
+      "male": 1522,
+      "female": 503
+    },
+    {
+      "male": 1457,
+      "female": 577
+    },
+    {
+      "male": 1270,
+      "female": 481
+    },
+    {
+      "male": 798,
+      "female": 319
+    },
+    {
+      "male": 608,
+      "female": 302
+    }
+  ],
+  "Telegraph Ave at 27th St": [
+    {
+      "male": 832,
+      "female": 412
+    },
+    {
+      "male": 977,
+      "female": 387
+    },
+    {
+      "male": 908,
+      "female": 363
+    },
+    {
+      "male": 930,
+      "female": 359
+    },
+    {
+      "male": 905,
+      "female": 407
+    },
+    {
+      "male": 565,
+      "female": 259
+    },
+    {
+      "male": 418,
+      "female": 211
+    }
+  ],
+  "12th St at 4th Ave": [
+    {
+      "male": 274,
+      "female": 238
+    },
+    {
+      "male": 311,
+      "female": 274
+    },
+    {
+      "male": 257,
+      "female": 249
+    },
+    {
+      "male": 271,
+      "female": 253
+    },
+    {
+      "male": 190,
+      "female": 220
+    },
+    {
+      "male": 130,
+      "female": 159
+    },
+    {
+      "male": 127,
+      "female": 122
+    }
+  ],
+  "Yerba Buena Center for the Arts (Howard St at 3rd St)": [
+    {
+      "male": 2076,
+      "female": 725
+    },
+    {
+      "male": 2444,
+      "female": 844
+    },
+    {
+      "male": 2513,
+      "female": 827
+    },
+    {
+      "male": 2514,
+      "female": 908
+    },
+    {
+      "male": 2445,
+      "female": 859
+    },
+    {
+      "male": 1235,
+      "female": 729
+    },
+    {
+      "male": 1279,
+      "female": 729
+    }
+  ],
+  "Clay St at Battery St": [
+    {
+      "male": 2622,
+      "female": 841
+    },
+    {
+      "male": 3006,
+      "female": 887
+    },
+    {
+      "male": 2925,
+      "female": 935
+    },
+    {
+      "male": 2881,
+      "female": 913
+    },
+    {
+      "male": 2634,
+      "female": 857
+    },
+    {
+      "male": 764,
+      "female": 392
+    },
+    {
+      "male": 638,
+      "female": 384
+    }
+  ],
+  "5th St at Howard St": [
+    {
+      "male": 1011,
+      "female": 335
+    },
+    {
+      "male": 1257,
+      "female": 364
+    },
+    {
+      "male": 1210,
+      "female": 318
+    },
+    {
+      "male": 1152,
+      "female": 376
+    },
+    {
+      "male": 1035,
+      "female": 340
+    },
+    {
+      "male": 447,
+      "female": 283
+    },
+    {
+      "male": 335,
+      "female": 180
+    }
+  ],
+  "10th St at Fallon St": [
+    {
+      "male": 541,
+      "female": 562
+    },
+    {
+      "male": 608,
+      "female": 580
+    },
+    {
+      "male": 595,
+      "female": 647
+    },
+    {
+      "male": 559,
+      "female": 558
+    },
+    {
+      "male": 574,
+      "female": 525
+    },
+    {
+      "male": 214,
+      "female": 209
+    },
+    {
+      "male": 224,
+      "female": 211
+    }
+  ],
+  "Duboce Park": [
+    {
+      "male": 719,
+      "female": 183
+    },
+    {
+      "male": 768,
+      "female": 212
+    },
+    {
+      "male": 829,
+      "female": 223
+    },
+    {
+      "male": 700,
+      "female": 268
+    },
+    {
+      "male": 693,
+      "female": 220
+    },
+    {
+      "male": 493,
+      "female": 228
+    },
+    {
+      "male": 450,
+      "female": 229
+    }
+  ],
+  "Broadway at Kearny": [
+    {
+      "male": 1600,
+      "female": 789
+    },
+    {
+      "male": 1637,
+      "female": 696
+    },
+    {
+      "male": 1649,
+      "female": 708
+    },
+    {
+      "male": 1753,
+      "female": 790
+    },
+    {
+      "male": 1741,
+      "female": 804
+    },
+    {
+      "male": 1449,
+      "female": 1115
+    },
+    {
+      "male": 1396,
+      "female": 929
+    }
+  ],
+  "Powell St BART Station (Market St at 5th St)": [
+    {
+      "male": 4714,
+      "female": 2017
+    },
+    {
+      "male": 5304,
+      "female": 2075
+    },
+    {
+      "male": 5201,
+      "female": 2073
+    },
+    {
+      "male": 4970,
+      "female": 2102
+    },
+    {
+      "male": 4577,
+      "female": 2067
+    },
+    {
+      "male": 2815,
+      "female": 2017
+    },
+    {
+      "male": 2286,
+      "female": 1468
+    }
+  ],
+  "Koshland Park": [
+    {
+      "male": 571,
+      "female": 213
+    },
+    {
+      "male": 713,
+      "female": 252
+    },
+    {
+      "male": 706,
+      "female": 210
+    },
+    {
+      "male": 721,
+      "female": 223
+    },
+    {
+      "male": 698,
+      "female": 212
+    },
+    {
+      "male": 603,
+      "female": 285
+    },
+    {
+      "male": 515,
+      "female": 226
+    }
+  ],
+  "Folsom St at 3rd St": [
+    {
+      "male": 2357,
+      "female": 876
+    },
+    {
+      "male": 2793,
+      "female": 1010
+    },
+    {
+      "male": 2875,
+      "female": 931
+    },
+    {
+      "male": 2862,
+      "female": 1010
+    },
+    {
+      "male": 2500,
+      "female": 899
+    },
+    {
+      "male": 946,
+      "female": 548
+    },
+    {
+      "male": 893,
+      "female": 491
+    }
+  ],
+  "17th St at Valencia St": [
+    {
+      "male": 1577,
+      "female": 639
+    },
+    {
+      "male": 1810,
+      "female": 661
+    },
+    {
+      "male": 1639,
+      "female": 698
+    },
+    {
+      "male": 1706,
+      "female": 674
+    },
+    {
+      "male": 1791,
+      "female": 704
+    },
+    {
+      "male": 1602,
+      "female": 812
+    },
+    {
+      "male": 1459,
+      "female": 771
+    }
+  ],
+  "Grove St at Divisadero": [
+    {
+      "male": 745,
+      "female": 430
+    },
+    {
+      "male": 748,
+      "female": 419
+    },
+    {
+      "male": 903,
+      "female": 419
+    },
+    {
+      "male": 828,
+      "female": 404
+    },
+    {
+      "male": 961,
+      "female": 490
+    },
+    {
+      "male": 905,
+      "female": 636
+    },
+    {
+      "male": 845,
+      "female": 626
+    }
+  ],
+  "Montgomery St BART Station (Market St at 2nd St)": [
+    {
+      "male": 7608,
+      "female": 2639
+    },
+    {
+      "male": 8707,
+      "female": 2818
+    },
+    {
+      "male": 8694,
+      "female": 2952
+    },
+    {
+      "male": 8474,
+      "female": 2808
+    },
+    {
+      "male": 7406,
+      "female": 2574
+    },
+    {
+      "male": 1622,
+      "female": 999
+    },
+    {
+      "male": 1317,
+      "female": 761
+    }
+  ],
+  "Haste St at Telegraph Ave": [
+    {
+      "male": 875,
+      "female": 442
+    },
+    {
+      "male": 895,
+      "female": 415
+    },
+    {
+      "male": 915,
+      "female": 442
+    },
+    {
+      "male": 924,
+      "female": 443
+    },
+    {
+      "male": 1009,
+      "female": 395
+    },
+    {
+      "male": 809,
+      "female": 421
+    },
+    {
+      "male": 741,
+      "female": 384
+    }
+  ],
+  "Telegraph Ave at Ashby Ave": [
+    {
+      "male": 668,
+      "female": 329
+    },
+    {
+      "male": 700,
+      "female": 344
+    },
+    {
+      "male": 729,
+      "female": 340
+    },
+    {
+      "male": 666,
+      "female": 356
+    },
+    {
+      "male": 580,
+      "female": 336
+    },
+    {
+      "male": 451,
+      "female": 334
+    },
+    {
+      "male": 430,
+      "female": 295
+    }
+  ],
+  "16th St Mission BART": [
+    {
+      "male": 1065,
+      "female": 456
+    },
+    {
+      "male": 1175,
+      "female": 456
+    },
+    {
+      "male": 1140,
+      "female": 449
+    },
+    {
+      "male": 1180,
+      "female": 401
+    },
+    {
+      "male": 997,
+      "female": 370
+    },
+    {
+      "male": 364,
+      "female": 210
+    },
+    {
+      "male": 244,
+      "female": 122
+    }
+  ],
+  "16th St at Prosper St": [
+    {
+      "male": 675,
+      "female": 228
+    },
+    {
+      "male": 698,
+      "female": 218
+    },
+    {
+      "male": 701,
+      "female": 268
+    },
+    {
+      "male": 665,
+      "female": 243
+    },
+    {
+      "male": 732,
+      "female": 245
+    },
+    {
+      "male": 773,
+      "female": 328
+    },
+    {
+      "male": 672,
+      "female": 297
+    }
+  ],
+  "8th St at Ringold St": [
+    {
+      "male": 2228,
+      "female": 823
+    },
+    {
+      "male": 2430,
+      "female": 878
+    },
+    {
+      "male": 2670,
+      "female": 889
+    },
+    {
+      "male": 2384,
+      "female": 892
+    },
+    {
+      "male": 2373,
+      "female": 815
+    },
+    {
+      "male": 1191,
+      "female": 512
+    },
+    {
+      "male": 1117,
+      "female": 390
+    }
+  ],
+  "Harrison St at 17th St": [
+    {
+      "male": 1589,
+      "female": 655
+    },
+    {
+      "male": 1724,
+      "female": 706
+    },
+    {
+      "male": 1519,
+      "female": 707
+    },
+    {
+      "male": 1476,
+      "female": 621
+    },
+    {
+      "male": 1411,
+      "female": 605
+    },
+    {
+      "male": 833,
+      "female": 482
+    },
+    {
+      "male": 901,
+      "female": 470
+    }
+  ],
+  "Jackson Playground": [
+    {
+      "male": 1051,
+      "female": 491
+    },
+    {
+      "male": 1252,
+      "female": 554
+    },
+    {
+      "male": 1277,
+      "female": 564
+    },
+    {
+      "male": 1241,
+      "female": 522
+    },
+    {
+      "male": 1314,
+      "female": 505
+    },
+    {
+      "male": 739,
+      "female": 367
+    },
+    {
+      "male": 718,
+      "female": 337
+    }
+  ],
+  "Broadway at 40th St": [
+    {
+      "male": 810,
+      "female": 407
+    },
+    {
+      "male": 835,
+      "female": 439
+    },
+    {
+      "male": 941,
+      "female": 478
+    },
+    {
+      "male": 889,
+      "female": 449
+    },
+    {
+      "male": 678,
+      "female": 437
+    },
+    {
+      "male": 491,
+      "female": 398
+    },
+    {
+      "male": 433,
+      "female": 362
+    }
+  ],
+  "Shattuck Ave at 55th Ave": [
+    {
+      "male": 151,
+      "female": 77
+    },
+    {
+      "male": 173,
+      "female": 77
+    },
+    {
+      "male": 195,
+      "female": 89
+    },
+    {
+      "male": 193,
+      "female": 78
+    },
+    {
+      "male": 163,
+      "female": 73
+    },
+    {
+      "male": 134,
+      "female": 34
+    },
+    {
+      "male": 92,
+      "female": 35
+    }
+  ],
+  "North Berkeley BART Station": [
+    {
+      "male": 550,
+      "female": 265
+    },
+    {
+      "male": 641,
+      "female": 345
+    },
+    {
+      "male": 586,
+      "female": 303
+    },
+    {
+      "male": 612,
+      "female": 339
+    },
+    {
+      "male": 585,
+      "female": 274
+    },
+    {
+      "male": 313,
+      "female": 215
+    },
+    {
+      "male": 292,
+      "female": 170
+    }
+  ],
+  "Addison St at Fourth St": [
+    {
+      "male": 480,
+      "female": 413
+    },
+    {
+      "male": 495,
+      "female": 365
+    },
+    {
+      "male": 508,
+      "female": 385
+    },
+    {
+      "male": 518,
+      "female": 367
+    },
+    {
+      "male": 492,
+      "female": 337
+    },
+    {
+      "male": 624,
+      "female": 603
+    },
+    {
+      "male": 623,
+      "female": 604
+    }
+  ],
+  "5th St at Brannan St": [
+    {
+      "male": 2022,
+      "female": 729
+    },
+    {
+      "male": 2311,
+      "female": 746
+    },
+    {
+      "male": 2001,
+      "female": 694
+    },
+    {
+      "male": 2057,
+      "female": 719
+    },
+    {
+      "male": 1840,
+      "female": 647
+    },
+    {
+      "male": 611,
+      "female": 268
+    },
+    {
+      "male": 499,
+      "female": 222
+    }
+  ],
+  "11th St at Bryant St": [
+    {
+      "male": 1897,
+      "female": 559
+    },
+    {
+      "male": 2309,
+      "female": 713
+    },
+    {
+      "male": 2299,
+      "female": 628
+    },
+    {
+      "male": 2305,
+      "female": 654
+    },
+    {
+      "male": 2219,
+      "female": 651
+    },
+    {
+      "male": 1163,
+      "female": 457
+    },
+    {
+      "male": 1283,
+      "female": 471
+    }
+  ],
+  "S Park St at 3rd St": [
+    {
+      "male": 2634,
+      "female": 931
+    },
+    {
+      "male": 3089,
+      "female": 1083
+    },
+    {
+      "male": 3066,
+      "female": 1069
+    },
+    {
+      "male": 3012,
+      "female": 1061
+    },
+    {
+      "male": 2699,
+      "female": 958
+    },
+    {
+      "male": 478,
+      "female": 304
+    },
+    {
+      "male": 369,
+      "female": 195
+    }
+  ],
+  "Rockridge BART Station": [
+    {
+      "male": 1272,
+      "female": 840
+    },
+    {
+      "male": 1341,
+      "female": 917
+    },
+    {
+      "male": 1346,
+      "female": 902
+    },
+    {
+      "male": 1247,
+      "female": 858
+    },
+    {
+      "male": 1142,
+      "female": 759
+    },
+    {
+      "male": 560,
+      "female": 485
+    },
+    {
+      "male": 497,
+      "female": 473
+    }
+  ],
+  "Shafter Ave at Cavour St": [
+    {
+      "male": 148,
+      "female": 92
+    },
+    {
+      "male": 191,
+      "female": 150
+    },
+    {
+      "male": 124,
+      "female": 141
+    },
+    {
+      "male": 186,
+      "female": 118
+    },
+    {
+      "male": 153,
+      "female": 99
+    },
+    {
+      "male": 87,
+      "female": 63
+    },
+    {
+      "male": 79,
+      "female": 64
+    }
+  ],
+  "McAllister St at Baker St": [
+    {
+      "male": 652,
+      "female": 470
+    },
+    {
+      "male": 724,
+      "female": 509
+    },
+    {
+      "male": 707,
+      "female": 538
+    },
+    {
+      "male": 783,
+      "female": 508
+    },
+    {
+      "male": 675,
+      "female": 470
+    },
+    {
+      "male": 576,
+      "female": 387
+    },
+    {
+      "male": 538,
+      "female": 368
+    }
+  ],
+  "Union Square (Powell St at Post St)": [
+    {
+      "male": 1841,
+      "female": 971
+    },
+    {
+      "male": 2051,
+      "female": 1036
+    },
+    {
+      "male": 2205,
+      "female": 1006
+    },
+    {
+      "male": 1940,
+      "female": 1015
+    },
+    {
+      "male": 1928,
+      "female": 1021
+    },
+    {
+      "male": 1565,
+      "female": 1197
+    },
+    {
+      "male": 1347,
+      "female": 971
+    }
+  ],
+  "Powell St BART Station (Market St at 4th St)": [
+    {
+      "male": 5945,
+      "female": 2532
+    },
+    {
+      "male": 6511,
+      "female": 2557
+    },
+    {
+      "male": 6585,
+      "female": 2563
+    },
+    {
+      "male": 6349,
+      "female": 2410
+    },
+    {
+      "male": 5983,
+      "female": 2476
+    },
+    {
+      "male": 3514,
+      "female": 2459
+    },
+    {
+      "male": 3139,
+      "female": 2106
+    }
+  ],
+  "Lakeshore Ave at Trestle Glen Rd": [
+    {
+      "male": 583,
+      "female": 394
+    },
+    {
+      "male": 645,
+      "female": 429
+    },
+    {
+      "male": 665,
+      "female": 386
+    },
+    {
+      "male": 630,
+      "female": 388
+    },
+    {
+      "male": 559,
+      "female": 440
+    },
+    {
+      "male": 349,
+      "female": 361
+    },
+    {
+      "male": 283,
+      "female": 306
+    }
+  ],
+  "Mississippi St at 17th St": [
+    {
+      "male": 1315,
+      "female": 456
+    },
+    {
+      "male": 1503,
+      "female": 506
+    },
+    {
+      "male": 1382,
+      "female": 509
+    },
+    {
+      "male": 1441,
+      "female": 515
+    },
+    {
+      "male": 1274,
+      "female": 435
+    },
+    {
+      "male": 548,
+      "female": 280
+    },
+    {
+      "male": 473,
+      "female": 263
+    }
+  ],
+  "Santa Clara St at Almaden Blvd": [
+    {
+      "male": 307,
+      "female": 121
+    },
+    {
+      "male": 382,
+      "female": 134
+    },
+    {
+      "male": 353,
+      "female": 129
+    },
+    {
+      "male": 331,
+      "female": 100
+    },
+    {
+      "male": 283,
+      "female": 134
+    },
+    {
+      "male": 176,
+      "female": 74
+    },
+    {
+      "male": 179,
+      "female": 100
+    }
+  ],
+  "The Alameda at Bush St": [
+    {
+      "male": 615,
+      "female": 126
+    },
+    {
+      "male": 614,
+      "female": 109
+    },
+    {
+      "male": 646,
+      "female": 137
+    },
+    {
+      "male": 608,
+      "female": 108
+    },
+    {
+      "male": 598,
+      "female": 157
+    },
+    {
+      "male": 689,
+      "female": 181
+    },
+    {
+      "male": 602,
+      "female": 189
+    }
+  ],
+  "MLK Jr Way at University Ave": [
+    {
+      "male": 626,
+      "female": 437
+    },
+    {
+      "male": 700,
+      "female": 472
+    },
+    {
+      "male": 723,
+      "female": 415
+    },
+    {
+      "male": 631,
+      "female": 455
+    },
+    {
+      "male": 581,
+      "female": 346
+    },
+    {
+      "male": 556,
+      "female": 315
+    },
+    {
+      "male": 532,
+      "female": 322
+    }
+  ],
+  "Grand Ave at Perkins St": [
+    {
+      "male": 1734,
+      "female": 974
+    },
+    {
+      "male": 1793,
+      "female": 1081
+    },
+    {
+      "male": 1804,
+      "female": 1009
+    },
+    {
+      "male": 1696,
+      "female": 981
+    },
+    {
+      "male": 1673,
+      "female": 935
+    },
+    {
+      "male": 986,
+      "female": 922
+    },
+    {
+      "male": 856,
+      "female": 724
+    }
+  ],
+  "2nd St at Folsom St": [
+    {
+      "male": 2815,
+      "female": 854
+    },
+    {
+      "male": 3324,
+      "female": 1006
+    },
+    {
+      "male": 3289,
+      "female": 928
+    },
+    {
+      "male": 3194,
+      "female": 1022
+    },
+    {
+      "male": 2732,
+      "female": 825
+    },
+    {
+      "male": 574,
+      "female": 256
+    },
+    {
+      "male": 435,
+      "female": 267
+    }
+  ],
+  "Townsend St at 7th St": [
+    {
+      "male": 4001,
+      "female": 1610
+    },
+    {
+      "male": 4512,
+      "female": 1939
+    },
+    {
+      "male": 4497,
+      "female": 1869
+    },
+    {
+      "male": 4341,
+      "female": 1846
+    },
+    {
+      "male": 3895,
+      "female": 1589
+    },
+    {
+      "male": 1086,
+      "female": 474
+    },
+    {
+      "male": 1024,
+      "female": 476
+    }
+  ],
+  "19th St at Mission St": [
+    {
+      "male": 958,
+      "female": 447
+    },
+    {
+      "male": 1081,
+      "female": 501
+    },
+    {
+      "male": 1122,
+      "female": 478
+    },
+    {
+      "male": 1053,
+      "female": 452
+    },
+    {
+      "male": 1094,
+      "female": 479
+    },
+    {
+      "male": 898,
+      "female": 479
+    },
+    {
+      "male": 802,
+      "female": 373
+    }
+  ],
+  "College Ave at Taft Ave": [
+    {
+      "male": 187,
+      "female": 115
+    },
+    {
+      "male": 213,
+      "female": 119
+    },
+    {
+      "male": 212,
+      "female": 110
+    },
+    {
+      "male": 195,
+      "female": 102
+    },
+    {
+      "male": 198,
+      "female": 85
+    },
+    {
+      "male": 190,
+      "female": 161
+    },
+    {
+      "male": 126,
+      "female": 126
+    }
+  ],
+  "45th St at Manila": [
+    {
+      "male": 512,
+      "female": 357
+    },
+    {
+      "male": 600,
+      "female": 328
+    },
+    {
+      "male": 529,
+      "female": 351
+    },
+    {
+      "male": 459,
+      "female": 324
+    },
+    {
+      "male": 474,
+      "female": 303
+    },
+    {
+      "male": 279,
+      "female": 189
+    },
+    {
+      "male": 282,
+      "female": 148
+    }
+  ],
+  "Howard St at 2nd St": [
+    {
+      "male": 2170,
+      "female": 689
+    },
+    {
+      "male": 2596,
+      "female": 817
+    },
+    {
+      "male": 2741,
+      "female": 793
+    },
+    {
+      "male": 2696,
+      "female": 908
+    },
+    {
+      "male": 2285,
+      "female": 761
+    },
+    {
+      "male": 360,
+      "female": 187
+    },
+    {
+      "male": 312,
+      "female": 184
+    }
+  ],
+  "University Ave at Oxford St": [
+    {
+      "male": 793,
+      "female": 355
+    },
+    {
+      "male": 904,
+      "female": 340
+    },
+    {
+      "male": 880,
+      "female": 359
+    },
+    {
+      "male": 905,
+      "female": 368
+    },
+    {
+      "male": 743,
+      "female": 295
+    },
+    {
+      "male": 346,
+      "female": 229
+    },
+    {
+      "male": 320,
+      "female": 195
+    }
+  ],
+  "Bryant St at 6th St": [
+    {
+      "male": 682,
+      "female": 267
+    },
+    {
+      "male": 782,
+      "female": 344
+    },
+    {
+      "male": 715,
+      "female": 294
+    },
+    {
+      "male": 752,
+      "female": 229
+    },
+    {
+      "male": 605,
+      "female": 258
+    },
+    {
+      "male": 238,
+      "female": 138
+    },
+    {
+      "male": 226,
+      "female": 71
+    }
+  ],
+  "Irwin St at 8th St": [
+    {
+      "male": 702,
+      "female": 450
+    },
+    {
+      "male": 765,
+      "female": 556
+    },
+    {
+      "male": 636,
+      "female": 445
+    },
+    {
+      "male": 690,
+      "female": 464
+    },
+    {
+      "male": 619,
+      "female": 386
+    },
+    {
+      "male": 251,
+      "female": 164
+    },
+    {
+      "male": 192,
+      "female": 144
+    }
+  ],
+  "Santa Clara St at 7th St": [
+    {
+      "male": 335,
+      "female": 70
+    },
+    {
+      "male": 319,
+      "female": 83
+    },
+    {
+      "male": 332,
+      "female": 58
+    },
+    {
+      "male": 272,
+      "female": 69
+    },
+    {
+      "male": 346,
+      "female": 59
+    },
+    {
+      "male": 275,
+      "female": 61
+    },
+    {
+      "male": 275,
+      "female": 51
+    }
+  ],
+  "Julian St at 6th St": [
+    {
+      "male": 271,
+      "female": 62
+    },
+    {
+      "male": 311,
+      "female": 67
+    },
+    {
+      "male": 264,
+      "female": 52
+    },
+    {
+      "male": 286,
+      "female": 48
+    },
+    {
+      "male": 250,
+      "female": 59
+    },
+    {
+      "male": 183,
+      "female": 64
+    },
+    {
+      "male": 149,
+      "female": 54
+    }
+  ],
+  "El Embarcadero at Grand Ave": [
+    {
+      "male": 1254,
+      "female": 936
+    },
+    {
+      "male": 1412,
+      "female": 1108
+    },
+    {
+      "male": 1415,
+      "female": 969
+    },
+    {
+      "male": 1399,
+      "female": 925
+    },
+    {
+      "male": 1276,
+      "female": 1002
+    },
+    {
+      "male": 1415,
+      "female": 1650
+    },
+    {
+      "male": 1148,
+      "female": 1287
+    }
+  ],
+  "Central Ave at Fell St": [
+    {
+      "male": 1371,
+      "female": 980
+    },
+    {
+      "male": 1458,
+      "female": 1010
+    },
+    {
+      "male": 1512,
+      "female": 988
+    },
+    {
+      "male": 1422,
+      "female": 969
+    },
+    {
+      "male": 1564,
+      "female": 1142
+    },
+    {
+      "male": 2117,
+      "female": 1815
+    },
+    {
+      "male": 2103,
+      "female": 1825
+    }
+  ],
+  "Harrison St at 20th St": [
+    {
+      "male": 1302,
+      "female": 637
+    },
+    {
+      "male": 1510,
+      "female": 744
+    },
+    {
+      "male": 1417,
+      "female": 741
+    },
+    {
+      "male": 1429,
+      "female": 739
+    },
+    {
+      "male": 1276,
+      "female": 588
+    },
+    {
+      "male": 894,
+      "female": 511
+    },
+    {
+      "male": 770,
+      "female": 334
+    }
+  ],
+  "San Fernando at 7th St": [
+    {
+      "male": 750,
+      "female": 289
+    },
+    {
+      "male": 762,
+      "female": 360
+    },
+    {
+      "male": 665,
+      "female": 286
+    },
+    {
+      "male": 758,
+      "female": 356
+    },
+    {
+      "male": 539,
+      "female": 234
+    },
+    {
+      "male": 351,
+      "female": 72
+    },
+    {
+      "male": 245,
+      "female": 50
+    }
+  ],
+  "Bancroft Way at College Ave": [
+    {
+      "male": 1755,
+      "female": 872
+    },
+    {
+      "male": 1978,
+      "female": 960
+    },
+    {
+      "male": 2002,
+      "female": 906
+    },
+    {
+      "male": 1924,
+      "female": 1013
+    },
+    {
+      "male": 1602,
+      "female": 736
+    },
+    {
+      "male": 1052,
+      "female": 480
+    },
+    {
+      "male": 848,
+      "female": 390
+    }
+  ],
+  "3rd St at Townsend St": [
+    {
+      "male": 4704,
+      "female": 1644
+    },
+    {
+      "male": 5374,
+      "female": 1823
+    },
+    {
+      "male": 5328,
+      "female": 1836
+    },
+    {
+      "male": 5106,
+      "female": 1757
+    },
+    {
+      "male": 4442,
+      "female": 1719
+    },
+    {
+      "male": 1378,
+      "female": 843
+    },
+    {
+      "male": 1190,
+      "female": 678
+    }
+  ],
+  "Scott St at Golden Gate Ave": [
+    {
+      "male": 360,
+      "female": 215
+    },
+    {
+      "male": 535,
+      "female": 265
+    },
+    {
+      "male": 557,
+      "female": 268
+    },
+    {
+      "male": 548,
+      "female": 314
+    },
+    {
+      "male": 447,
+      "female": 248
+    },
+    {
+      "male": 344,
+      "female": 204
+    },
+    {
+      "male": 281,
+      "female": 117
+    }
+  ],
+  "Grand Ave at Webster St": [
+    {
+      "male": 1408,
+      "female": 819
+    },
+    {
+      "male": 1552,
+      "female": 1006
+    },
+    {
+      "male": 1535,
+      "female": 914
+    },
+    {
+      "male": 1399,
+      "female": 896
+    },
+    {
+      "male": 1454,
+      "female": 857
+    },
+    {
+      "male": 768,
+      "female": 593
+    },
+    {
+      "male": 653,
+      "female": 509
+    }
+  ],
+  "Almaden Blvd at Balbach St": [
+    {
+      "male": 92,
+      "female": 15
+    },
+    {
+      "male": 81,
+      "female": 27
+    },
+    {
+      "male": 106,
+      "female": 37
+    },
+    {
+      "male": 85,
+      "female": 22
+    },
+    {
+      "male": 105,
+      "female": 28
+    },
+    {
+      "male": 33,
+      "female": 41
+    },
+    {
+      "male": 31,
+      "female": 38
+    }
+  ],
+  "Steuart St at Market St": [
+    {
+      "male": 6009,
+      "female": 2506
+    },
+    {
+      "male": 6594,
+      "female": 2540
+    },
+    {
+      "male": 6727,
+      "female": 2565
+    },
+    {
+      "male": 6275,
+      "female": 2439
+    },
+    {
+      "male": 6169,
+      "female": 2413
+    },
+    {
+      "male": 1474,
+      "female": 1305
+    },
+    {
+      "male": 1172,
+      "female": 1032
+    }
+  ],
+  "5th at Folsom": [
+    {
+      "male": 1071,
+      "female": 644
+    },
+    {
+      "male": 1425,
+      "female": 729
+    },
+    {
+      "male": 1285,
+      "female": 708
+    },
+    {
+      "male": 1344,
+      "female": 669
+    },
+    {
+      "male": 1164,
+      "female": 613
+    },
+    {
+      "male": 596,
+      "female": 328
+    },
+    {
+      "male": 524,
+      "female": 323
+    }
+  ],
+  "14th St at Mission St": [
+    {
+      "male": 1122,
+      "female": 468
+    },
+    {
+      "male": 1246,
+      "female": 537
+    },
+    {
+      "male": 1339,
+      "female": 511
+    },
+    {
+      "male": 1233,
+      "female": 445
+    },
+    {
+      "male": 1322,
+      "female": 424
+    },
+    {
+      "male": 833,
+      "female": 458
+    },
+    {
+      "male": 885,
+      "female": 437
+    }
+  ],
+  "Mission Playground": [
+    {
+      "male": 1601,
+      "female": 668
+    },
+    {
+      "male": 1729,
+      "female": 636
+    },
+    {
+      "male": 1800,
+      "female": 714
+    },
+    {
+      "male": 1790,
+      "female": 656
+    },
+    {
+      "male": 1792,
+      "female": 769
+    },
+    {
+      "male": 1552,
+      "female": 846
+    },
+    {
+      "male": 1361,
+      "female": 742
+    }
+  ],
+  "O'Farrell St at Divisadero St": [
+    {
+      "male": 543,
+      "female": 346
+    },
+    {
+      "male": 564,
+      "female": 342
+    },
+    {
+      "male": 581,
+      "female": 383
+    },
+    {
+      "male": 568,
+      "female": 354
+    },
+    {
+      "male": 594,
+      "female": 384
+    },
+    {
+      "male": 522,
+      "female": 348
+    },
+    {
+      "male": 491,
+      "female": 377
+    }
+  ],
+  "Webster St at Grove St": [
+    {
+      "male": 809,
+      "female": 575
+    },
+    {
+      "male": 849,
+      "female": 562
+    },
+    {
+      "male": 872,
+      "female": 649
+    },
+    {
+      "male": 929,
+      "female": 571
+    },
+    {
+      "male": 910,
+      "female": 560
+    },
+    {
+      "male": 763,
+      "female": 572
+    },
+    {
+      "male": 624,
+      "female": 478
+    }
+  ],
+  "Stanford Ave at Hollis St": [
+    {
+      "male": 186,
+      "female": 171
+    },
+    {
+      "male": 210,
+      "female": 155
+    },
+    {
+      "male": 195,
+      "female": 168
+    },
+    {
+      "male": 189,
+      "female": 140
+    },
+    {
+      "male": 204,
+      "female": 154
+    },
+    {
+      "male": 177,
+      "female": 147
+    },
+    {
+      "male": 169,
+      "female": 128
+    }
+  ],
+  "Mechanics Monument Plaza (Market St at Bush St)": [
+    {
+      "male": 2522,
+      "female": 993
+    },
+    {
+      "male": 2933,
+      "female": 1048
+    },
+    {
+      "male": 3136,
+      "female": 1045
+    },
+    {
+      "male": 3008,
+      "female": 1039
+    },
+    {
+      "male": 2782,
+      "female": 1002
+    },
+    {
+      "male": 630,
+      "female": 614
+    },
+    {
+      "male": 549,
+      "female": 460
+    }
+  ],
+  "Embarcadero BART Station (Beale St at Market St)": [
+    {
+      "male": 4610,
+      "female": 1689
+    },
+    {
+      "male": 5256,
+      "female": 1812
+    },
+    {
+      "male": 5146,
+      "female": 1827
+    },
+    {
+      "male": 4989,
+      "female": 1684
+    },
+    {
+      "male": 4351,
+      "female": 1480
+    },
+    {
+      "male": 1273,
+      "female": 632
+    },
+    {
+      "male": 851,
+      "female": 462
+    }
+  ],
+  "San Carlos St at Market St": [
+    {
+      "male": 201,
+      "female": 91
+    },
+    {
+      "male": 177,
+      "female": 79
+    },
+    {
+      "male": 214,
+      "female": 133
+    },
+    {
+      "male": 215,
+      "female": 84
+    },
+    {
+      "male": 145,
+      "female": 76
+    },
+    {
+      "male": 144,
+      "female": 147
+    },
+    {
+      "male": 144,
+      "female": 178
+    }
+  ],
+  "Pierce Ave at Market St": [
+    {
+      "male": 330,
+      "female": 53
+    },
+    {
+      "male": 333,
+      "female": 44
+    },
+    {
+      "male": 373,
+      "female": 65
+    },
+    {
+      "male": 321,
+      "female": 39
+    },
+    {
+      "male": 290,
+      "female": 89
+    },
+    {
+      "male": 200,
+      "female": 67
+    },
+    {
+      "male": 156,
+      "female": 111
+    }
+  ],
+  "Page St at Scott St": [
+    {
+      "male": 834,
+      "female": 399
+    },
+    {
+      "male": 936,
+      "female": 509
+    },
+    {
+      "male": 972,
+      "female": 500
+    },
+    {
+      "male": 911,
+      "female": 476
+    },
+    {
+      "male": 931,
+      "female": 472
+    },
+    {
+      "male": 842,
+      "female": 499
+    },
+    {
+      "male": 831,
+      "female": 489
+    }
+  ],
+  "Jersey St at Castro St": [
+    {
+      "male": 607,
+      "female": 245
+    },
+    {
+      "male": 668,
+      "female": 266
+    },
+    {
+      "male": 775,
+      "female": 269
+    },
+    {
+      "male": 688,
+      "female": 247
+    },
+    {
+      "male": 682,
+      "female": 214
+    },
+    {
+      "male": 443,
+      "female": 255
+    },
+    {
+      "male": 408,
+      "female": 231
+    }
+  ],
+  "Valencia St at 21st St": [
+    {
+      "male": 1307,
+      "female": 539
+    },
+    {
+      "male": 1357,
+      "female": 603
+    },
+    {
+      "male": 1500,
+      "female": 631
+    },
+    {
+      "male": 1244,
+      "female": 525
+    },
+    {
+      "male": 1280,
+      "female": 539
+    },
+    {
+      "male": 1275,
+      "female": 580
+    },
+    {
+      "male": 1093,
+      "female": 528
+    }
+  ],
+  "22nd St Caltrain Station": [
+    {
+      "male": 1707,
+      "female": 601
+    },
+    {
+      "male": 1762,
+      "female": 698
+    },
+    {
+      "male": 1606,
+      "female": 585
+    },
+    {
+      "male": 1710,
+      "female": 580
+    },
+    {
+      "male": 1460,
+      "female": 578
+    },
+    {
+      "male": 654,
+      "female": 379
+    },
+    {
+      "male": 568,
+      "female": 278
+    }
+  ],
+  "Franklin St at 9th St": [
+    {
+      "male": 435,
+      "female": 199
+    },
+    {
+      "male": 487,
+      "female": 216
+    },
+    {
+      "male": 463,
+      "female": 239
+    },
+    {
+      "male": 475,
+      "female": 240
+    },
+    {
+      "male": 384,
+      "female": 232
+    },
+    {
+      "male": 330,
+      "female": 318
+    },
+    {
+      "male": 272,
+      "female": 243
+    }
+  ],
+  "Howard St at Beale St": [
+    {
+      "male": 6096,
+      "female": 2009
+    },
+    {
+      "male": 6703,
+      "female": 2285
+    },
+    {
+      "male": 6395,
+      "female": 2231
+    },
+    {
+      "male": 6310,
+      "female": 2165
+    },
+    {
+      "male": 5592,
+      "female": 1764
+    },
+    {
+      "male": 725,
+      "female": 349
+    },
+    {
+      "male": 627,
+      "female": 290
+    }
+  ],
+  "5th St at San Salvador St": [
+    {
+      "male": 412,
+      "female": 170
+    },
+    {
+      "male": 450,
+      "female": 139
+    },
+    {
+      "male": 513,
+      "female": 166
+    },
+    {
+      "male": 461,
+      "female": 143
+    },
+    {
+      "male": 421,
+      "female": 143
+    },
+    {
+      "male": 243,
+      "female": 82
+    },
+    {
+      "male": 243,
+      "female": 97
+    }
+  ],
+  "Broderick St at Oak St": [
+    {
+      "male": 640,
+      "female": 413
+    },
+    {
+      "male": 721,
+      "female": 399
+    },
+    {
+      "male": 661,
+      "female": 383
+    },
+    {
+      "male": 594,
+      "female": 407
+    },
+    {
+      "male": 714,
+      "female": 406
+    },
+    {
+      "male": 716,
+      "female": 549
+    },
+    {
+      "male": 737,
+      "female": 626
+    }
+  ],
+  "Beale St at Harrison St": [
+    {
+      "male": 3671,
+      "female": 1571
+    },
+    {
+      "male": 4085,
+      "female": 1805
+    },
+    {
+      "male": 3960,
+      "female": 1686
+    },
+    {
+      "male": 4007,
+      "female": 1664
+    },
+    {
+      "male": 3494,
+      "female": 1373
+    },
+    {
+      "male": 1076,
+      "female": 536
+    },
+    {
+      "male": 1093,
+      "female": 461
+    }
+  ],
+  "Derby St at College Ave": [
+    {
+      "male": 673,
+      "female": 399
+    },
+    {
+      "male": 715,
+      "female": 413
+    },
+    {
+      "male": 713,
+      "female": 342
+    },
+    {
+      "male": 744,
+      "female": 368
+    },
+    {
+      "male": 651,
+      "female": 346
+    },
+    {
+      "male": 492,
+      "female": 310
+    },
+    {
+      "male": 536,
+      "female": 298
+    }
+  ],
+  "Telegraph Ave at 58th St": [
+    {
+      "male": 163,
+      "female": 92
+    },
+    {
+      "male": 221,
+      "female": 100
+    },
+    {
+      "male": 226,
+      "female": 98
+    },
+    {
+      "male": 178,
+      "female": 92
+    },
+    {
+      "male": 147,
+      "female": 101
+    },
+    {
+      "male": 128,
+      "female": 70
+    },
+    {
+      "male": 99,
+      "female": 45
+    }
+  ],
+  "Telegraph Ave at 23rd St": [
+    {
+      "male": 708,
+      "female": 328
+    },
+    {
+      "male": 734,
+      "female": 376
+    },
+    {
+      "male": 760,
+      "female": 349
+    },
+    {
+      "male": 770,
+      "female": 390
+    },
+    {
+      "male": 816,
+      "female": 394
+    },
+    {
+      "male": 784,
+      "female": 420
+    },
+    {
+      "male": 668,
+      "female": 338
+    }
+  ],
+  "Russell St at College Ave": [
+    {
+      "male": 525,
+      "female": 384
+    },
+    {
+      "male": 575,
+      "female": 396
+    },
+    {
+      "male": 590,
+      "female": 431
+    },
+    {
+      "male": 579,
+      "female": 360
+    },
+    {
+      "male": 536,
+      "female": 367
+    },
+    {
+      "male": 456,
+      "female": 296
+    },
+    {
+      "male": 410,
+      "female": 305
+    }
+  ],
+  "Bryant St at 15th St": [
+    {
+      "male": 1248,
+      "female": 399
+    },
+    {
+      "male": 1250,
+      "female": 453
+    },
+    {
+      "male": 1336,
+      "female": 509
+    },
+    {
+      "male": 1165,
+      "female": 440
+    },
+    {
+      "male": 1265,
+      "female": 433
+    },
+    {
+      "male": 654,
+      "female": 280
+    },
+    {
+      "male": 602,
+      "female": 210
+    }
+  ],
+  "Franklin Square": [
+    {
+      "male": 651,
+      "female": 281
+    },
+    {
+      "male": 648,
+      "female": 219
+    },
+    {
+      "male": 629,
+      "female": 213
+    },
+    {
+      "male": 549,
+      "female": 242
+    },
+    {
+      "male": 645,
+      "female": 222
+    },
+    {
+      "male": 484,
+      "female": 250
+    },
+    {
+      "male": 476,
+      "female": 188
+    }
+  ],
+  "Eureka Valley Recreation Center": [
+    {
+      "male": 524,
+      "female": 222
+    },
+    {
+      "male": 582,
+      "female": 210
+    },
+    {
+      "male": 605,
+      "female": 186
+    },
+    {
+      "male": 539,
+      "female": 206
+    },
+    {
+      "male": 582,
+      "female": 205
+    },
+    {
+      "male": 552,
+      "female": 244
+    },
+    {
+      "male": 519,
+      "female": 235
+    }
+  ],
+  "Broadway at Coronado Ave": [
+    {
+      "male": 141,
+      "female": 104
+    },
+    {
+      "male": 153,
+      "female": 134
+    },
+    {
+      "male": 177,
+      "female": 122
+    },
+    {
+      "male": 188,
+      "female": 120
+    },
+    {
+      "male": 134,
+      "female": 113
+    },
+    {
+      "male": 118,
+      "female": 126
+    },
+    {
+      "male": 91,
+      "female": 108
+    }
+  ],
+  "The Embarcadero at Steuart St": [
+    {
+      "male": 3391,
+      "female": 1345
+    },
+    {
+      "male": 3998,
+      "female": 1391
+    },
+    {
+      "male": 3646,
+      "female": 1298
+    },
+    {
+      "male": 3522,
+      "female": 1367
+    },
+    {
+      "male": 3413,
+      "female": 1189
+    },
+    {
+      "male": 816,
+      "female": 613
+    },
+    {
+      "male": 663,
+      "female": 509
+    }
+  ],
+  "Esprit Park": [
+    {
+      "male": 2349,
+      "female": 1033
+    },
+    {
+      "male": 2789,
+      "female": 1142
+    },
+    {
+      "male": 2710,
+      "female": 1067
+    },
+    {
+      "male": 2685,
+      "female": 1108
+    },
+    {
+      "male": 2412,
+      "female": 1027
+    },
+    {
+      "male": 1293,
+      "female": 725
+    },
+    {
+      "male": 1055,
+      "female": 633
+    }
+  ],
+  "49th St at Telegraph Ave": [
+    {
+      "male": 460,
+      "female": 237
+    },
+    {
+      "male": 607,
+      "female": 233
+    },
+    {
+      "male": 586,
+      "female": 249
+    },
+    {
+      "male": 569,
+      "female": 286
+    },
+    {
+      "male": 608,
+      "female": 277
+    },
+    {
+      "male": 495,
+      "female": 317
+    },
+    {
+      "male": 444,
+      "female": 259
+    }
+  ],
+  "Shattuck Ave at Telegraph Ave": [
+    {
+      "male": 555,
+      "female": 190
+    },
+    {
+      "male": 454,
+      "female": 215
+    },
+    {
+      "male": 424,
+      "female": 178
+    },
+    {
+      "male": 478,
+      "female": 178
+    },
+    {
+      "male": 443,
+      "female": 214
+    },
+    {
+      "male": 455,
+      "female": 226
+    },
+    {
+      "male": 306,
+      "female": 217
+    }
+  ],
+  "Dover St at 57th St": [
+    {
+      "male": 346,
+      "female": 197
+    },
+    {
+      "male": 354,
+      "female": 266
+    },
+    {
+      "male": 354,
+      "female": 252
+    },
+    {
+      "male": 356,
+      "female": 205
+    },
+    {
+      "male": 308,
+      "female": 270
+    },
+    {
+      "male": 111,
+      "female": 151
+    },
+    {
+      "male": 119,
+      "female": 144
+    }
+  ],
+  "Golden Gate Ave at Hyde St": [
+    {
+      "male": 724,
+      "female": 182
+    },
+    {
+      "male": 895,
+      "female": 181
+    },
+    {
+      "male": 837,
+      "female": 229
+    },
+    {
+      "male": 804,
+      "female": 195
+    },
+    {
+      "male": 786,
+      "female": 174
+    },
+    {
+      "male": 597,
+      "female": 224
+    },
+    {
+      "male": 478,
+      "female": 176
+    }
+  ],
+  "Broadway at 30th St": [
+    {
+      "male": 677,
+      "female": 484
+    },
+    {
+      "male": 737,
+      "female": 466
+    },
+    {
+      "male": 685,
+      "female": 480
+    },
+    {
+      "male": 649,
+      "female": 534
+    },
+    {
+      "male": 589,
+      "female": 428
+    },
+    {
+      "male": 465,
+      "female": 339
+    },
+    {
+      "male": 353,
+      "female": 294
+    }
+  ],
+  "San Pablo Ave at 27th St": [
+    {
+      "male": 122,
+      "female": 81
+    },
+    {
+      "male": 141,
+      "female": 96
+    },
+    {
+      "male": 122,
+      "female": 83
+    },
+    {
+      "male": 113,
+      "female": 84
+    },
+    {
+      "male": 143,
+      "female": 87
+    },
+    {
+      "male": 126,
+      "female": 88
+    },
+    {
+      "male": 101,
+      "female": 44
+    }
+  ],
+  "Paseo De San Antonio at 2nd St": [
+    {
+      "male": 611,
+      "female": 204
+    },
+    {
+      "male": 655,
+      "female": 212
+    },
+    {
+      "male": 552,
+      "female": 231
+    },
+    {
+      "male": 564,
+      "female": 215
+    },
+    {
+      "male": 586,
+      "female": 246
+    },
+    {
+      "male": 452,
+      "female": 212
+    },
+    {
+      "male": 467,
+      "female": 159
+    }
+  ],
+  "Berkeley Civic Center": [
+    {
+      "male": 860,
+      "female": 634
+    },
+    {
+      "male": 880,
+      "female": 686
+    },
+    {
+      "male": 872,
+      "female": 690
+    },
+    {
+      "male": 859,
+      "female": 657
+    },
+    {
+      "male": 713,
+      "female": 635
+    },
+    {
+      "male": 556,
+      "female": 445
+    },
+    {
+      "male": 431,
+      "female": 329
+    }
+  ],
+  "Webster St at 19th St": [
+    {
+      "male": 542,
+      "female": 206
+    },
+    {
+      "male": 617,
+      "female": 300
+    },
+    {
+      "male": 595,
+      "female": 230
+    },
+    {
+      "male": 617,
+      "female": 189
+    },
+    {
+      "male": 551,
+      "female": 239
+    },
+    {
+      "male": 287,
+      "female": 146
+    },
+    {
+      "male": 170,
+      "female": 85
+    }
+  ],
+  "Telegraph Ave at Carleton St": [
+    {
+      "male": 419,
+      "female": 181
+    },
+    {
+      "male": 442,
+      "female": 183
+    },
+    {
+      "male": 457,
+      "female": 211
+    },
+    {
+      "male": 391,
+      "female": 206
+    },
+    {
+      "male": 403,
+      "female": 187
+    },
+    {
+      "male": 302,
+      "female": 210
+    },
+    {
+      "male": 375,
+      "female": 210
+    }
+  ],
+  "San Salvador St at 1st St": [
+    {
+      "male": 239,
+      "female": 190
+    },
+    {
+      "male": 239,
+      "female": 149
+    },
+    {
+      "male": 257,
+      "female": 162
+    },
+    {
+      "male": 272,
+      "female": 96
+    },
+    {
+      "male": 253,
+      "female": 155
+    },
+    {
+      "male": 197,
+      "female": 156
+    },
+    {
+      "male": 259,
+      "female": 167
+    }
+  ],
+  "Potrero Ave and Mariposa St": [
+    {
+      "male": 461,
+      "female": 109
+    },
+    {
+      "male": 596,
+      "female": 158
+    },
+    {
+      "male": 542,
+      "female": 128
+    },
+    {
+      "male": 481,
+      "female": 150
+    },
+    {
+      "male": 469,
+      "female": 121
+    },
+    {
+      "male": 353,
+      "female": 139
+    },
+    {
+      "male": 371,
+      "female": 150
+    }
+  ],
+  "Spear St at Folsom St": [
+    {
+      "male": 2752,
+      "female": 982
+    },
+    {
+      "male": 3092,
+      "female": 1108
+    },
+    {
+      "male": 3038,
+      "female": 1141
+    },
+    {
+      "male": 3031,
+      "female": 1080
+    },
+    {
+      "male": 2960,
+      "female": 955
+    },
+    {
+      "male": 684,
+      "female": 379
+    },
+    {
+      "male": 599,
+      "female": 370
+    }
+  ],
+  "Garfield Square (25th St at Harrison St)": [
+    {
+      "male": 1030,
+      "female": 563
+    },
+    {
+      "male": 1185,
+      "female": 618
+    },
+    {
+      "male": 1193,
+      "female": 590
+    },
+    {
+      "male": 1117,
+      "female": 618
+    },
+    {
+      "male": 1085,
+      "female": 537
+    },
+    {
+      "male": 1054,
+      "female": 634
+    },
+    {
+      "male": 1022,
+      "female": 569
+    }
+  ],
+  "California St at University Ave": [
+    {
+      "male": 425,
+      "female": 191
+    },
+    {
+      "male": 447,
+      "female": 197
+    },
+    {
+      "male": 455,
+      "female": 184
+    },
+    {
+      "male": 501,
+      "female": 244
+    },
+    {
+      "male": 415,
+      "female": 154
+    },
+    {
+      "male": 322,
+      "female": 151
+    },
+    {
+      "male": 283,
+      "female": 128
+    }
+  ],
+  "Mosswood Park": [
+    {
+      "male": 477,
+      "female": 279
+    },
+    {
+      "male": 554,
+      "female": 347
+    },
+    {
+      "male": 625,
+      "female": 349
+    },
+    {
+      "male": 620,
+      "female": 377
+    },
+    {
+      "male": 504,
+      "female": 322
+    },
+    {
+      "male": 217,
+      "female": 237
+    },
+    {
+      "male": 175,
+      "female": 198
+    }
+  ],
+  "20th St at Bryant St": [
+    {
+      "male": 979,
+      "female": 493
+    },
+    {
+      "male": 1153,
+      "female": 568
+    },
+    {
+      "male": 1044,
+      "female": 509
+    },
+    {
+      "male": 1040,
+      "female": 589
+    },
+    {
+      "male": 997,
+      "female": 510
+    },
+    {
+      "male": 689,
+      "female": 330
+    },
+    {
+      "male": 734,
+      "female": 293
+    }
+  ],
+  "MacArthur Blvd at Telegraph Ave": [
+    {
+      "male": 313,
+      "female": 122
+    },
+    {
+      "male": 304,
+      "female": 154
+    },
+    {
+      "male": 272,
+      "female": 127
+    },
+    {
+      "male": 269,
+      "female": 119
+    },
+    {
+      "male": 241,
+      "female": 119
+    },
+    {
+      "male": 232,
+      "female": 119
+    },
+    {
+      "male": 180,
+      "female": 121
+    }
+  ],
+  "55th St at Telegraph Ave": [
+    {
+      "male": 379,
+      "female": 117
+    },
+    {
+      "male": 292,
+      "female": 102
+    },
+    {
+      "male": 282,
+      "female": 119
+    },
+    {
+      "male": 264,
+      "female": 57
+    },
+    {
+      "male": 308,
+      "female": 113
+    },
+    {
+      "male": 287,
+      "female": 98
+    },
+    {
+      "male": 215,
+      "female": 106
+    }
+  ],
+  "Market St at Brockhurst St": [
+    {
+      "male": 320,
+      "female": 231
+    },
+    {
+      "male": 356,
+      "female": 240
+    },
+    {
+      "male": 299,
+      "female": 202
+    },
+    {
+      "male": 291,
+      "female": 146
+    },
+    {
+      "male": 303,
+      "female": 190
+    },
+    {
+      "male": 242,
+      "female": 164
+    },
+    {
+      "male": 216,
+      "female": 174
+    }
+  ],
+  "Adeline St at 40th St": [
+    {
+      "male": 326,
+      "female": 146
+    },
+    {
+      "male": 399,
+      "female": 154
+    },
+    {
+      "male": 391,
+      "female": 191
+    },
+    {
+      "male": 342,
+      "female": 182
+    },
+    {
+      "male": 402,
+      "female": 155
+    },
+    {
+      "male": 286,
+      "female": 169
+    },
+    {
+      "male": 300,
+      "female": 155
+    }
+  ],
+  "College Ave at Harwood Ave": [
+    {
+      "male": 296,
+      "female": 225
+    },
+    {
+      "male": 330,
+      "female": 301
+    },
+    {
+      "male": 299,
+      "female": 248
+    },
+    {
+      "male": 273,
+      "female": 208
+    },
+    {
+      "male": 243,
+      "female": 210
+    },
+    {
+      "male": 292,
+      "female": 222
+    },
+    {
+      "male": 237,
+      "female": 185
+    }
+  ],
+  "Mission St at 1st St": [
+    {
+      "male": 126,
+      "female": 10
+    },
+    {
+      "male": 150,
+      "female": 9
+    },
+    {
+      "male": 158,
+      "female": 20
+    },
+    {
+      "male": 148,
+      "female": 19
+    },
+    {
+      "male": 152,
+      "female": 16
+    },
+    {
+      "male": 58,
+      "female": 24
+    },
+    {
+      "male": 77,
+      "female": 35
+    }
+  ],
+  "San Fernando St at 4th St": [
+    {
+      "male": 1664,
+      "female": 333
+    },
+    {
+      "male": 1674,
+      "female": 372
+    },
+    {
+      "male": 1726,
+      "female": 371
+    },
+    {
+      "male": 1646,
+      "female": 366
+    },
+    {
+      "male": 1342,
+      "female": 347
+    },
+    {
+      "male": 926,
+      "female": 277
+    },
+    {
+      "male": 1035,
+      "female": 247
+    }
+  ],
+  "Snow Park": [
+    {
+      "male": 557,
+      "female": 265
+    },
+    {
+      "male": 680,
+      "female": 329
+    },
+    {
+      "male": 593,
+      "female": 315
+    },
+    {
+      "male": 614,
+      "female": 274
+    },
+    {
+      "male": 480,
+      "female": 255
+    },
+    {
+      "male": 255,
+      "female": 221
+    },
+    {
+      "male": 172,
+      "female": 213
+    }
+  ],
+  "William St at 10th St": [
+    {
+      "male": 308,
+      "female": 33
+    },
+    {
+      "male": 347,
+      "female": 46
+    },
+    {
+      "male": 330,
+      "female": 57
+    },
+    {
+      "male": 331,
+      "female": 34
+    },
+    {
+      "male": 286,
+      "female": 35
+    },
+    {
+      "male": 163,
+      "female": 54
+    },
+    {
+      "male": 149,
+      "female": 39
+    }
+  ],
+  "SAP Center": [
+    {
+      "male": 92,
+      "female": 79
+    },
+    {
+      "male": 111,
+      "female": 46
+    },
+    {
+      "male": 99,
+      "female": 49
+    },
+    {
+      "male": 111,
+      "female": 53
+    },
+    {
+      "male": 106,
+      "female": 63
+    },
+    {
+      "male": 169,
+      "female": 129
+    },
+    {
+      "male": 135,
+      "female": 138
+    }
+  ],
+  "Morrison Ave at Julian St": [
+    {
+      "male": 428,
+      "female": 10
+    },
+    {
+      "male": 473,
+      "female": 23
+    },
+    {
+      "male": 510,
+      "female": 20
+    },
+    {
+      "male": 405,
+      "female": 19
+    },
+    {
+      "male": 381,
+      "female": 15
+    },
+    {
+      "male": 319,
+      "female": 35
+    },
+    {
+      "male": 246,
+      "female": 36
+    }
+  ],
+  "W St John St at Guadalupe River Trail": [
+    {
+      "male": 28,
+      "female": 22
+    },
+    {
+      "male": 27,
+      "female": 6
+    },
+    {
+      "male": 28,
+      "female": 3
+    },
+    {
+      "male": 29,
+      "female": 7
+    },
+    {
+      "male": 46,
+      "female": 16
+    },
+    {
+      "male": 61,
+      "female": 18
+    },
+    {
+      "male": 32,
+      "female": 30
+    }
+  ],
+  "9th St at San Fernando": [
+    {
+      "male": 259,
+      "female": 111
+    },
+    {
+      "male": 299,
+      "female": 90
+    },
+    {
+      "male": 333,
+      "female": 117
+    },
+    {
+      "male": 261,
+      "female": 106
+    },
+    {
+      "male": 231,
+      "female": 112
+    },
+    {
+      "male": 121,
+      "female": 58
+    },
+    {
+      "male": 105,
+      "female": 46
+    }
+  ],
+  "Davis St at Jackson St": [
+    {
+      "male": 2154,
+      "female": 787
+    },
+    {
+      "male": 2393,
+      "female": 838
+    },
+    {
+      "male": 2138,
+      "female": 865
+    },
+    {
+      "male": 2194,
+      "female": 785
+    },
+    {
+      "male": 1916,
+      "female": 774
+    },
+    {
+      "male": 792,
+      "female": 499
+    },
+    {
+      "male": 662,
+      "female": 423
+    }
+  ],
+  "Downtown Berkeley BART": [
+    {
+      "male": 2063,
+      "female": 749
+    },
+    {
+      "male": 2157,
+      "female": 818
+    },
+    {
+      "male": 2153,
+      "female": 747
+    },
+    {
+      "male": 1996,
+      "female": 777
+    },
+    {
+      "male": 1899,
+      "female": 753
+    },
+    {
+      "male": 1230,
+      "female": 679
+    },
+    {
+      "male": 1042,
+      "female": 586
+    }
+  ],
+  "Union St at 10th St": [
+    {
+      "male": 318,
+      "female": 122
+    },
+    {
+      "male": 357,
+      "female": 123
+    },
+    {
+      "male": 376,
+      "female": 117
+    },
+    {
+      "male": 357,
+      "female": 98
+    },
+    {
+      "male": 304,
+      "female": 105
+    },
+    {
+      "male": 176,
+      "female": 101
+    },
+    {
+      "male": 141,
+      "female": 62
+    }
+  ],
+  "Fountain Alley at S 2nd St": [
+    {
+      "male": 464,
+      "female": 131
+    },
+    {
+      "male": 485,
+      "female": 177
+    },
+    {
+      "male": 505,
+      "female": 158
+    },
+    {
+      "male": 482,
+      "female": 158
+    },
+    {
+      "male": 430,
+      "female": 171
+    },
+    {
+      "male": 402,
+      "female": 119
+    },
+    {
+      "male": 353,
+      "female": 127
+    }
+  ],
+  "College Ave at Alcatraz Ave": [
+    {
+      "male": 478,
+      "female": 460
+    },
+    {
+      "male": 497,
+      "female": 486
+    },
+    {
+      "male": 494,
+      "female": 493
+    },
+    {
+      "male": 474,
+      "female": 435
+    },
+    {
+      "male": 430,
+      "female": 399
+    },
+    {
+      "male": 418,
+      "female": 365
+    },
+    {
+      "male": 380,
+      "female": 357
+    }
+  ],
+  "17th St at Dolores St": [
+    {
+      "male": 635,
+      "female": 407
+    },
+    {
+      "male": 822,
+      "female": 400
+    },
+    {
+      "male": 768,
+      "female": 407
+    },
+    {
+      "male": 685,
+      "female": 398
+    },
+    {
+      "male": 665,
+      "female": 357
+    },
+    {
+      "male": 882,
+      "female": 514
+    },
+    {
+      "male": 792,
+      "female": 413
+    }
+  ],
+  "S. 4th St at San Carlos St": [
+    {
+      "male": 334,
+      "female": 101
+    },
+    {
+      "male": 332,
+      "female": 69
+    },
+    {
+      "male": 349,
+      "female": 90
+    },
+    {
+      "male": 311,
+      "female": 77
+    },
+    {
+      "male": 271,
+      "female": 56
+    },
+    {
+      "male": 186,
+      "female": 100
+    },
+    {
+      "male": 202,
+      "female": 60
+    }
+  ],
+  "MLK Jr Way at 14th St": [
+    {
+      "male": 242,
+      "female": 83
+    },
+    {
+      "male": 262,
+      "female": 123
+    },
+    {
+      "male": 249,
+      "female": 91
+    },
+    {
+      "male": 235,
+      "female": 118
+    },
+    {
+      "male": 169,
+      "female": 99
+    },
+    {
+      "male": 272,
+      "female": 119
+    },
+    {
+      "male": 219,
+      "female": 143
+    }
+  ],
+  "Jackson St at 11th St": [
+    {
+      "male": 299,
+      "female": 190
+    },
+    {
+      "male": 277,
+      "female": 234
+    },
+    {
+      "male": 289,
+      "female": 237
+    },
+    {
+      "male": 307,
+      "female": 220
+    },
+    {
+      "male": 313,
+      "female": 224
+    },
+    {
+      "male": 206,
+      "female": 183
+    },
+    {
+      "male": 161,
+      "female": 112
+    }
+  ],
+  "Raymond Kimbell Playground": [
+    {
+      "male": 734,
+      "female": 465
+    },
+    {
+      "male": 753,
+      "female": 423
+    },
+    {
+      "male": 746,
+      "female": 400
+    },
+    {
+      "male": 738,
+      "female": 398
+    },
+    {
+      "male": 738,
+      "female": 423
+    },
+    {
+      "male": 806,
+      "female": 531
+    },
+    {
+      "male": 726,
+      "female": 500
+    }
+  ],
+  "Channing Way at San Pablo Ave": [
+    {
+      "male": 265,
+      "female": 185
+    },
+    {
+      "male": 358,
+      "female": 214
+    },
+    {
+      "male": 315,
+      "female": 230
+    },
+    {
+      "male": 307,
+      "female": 224
+    },
+    {
+      "male": 390,
+      "female": 211
+    },
+    {
+      "male": 255,
+      "female": 217
+    },
+    {
+      "male": 219,
+      "female": 145
+    }
+  ],
+  "College Ave at Bryant Ave": [
+    {
+      "male": 117,
+      "female": 109
+    },
+    {
+      "male": 139,
+      "female": 163
+    },
+    {
+      "male": 155,
+      "female": 139
+    },
+    {
+      "male": 143,
+      "female": 117
+    },
+    {
+      "male": 135,
+      "female": 103
+    },
+    {
+      "male": 117,
+      "female": 108
+    },
+    {
+      "male": 65,
+      "female": 73
+    }
+  ],
+  "Vine St at Shattuck Ave": [
+    {
+      "male": 428,
+      "female": 301
+    },
+    {
+      "male": 478,
+      "female": 259
+    },
+    {
+      "male": 565,
+      "female": 307
+    },
+    {
+      "male": 461,
+      "female": 269
+    },
+    {
+      "male": 458,
+      "female": 248
+    },
+    {
+      "male": 470,
+      "female": 315
+    },
+    {
+      "male": 378,
+      "female": 320
+    }
+  ],
+  "Colin P Kelly Jr St at Townsend St (Temporary Site)": [
+    {
+      "male": 657,
+      "female": 224
+    },
+    {
+      "male": 768,
+      "female": 230
+    },
+    {
+      "male": 794,
+      "female": 258
+    },
+    {
+      "male": 700,
+      "female": 201
+    },
+    {
+      "male": 594,
+      "female": 186
+    },
+    {
+      "male": 234,
+      "female": 155
+    },
+    {
+      "male": 185,
+      "female": 163
+    }
+  ],
+  "Telegraph Ave at Alcatraz Ave": [
+    {
+      "male": 370,
+      "female": 209
+    },
+    {
+      "male": 397,
+      "female": 252
+    },
+    {
+      "male": 408,
+      "female": 232
+    },
+    {
+      "male": 407,
+      "female": 226
+    },
+    {
+      "male": 344,
+      "female": 188
+    },
+    {
+      "male": 270,
+      "female": 231
+    },
+    {
+      "male": 268,
+      "female": 180
+    }
+  ],
+  "San Bruno Ave at 16th St": [
+    {
+      "male": 728,
+      "female": 195
+    },
+    {
+      "male": 805,
+      "female": 191
+    },
+    {
+      "male": 678,
+      "female": 150
+    },
+    {
+      "male": 714,
+      "female": 162
+    },
+    {
+      "male": 724,
+      "female": 182
+    },
+    {
+      "male": 154,
+      "female": 46
+    },
+    {
+      "male": 105,
+      "female": 44
+    }
+  ],
+  "59th St at Horton St": [
+    {
+      "male": 353,
+      "female": 143
+    },
+    {
+      "male": 428,
+      "female": 148
+    },
+    {
+      "male": 419,
+      "female": 182
+    },
+    {
+      "male": 399,
+      "female": 170
+    },
+    {
+      "male": 343,
+      "female": 119
+    },
+    {
+      "male": 149,
+      "female": 89
+    },
+    {
+      "male": 134,
+      "female": 101
+    }
+  ],
+  "Lake Merritt BART Station": [
+    {
+      "male": 1441,
+      "female": 1078
+    },
+    {
+      "male": 1814,
+      "female": 1175
+    },
+    {
+      "male": 1674,
+      "female": 1133
+    },
+    {
+      "male": 1678,
+      "female": 1106
+    },
+    {
+      "male": 1457,
+      "female": 896
+    },
+    {
+      "male": 641,
+      "female": 505
+    },
+    {
+      "male": 551,
+      "female": 395
+    }
+  ],
+  "32nd St at Adeline St": [
+    {
+      "male": 297,
+      "female": 181
+    },
+    {
+      "male": 365,
+      "female": 188
+    },
+    {
+      "male": 342,
+      "female": 206
+    },
+    {
+      "male": 346,
+      "female": 186
+    },
+    {
+      "male": 356,
+      "female": 175
+    },
+    {
+      "male": 195,
+      "female": 178
+    },
+    {
+      "male": 205,
+      "female": 100
+    }
+  ],
+  "West St at 40th St": [
+    {
+      "male": 292,
+      "female": 172
+    },
+    {
+      "male": 366,
+      "female": 177
+    },
+    {
+      "male": 296,
+      "female": 213
+    },
+    {
+      "male": 321,
+      "female": 175
+    },
+    {
+      "male": 267,
+      "female": 119
+    },
+    {
+      "male": 164,
+      "female": 98
+    },
+    {
+      "male": 142,
+      "female": 97
+    }
+  ],
+  "Palm St at Willow St": [
+    {
+      "male": 26,
+      "female": 8
+    },
+    {
+      "male": 37,
+      "female": 5
+    },
+    {
+      "male": 38,
+      "female": 8
+    },
+    {
+      "male": 27,
+      "female": 8
+    },
+    {
+      "male": 38,
+      "female": 7
+    },
+    {
+      "male": 27,
+      "female": 8
+    },
+    {
+      "male": 31,
+      "female": 15
+    }
+  ],
+  "Woolsey St at Sacramento St": [
+    {
+      "male": 395,
+      "female": 262
+    },
+    {
+      "male": 420,
+      "female": 255
+    },
+    {
+      "male": 450,
+      "female": 285
+    },
+    {
+      "male": 388,
+      "female": 332
+    },
+    {
+      "male": 381,
+      "female": 220
+    },
+    {
+      "male": 242,
+      "female": 248
+    },
+    {
+      "male": 248,
+      "female": 197
+    }
+  ],
+  "Bushrod Park": [
+    {
+      "male": 240,
+      "female": 100
+    },
+    {
+      "male": 247,
+      "female": 114
+    },
+    {
+      "male": 255,
+      "female": 90
+    },
+    {
+      "male": 230,
+      "female": 80
+    },
+    {
+      "male": 223,
+      "female": 102
+    },
+    {
+      "male": 147,
+      "female": 92
+    },
+    {
+      "male": 157,
+      "female": 82
+    }
+  ],
+  "The Embarcadero at Vallejo St": [
+    {
+      "male": 1468,
+      "female": 1535
+    },
+    {
+      "male": 1514,
+      "female": 1580
+    },
+    {
+      "male": 1665,
+      "female": 1520
+    },
+    {
+      "male": 1962,
+      "female": 1704
+    },
+    {
+      "male": 1433,
+      "female": 1599
+    },
+    {
+      "male": 1060,
+      "female": 1731
+    },
+    {
+      "male": 831,
+      "female": 1266
+    }
+  ],
+  "Isabella St at San Pablo Ave": [
+    {
+      "male": 147,
+      "female": 125
+    },
+    {
+      "male": 167,
+      "female": 138
+    },
+    {
+      "male": 176,
+      "female": 120
+    },
+    {
+      "male": 199,
+      "female": 107
+    },
+    {
+      "male": 131,
+      "female": 104
+    },
+    {
+      "male": 91,
+      "female": 67
+    },
+    {
+      "male": 65,
+      "female": 57
+    }
+  ],
+  "Jersey St at Church St": [
+    {
+      "male": 389,
+      "female": 195
+    },
+    {
+      "male": 467,
+      "female": 263
+    },
+    {
+      "male": 476,
+      "female": 269
+    },
+    {
+      "male": 501,
+      "female": 239
+    },
+    {
+      "male": 461,
+      "female": 217
+    },
+    {
+      "male": 269,
+      "female": 176
+    },
+    {
+      "male": 254,
+      "female": 146
+    }
+  ],
+  "Harmon St at Adeline St": [
+    {
+      "male": 172,
+      "female": 137
+    },
+    {
+      "male": 218,
+      "female": 118
+    },
+    {
+      "male": 167,
+      "female": 119
+    },
+    {
+      "male": 199,
+      "female": 132
+    },
+    {
+      "male": 153,
+      "female": 99
+    },
+    {
+      "male": 173,
+      "female": 129
+    },
+    {
+      "male": 135,
+      "female": 107
+    }
+  ],
+  "Grand Ave at Santa Clara Ave": [
+    {
+      "male": 747,
+      "female": 333
+    },
+    {
+      "male": 873,
+      "female": 405
+    },
+    {
+      "male": 816,
+      "female": 409
+    },
+    {
+      "male": 843,
+      "female": 402
+    },
+    {
+      "male": 737,
+      "female": 390
+    },
+    {
+      "male": 459,
+      "female": 485
+    },
+    {
+      "male": 386,
+      "female": 335
+    }
+  ],
+  "12th St at 6th Ave": [
+    {
+      "male": 69,
+      "female": 33
+    },
+    {
+      "male": 112,
+      "female": 55
+    },
+    {
+      "male": 65,
+      "female": 42
+    },
+    {
+      "male": 97,
+      "female": 47
+    },
+    {
+      "male": 99,
+      "female": 49
+    },
+    {
+      "male": 85,
+      "female": 19
+    },
+    {
+      "male": 83,
+      "female": 48
+    }
+  ],
+  "37th St at West St": [
+    {
+      "male": 170,
+      "female": 21
+    },
+    {
+      "male": 202,
+      "female": 18
+    },
+    {
+      "male": 210,
+      "female": 17
+    },
+    {
+      "male": 176,
+      "female": 13
+    },
+    {
+      "male": 134,
+      "female": 42
+    },
+    {
+      "male": 142,
+      "female": 26
+    },
+    {
+      "male": 122,
+      "female": 19
+    }
+  ],
+  "Hearst Ave at Euclid Ave": [
+    {
+      "male": 849,
+      "female": 287
+    },
+    {
+      "male": 890,
+      "female": 292
+    },
+    {
+      "male": 843,
+      "female": 283
+    },
+    {
+      "male": 864,
+      "female": 299
+    },
+    {
+      "male": 842,
+      "female": 273
+    },
+    {
+      "male": 479,
+      "female": 258
+    },
+    {
+      "male": 463,
+      "female": 245
+    }
+  ],
+  "Pierce St at Haight St": [
+    {
+      "male": 696,
+      "female": 245
+    },
+    {
+      "male": 806,
+      "female": 276
+    },
+    {
+      "male": 877,
+      "female": 324
+    },
+    {
+      "male": 813,
+      "female": 338
+    },
+    {
+      "male": 857,
+      "female": 318
+    },
+    {
+      "male": 797,
+      "female": 404
+    },
+    {
+      "male": 653,
+      "female": 389
+    }
+  ],
+  "Ninth St at Heinz Ave": [
+    {
+      "male": 420,
+      "female": 254
+    },
+    {
+      "male": 468,
+      "female": 232
+    },
+    {
+      "male": 444,
+      "female": 226
+    },
+    {
+      "male": 482,
+      "female": 222
+    },
+    {
+      "male": 448,
+      "female": 224
+    },
+    {
+      "male": 375,
+      "female": 256
+    },
+    {
+      "male": 305,
+      "female": 220
+    }
+  ],
+  "Doyle St at 59th St": [
+    {
+      "male": 171,
+      "female": 214
+    },
+    {
+      "male": 147,
+      "female": 213
+    },
+    {
+      "male": 154,
+      "female": 228
+    },
+    {
+      "male": 142,
+      "female": 230
+    },
+    {
+      "male": 145,
+      "female": 265
+    },
+    {
+      "male": 114,
+      "female": 100
+    },
+    {
+      "male": 93,
+      "female": 60
+    }
+  ],
+  "34th St at Telegraph Ave": [
+    {
+      "male": 285,
+      "female": 323
+    },
+    {
+      "male": 288,
+      "female": 376
+    },
+    {
+      "male": 305,
+      "female": 302
+    },
+    {
+      "male": 275,
+      "female": 277
+    },
+    {
+      "male": 267,
+      "female": 270
+    },
+    {
+      "male": 192,
+      "female": 107
+    },
+    {
+      "male": 165,
+      "female": 101
+    }
+  ],
+  "Autumn Parkway at Coleman Ave": [
+    {
+      "male": 174,
+      "female": 150
+    },
+    {
+      "male": 153,
+      "female": 82
+    },
+    {
+      "male": 173,
+      "female": 155
+    },
+    {
+      "male": 153,
+      "female": 79
+    },
+    {
+      "male": 206,
+      "female": 76
+    },
+    {
+      "male": 267,
+      "female": 174
+    },
+    {
+      "male": 300,
+      "female": 275
+    }
+  ],
+  "Cahill Park": [
+    {
+      "male": 308,
+      "female": 89
+    },
+    {
+      "male": 378,
+      "female": 48
+    },
+    {
+      "male": 366,
+      "female": 59
+    },
+    {
+      "male": 361,
+      "female": 52
+    },
+    {
+      "male": 292,
+      "female": 61
+    },
+    {
+      "male": 254,
+      "female": 65
+    },
+    {
+      "male": 262,
+      "female": 106
+    }
+  ],
+  "Father Alfred E Boeddeker Park": [
+    {
+      "male": 719,
+      "female": 236
+    },
+    {
+      "male": 792,
+      "female": 238
+    },
+    {
+      "male": 777,
+      "female": 221
+    },
+    {
+      "male": 813,
+      "female": 267
+    },
+    {
+      "male": 749,
+      "female": 249
+    },
+    {
+      "male": 761,
+      "female": 243
+    },
+    {
+      "male": 661,
+      "female": 200
+    }
+  ],
+  "Channing Way at Shattuck Ave": [
+    {
+      "male": 456,
+      "female": 277
+    },
+    {
+      "male": 511,
+      "female": 281
+    },
+    {
+      "male": 552,
+      "female": 321
+    },
+    {
+      "male": 493,
+      "female": 299
+    },
+    {
+      "male": 448,
+      "female": 302
+    },
+    {
+      "male": 451,
+      "female": 267
+    },
+    {
+      "male": 441,
+      "female": 314
+    }
+  ],
+  "Webster St at 2nd St": [
+    {
+      "male": 714,
+      "female": 352
+    },
+    {
+      "male": 786,
+      "female": 302
+    },
+    {
+      "male": 806,
+      "female": 351
+    },
+    {
+      "male": 827,
+      "female": 337
+    },
+    {
+      "male": 842,
+      "female": 358
+    },
+    {
+      "male": 567,
+      "female": 445
+    },
+    {
+      "male": 445,
+      "female": 365
+    }
+  ],
+  "47th St at San Pablo Ave": [
+    {
+      "male": 250,
+      "female": 137
+    },
+    {
+      "male": 283,
+      "female": 130
+    },
+    {
+      "male": 268,
+      "female": 171
+    },
+    {
+      "male": 248,
+      "female": 125
+    },
+    {
+      "male": 272,
+      "female": 174
+    },
+    {
+      "male": 149,
+      "female": 131
+    },
+    {
+      "male": 130,
+      "female": 116
+    }
+  ],
+  "Julian St at The Alameda": [
+    {
+      "male": 558,
+      "female": 126
+    },
+    {
+      "male": 689,
+      "female": 118
+    },
+    {
+      "male": 715,
+      "female": 156
+    },
+    {
+      "male": 648,
+      "female": 141
+    },
+    {
+      "male": 630,
+      "female": 195
+    },
+    {
+      "male": 684,
+      "female": 188
+    },
+    {
+      "male": 594,
+      "female": 180
+    }
+  ],
+  "San Pablo Ave at MLK Jr Way": [
+    {
+      "male": 212,
+      "female": 96
+    },
+    {
+      "male": 238,
+      "female": 128
+    },
+    {
+      "male": 242,
+      "female": 112
+    },
+    {
+      "male": 231,
+      "female": 120
+    },
+    {
+      "male": 228,
+      "female": 113
+    },
+    {
+      "male": 229,
+      "female": 80
+    },
+    {
+      "male": 266,
+      "female": 74
+    }
+  ],
+  "San Carlos St at 11th St": [
+    {
+      "male": 318,
+      "female": 141
+    },
+    {
+      "male": 332,
+      "female": 157
+    },
+    {
+      "male": 319,
+      "female": 150
+    },
+    {
+      "male": 299,
+      "female": 136
+    },
+    {
+      "male": 256,
+      "female": 123
+    },
+    {
+      "male": 198,
+      "female": 131
+    },
+    {
+      "male": 189,
+      "female": 137
+    }
+  ],
+  "Emeryville Town Hall": [
+    {
+      "male": 266,
+      "female": 123
+    },
+    {
+      "male": 281,
+      "female": 139
+    },
+    {
+      "male": 279,
+      "female": 154
+    },
+    {
+      "male": 342,
+      "female": 150
+    },
+    {
+      "male": 272,
+      "female": 129
+    },
+    {
+      "male": 96,
+      "female": 73
+    },
+    {
+      "male": 88,
+      "female": 87
+    }
+  ],
+  "Marston Campbell Park": [
+    {
+      "male": 172,
+      "female": 53
+    },
+    {
+      "male": 182,
+      "female": 71
+    },
+    {
+      "male": 188,
+      "female": 57
+    },
+    {
+      "male": 163,
+      "female": 95
+    },
+    {
+      "male": 181,
+      "female": 44
+    },
+    {
+      "male": 149,
+      "female": 42
+    },
+    {
+      "male": 101,
+      "female": 54
+    }
+  ],
+  "San Jose City Hall": [
+    {
+      "male": 493,
+      "female": 114
+    },
+    {
+      "male": 527,
+      "female": 123
+    },
+    {
+      "male": 463,
+      "female": 146
+    },
+    {
+      "male": 480,
+      "female": 149
+    },
+    {
+      "male": 438,
+      "female": 139
+    },
+    {
+      "male": 274,
+      "female": 92
+    },
+    {
+      "male": 269,
+      "female": 69
+    }
+  ],
+  "2nd St at Townsend St": [
+    {
+      "male": 3827,
+      "female": 1236
+    },
+    {
+      "male": 4230,
+      "female": 1355
+    },
+    {
+      "male": 4058,
+      "female": 1229
+    },
+    {
+      "male": 3793,
+      "female": 1392
+    },
+    {
+      "male": 3642,
+      "female": 1365
+    },
+    {
+      "male": 1361,
+      "female": 952
+    },
+    {
+      "male": 1308,
+      "female": 816
+    }
+  ],
+  "Fruitvale BART Station": [
+    {
+      "male": 242,
+      "female": 95
+    },
+    {
+      "male": 281,
+      "female": 95
+    },
+    {
+      "male": 243,
+      "female": 94
+    },
+    {
+      "male": 240,
+      "female": 122
+    },
+    {
+      "male": 254,
+      "female": 122
+    },
+    {
+      "male": 126,
+      "female": 49
+    },
+    {
+      "male": 83,
+      "female": 47
+    }
+  ],
+  "Foothill Blvd at 42nd Ave": [
+    {
+      "male": 22,
+      "female": 11
+    },
+    {
+      "male": 27,
+      "female": 16
+    },
+    {
+      "male": 26,
+      "female": 17
+    },
+    {
+      "male": 32,
+      "female": 30
+    },
+    {
+      "male": 35,
+      "female": 13
+    },
+    {
+      "male": 22,
+      "female": 9
+    },
+    {
+      "male": 16,
+      "female": 7
+    }
+  ],
+  "Bryant St at 2nd St": [
+    {
+      "male": 1846,
+      "female": 519
+    },
+    {
+      "male": 2191,
+      "female": 565
+    },
+    {
+      "male": 2127,
+      "female": 612
+    },
+    {
+      "male": 2240,
+      "female": 676
+    },
+    {
+      "male": 1892,
+      "female": 630
+    },
+    {
+      "male": 419,
+      "female": 223
+    },
+    {
+      "male": 351,
+      "female": 162
+    }
+  ],
+  "Hubbell St at 16th St": [
+    {
+      "male": 760,
+      "female": 411
+    },
+    {
+      "male": 835,
+      "female": 423
+    },
+    {
+      "male": 904,
+      "female": 481
+    },
+    {
+      "male": 775,
+      "female": 436
+    },
+    {
+      "male": 648,
+      "female": 422
+    },
+    {
+      "male": 411,
+      "female": 315
+    },
+    {
+      "male": 364,
+      "female": 277
+    }
+  ],
+  "Ninth St at Parker St": [
+    {
+      "male": 315,
+      "female": 157
+    },
+    {
+      "male": 377,
+      "female": 193
+    },
+    {
+      "male": 388,
+      "female": 221
+    },
+    {
+      "male": 384,
+      "female": 219
+    },
+    {
+      "male": 362,
+      "female": 195
+    },
+    {
+      "male": 222,
+      "female": 202
+    },
+    {
+      "male": 155,
+      "female": 146
+    }
+  ],
+  "24th St at Chattanooga St": [
+    {
+      "male": 624,
+      "female": 264
+    },
+    {
+      "male": 642,
+      "female": 291
+    },
+    {
+      "male": 706,
+      "female": 288
+    },
+    {
+      "male": 691,
+      "female": 289
+    },
+    {
+      "male": 599,
+      "female": 231
+    },
+    {
+      "male": 492,
+      "female": 279
+    },
+    {
+      "male": 417,
+      "female": 214
+    }
+  ],
+  "Ellsworth St at Russell St": [
+    {
+      "male": 330,
+      "female": 139
+    },
+    {
+      "male": 382,
+      "female": 185
+    },
+    {
+      "male": 376,
+      "female": 176
+    },
+    {
+      "male": 365,
+      "female": 184
+    },
+    {
+      "male": 245,
+      "female": 157
+    },
+    {
+      "male": 145,
+      "female": 142
+    },
+    {
+      "male": 151,
+      "female": 132
+    }
+  ],
+  "27th St at MLK Jr Way": [
+    {
+      "male": 72,
+      "female": 30
+    },
+    {
+      "male": 109,
+      "female": 39
+    },
+    {
+      "male": 95,
+      "female": 52
+    },
+    {
+      "male": 99,
+      "female": 38
+    },
+    {
+      "male": 105,
+      "female": 48
+    },
+    {
+      "male": 51,
+      "female": 40
+    },
+    {
+      "male": 58,
+      "female": 47
+    }
+  ],
+  "Emeryville Public Market": [
+    {
+      "male": 307,
+      "female": 191
+    },
+    {
+      "male": 257,
+      "female": 121
+    },
+    {
+      "male": 278,
+      "female": 141
+    },
+    {
+      "male": 272,
+      "female": 148
+    },
+    {
+      "male": 232,
+      "female": 171
+    },
+    {
+      "male": 337,
+      "female": 233
+    },
+    {
+      "male": 277,
+      "female": 241
+    }
+  ],
+  "San Pablo Park": [
+    {
+      "male": 158,
+      "female": 107
+    },
+    {
+      "male": 152,
+      "female": 105
+    },
+    {
+      "male": 189,
+      "female": 90
+    },
+    {
+      "male": 173,
+      "female": 108
+    },
+    {
+      "male": 162,
+      "female": 92
+    },
+    {
+      "male": 154,
+      "female": 109
+    },
+    {
+      "male": 130,
+      "female": 103
+    }
+  ],
+  "8th St at Brannan St": [
+    {
+      "male": 1512,
+      "female": 742
+    },
+    {
+      "male": 1672,
+      "female": 747
+    },
+    {
+      "male": 1525,
+      "female": 713
+    },
+    {
+      "male": 1561,
+      "female": 731
+    },
+    {
+      "male": 1518,
+      "female": 728
+    },
+    {
+      "male": 649,
+      "female": 362
+    },
+    {
+      "male": 668,
+      "female": 307
+    }
+  ],
+  "Howard St at Mary St": [
+    {
+      "male": 1158,
+      "female": 425
+    },
+    {
+      "male": 1315,
+      "female": 490
+    },
+    {
+      "male": 1391,
+      "female": 475
+    },
+    {
+      "male": 1301,
+      "female": 531
+    },
+    {
+      "male": 1259,
+      "female": 478
+    },
+    {
+      "male": 664,
+      "female": 282
+    },
+    {
+      "male": 585,
+      "female": 240
+    }
+  ],
+  "5th St at Taylor St": [
+    {
+      "male": 222,
+      "female": 19
+    },
+    {
+      "male": 192,
+      "female": 13
+    },
+    {
+      "male": 223,
+      "female": 19
+    },
+    {
+      "male": 188,
+      "female": 19
+    },
+    {
+      "male": 199,
+      "female": 20
+    },
+    {
+      "male": 209,
+      "female": 32
+    },
+    {
+      "male": 208,
+      "female": 32
+    }
+  ],
+  "Market St at Park St": [
+    {
+      "male": 167,
+      "female": 129
+    },
+    {
+      "male": 171,
+      "female": 133
+    },
+    {
+      "male": 169,
+      "female": 107
+    },
+    {
+      "male": 228,
+      "female": 125
+    },
+    {
+      "male": 192,
+      "female": 113
+    },
+    {
+      "male": 79,
+      "female": 76
+    },
+    {
+      "male": 101,
+      "female": 110
+    }
+  ],
+  "Almaden Blvd at San Fernando St": [
+    {
+      "male": 440,
+      "female": 114
+    },
+    {
+      "male": 479,
+      "female": 54
+    },
+    {
+      "male": 504,
+      "female": 77
+    },
+    {
+      "male": 444,
+      "female": 76
+    },
+    {
+      "male": 426,
+      "female": 63
+    },
+    {
+      "male": 61,
+      "female": 47
+    },
+    {
+      "male": 40,
+      "female": 46
+    }
+  ],
+  "Fulton St at Ashby Ave": [
+    {
+      "male": 296,
+      "female": 76
+    },
+    {
+      "male": 351,
+      "female": 99
+    },
+    {
+      "male": 294,
+      "female": 97
+    },
+    {
+      "male": 288,
+      "female": 85
+    },
+    {
+      "male": 294,
+      "female": 99
+    },
+    {
+      "male": 219,
+      "female": 73
+    },
+    {
+      "male": 225,
+      "female": 93
+    }
+  ],
+  "Market St at 40th St": [
+    {
+      "male": 116,
+      "female": 99
+    },
+    {
+      "male": 127,
+      "female": 125
+    },
+    {
+      "male": 119,
+      "female": 114
+    },
+    {
+      "male": 108,
+      "female": 84
+    },
+    {
+      "male": 82,
+      "female": 89
+    },
+    {
+      "male": 60,
+      "female": 100
+    },
+    {
+      "male": 75,
+      "female": 102
+    }
+  ],
+  "Valencia St at Clinton Park": [
+    {
+      "male": 504,
+      "female": 221
+    },
+    {
+      "male": 654,
+      "female": 245
+    },
+    {
+      "male": 696,
+      "female": 265
+    },
+    {
+      "male": 581,
+      "female": 251
+    },
+    {
+      "male": 638,
+      "female": 272
+    },
+    {
+      "male": 509,
+      "female": 212
+    },
+    {
+      "male": 574,
+      "female": 228
+    }
+  ],
+  "DeFremery Park": [
+    {
+      "male": 317,
+      "female": 215
+    },
+    {
+      "male": 384,
+      "female": 253
+    },
+    {
+      "male": 363,
+      "female": 217
+    },
+    {
+      "male": 313,
+      "female": 210
+    },
+    {
+      "male": 310,
+      "female": 200
+    },
+    {
+      "male": 183,
+      "female": 140
+    },
+    {
+      "male": 147,
+      "female": 120
+    }
+  ],
+  "Haste St at College Ave": [
+    {
+      "male": 539,
+      "female": 231
+    },
+    {
+      "male": 567,
+      "female": 261
+    },
+    {
+      "male": 542,
+      "female": 243
+    },
+    {
+      "male": 607,
+      "female": 245
+    },
+    {
+      "male": 596,
+      "female": 209
+    },
+    {
+      "male": 349,
+      "female": 155
+    },
+    {
+      "male": 358,
+      "female": 188
+    }
+  ],
+  "NULL": [
+    {
+      "male": 2328,
+      "female": 853
+    },
+    {
+      "male": 2448,
+      "female": 924
+    },
+    {
+      "male": 2620,
+      "female": 979
+    },
+    {
+      "male": 2581,
+      "female": 916
+    },
+    {
+      "male": 2249,
+      "female": 869
+    },
+    {
+      "male": 1944,
+      "female": 822
+    },
+    {
+      "male": 1846,
+      "female": 811
+    }
+  ],
+  "Fruitvale Ave at International Blvd": [
+    {
+      "male": 32,
+      "female": 21
+    },
+    {
+      "male": 34,
+      "female": 12
+    },
+    {
+      "male": 30,
+      "female": 15
+    },
+    {
+      "male": 28,
+      "female": 19
+    },
+    {
+      "male": 22,
+      "female": 28
+    },
+    {
+      "male": 26,
+      "female": 21
+    },
+    {
+      "male": 33,
+      "female": 18
+    }
+  ],
+  "23rd Ave at Foothill Blvd": [
+    {
+      "male": 81,
+      "female": 26
+    },
+    {
+      "male": 102,
+      "female": 22
+    },
+    {
+      "male": 88,
+      "female": 21
+    },
+    {
+      "male": 94,
+      "female": 24
+    },
+    {
+      "male": 83,
+      "female": 29
+    },
+    {
+      "male": 50,
+      "female": 31
+    },
+    {
+      "male": 37,
+      "female": 43
+    }
+  ],
+  "23rd St at Tennessee St": [
+    {
+      "male": 525,
+      "female": 230
+    },
+    {
+      "male": 639,
+      "female": 251
+    },
+    {
+      "male": 555,
+      "female": 226
+    },
+    {
+      "male": 585,
+      "female": 260
+    },
+    {
+      "male": 463,
+      "female": 208
+    },
+    {
+      "male": 381,
+      "female": 226
+    },
+    {
+      "male": 343,
+      "female": 160
+    }
+  ],
+  "Horton St at 40th St": [
+    {
+      "male": 325,
+      "female": 178
+    },
+    {
+      "male": 432,
+      "female": 206
+    },
+    {
+      "male": 343,
+      "female": 114
+    },
+    {
+      "male": 329,
+      "female": 131
+    },
+    {
+      "male": 317,
+      "female": 139
+    },
+    {
+      "male": 301,
+      "female": 254
+    },
+    {
+      "male": 277,
+      "female": 243
+    }
+  ],
+  "Market St at 45th St": [
+    {
+      "male": 222,
+      "female": 68
+    },
+    {
+      "male": 247,
+      "female": 80
+    },
+    {
+      "male": 270,
+      "female": 86
+    },
+    {
+      "male": 270,
+      "female": 76
+    },
+    {
+      "male": 233,
+      "female": 72
+    },
+    {
+      "male": 124,
+      "female": 58
+    },
+    {
+      "male": 90,
+      "female": 55
+    }
+  ],
+  "Mission Bay Kids Park": [
+    {
+      "male": 746,
+      "female": 413
+    },
+    {
+      "male": 869,
+      "female": 486
+    },
+    {
+      "male": 902,
+      "female": 499
+    },
+    {
+      "male": 866,
+      "female": 493
+    },
+    {
+      "male": 824,
+      "female": 441
+    },
+    {
+      "male": 548,
+      "female": 327
+    },
+    {
+      "male": 547,
+      "female": 317
+    }
+  ],
+  "10th Ave at E 15th St": [
+    {
+      "male": 91,
+      "female": 66
+    },
+    {
+      "male": 128,
+      "female": 88
+    },
+    {
+      "male": 103,
+      "female": 67
+    },
+    {
+      "male": 117,
+      "female": 56
+    },
+    {
+      "male": 84,
+      "female": 81
+    },
+    {
+      "male": 93,
+      "female": 55
+    },
+    {
+      "male": 74,
+      "female": 45
+    }
+  ],
+  "4th St at 16th St": [
+    {
+      "male": 1126,
+      "female": 885
+    },
+    {
+      "male": 1242,
+      "female": 1025
+    },
+    {
+      "male": 1217,
+      "female": 969
+    },
+    {
+      "male": 1197,
+      "female": 1018
+    },
+    {
+      "male": 1212,
+      "female": 841
+    },
+    {
+      "male": 395,
+      "female": 234
+    },
+    {
+      "male": 345,
+      "female": 162
+    }
+  ],
+  "26th Ave at International Blvd": [
+    {
+      "male": 57,
+      "female": 15
+    },
+    {
+      "male": 72,
+      "female": 18
+    },
+    {
+      "male": 48,
+      "female": 13
+    },
+    {
+      "male": 48,
+      "female": 9
+    },
+    {
+      "male": 50,
+      "female": 17
+    },
+    {
+      "male": 39,
+      "female": 7
+    },
+    {
+      "male": 34,
+      "female": 16
+    }
+  ],
+  "San Pedro St at Hedding St": [
+    {
+      "male": 60,
+      "female": 26
+    },
+    {
+      "male": 61,
+      "female": 10
+    },
+    {
+      "male": 69,
+      "female": 8
+    },
+    {
+      "male": 70,
+      "female": 24
+    },
+    {
+      "male": 32,
+      "female": 13
+    },
+    {
+      "male": 60,
+      "female": 27
+    },
+    {
+      "male": 85,
+      "female": 29
+    }
+  ],
+  "West St at University Ave": [
+    {
+      "male": 97,
+      "female": 37
+    },
+    {
+      "male": 89,
+      "female": 50
+    },
+    {
+      "male": 101,
+      "female": 42
+    },
+    {
+      "male": 93,
+      "female": 53
+    },
+    {
+      "male": 85,
+      "female": 48
+    },
+    {
+      "male": 69,
+      "female": 78
+    },
+    {
+      "male": 79,
+      "female": 64
+    }
+  ],
+  "Folsom St at 13th St": [
+    {
+      "male": 277,
+      "female": 145
+    },
+    {
+      "male": 305,
+      "female": 138
+    },
+    {
+      "male": 356,
+      "female": 122
+    },
+    {
+      "male": 373,
+      "female": 151
+    },
+    {
+      "male": 304,
+      "female": 146
+    },
+    {
+      "male": 296,
+      "female": 189
+    },
+    {
+      "male": 274,
+      "female": 106
+    }
+  ],
+  "Cesar Chavez St at Dolores St": [
+    {
+      "male": 230,
+      "female": 159
+    },
+    {
+      "male": 248,
+      "female": 187
+    },
+    {
+      "male": 209,
+      "female": 185
+    },
+    {
+      "male": 218,
+      "female": 186
+    },
+    {
+      "male": 218,
+      "female": 160
+    },
+    {
+      "male": 178,
+      "female": 167
+    },
+    {
+      "male": 186,
+      "female": 130
+    }
+  ],
+  "10th St at University Ave": [
+    {
+      "male": 139,
+      "female": 55
+    },
+    {
+      "male": 143,
+      "female": 46
+    },
+    {
+      "male": 121,
+      "female": 74
+    },
+    {
+      "male": 133,
+      "female": 72
+    },
+    {
+      "male": 117,
+      "female": 67
+    },
+    {
+      "male": 125,
+      "female": 83
+    },
+    {
+      "male": 93,
+      "female": 41
+    }
+  ],
+  "Milvia St at Derby St": [
+    {
+      "male": 431,
+      "female": 246
+    },
+    {
+      "male": 482,
+      "female": 268
+    },
+    {
+      "male": 502,
+      "female": 266
+    },
+    {
+      "male": 498,
+      "female": 271
+    },
+    {
+      "male": 413,
+      "female": 226
+    },
+    {
+      "male": 313,
+      "female": 192
+    },
+    {
+      "male": 271,
+      "female": 192
+    }
+  ],
+  "23rd St and San Bruno Ave": [
+    {
+      "male": 110,
+      "female": 43
+    },
+    {
+      "male": 96,
+      "female": 43
+    },
+    {
+      "male": 106,
+      "female": 59
+    },
+    {
+      "male": 124,
+      "female": 67
+    },
+    {
+      "male": 130,
+      "female": 55
+    },
+    {
+      "male": 76,
+      "female": 47
+    },
+    {
+      "male": 89,
+      "female": 30
+    }
+  ],
+  "45th St at MLK Jr Way": [
+    {
+      "male": 95,
+      "female": 104
+    },
+    {
+      "male": 98,
+      "female": 104
+    },
+    {
+      "male": 88,
+      "female": 109
+    },
+    {
+      "male": 94,
+      "female": 101
+    },
+    {
+      "male": 91,
+      "female": 100
+    },
+    {
+      "male": 93,
+      "female": 74
+    },
+    {
+      "male": 81,
+      "female": 83
+    }
+  ],
+  "Shattuck Ave at 55th St": [
+    {
+      "male": 152,
+      "female": 103
+    },
+    {
+      "male": 144,
+      "female": 149
+    },
+    {
+      "male": 199,
+      "female": 113
+    },
+    {
+      "male": 176,
+      "female": 134
+    },
+    {
+      "male": 159,
+      "female": 141
+    },
+    {
+      "male": 156,
+      "female": 59
+    },
+    {
+      "male": 110,
+      "female": 23
+    }
+  ],
+  "2nd St at Julian St": [
+    {
+      "male": 294,
+      "female": 28
+    },
+    {
+      "male": 299,
+      "female": 21
+    },
+    {
+      "male": 337,
+      "female": 41
+    },
+    {
+      "male": 294,
+      "female": 28
+    },
+    {
+      "male": 244,
+      "female": 22
+    },
+    {
+      "male": 293,
+      "female": 35
+    },
+    {
+      "male": 303,
+      "female": 42
+    }
+  ],
+  "Alcatraz Ave at Shattuck Ave": [
+    {
+      "male": 194,
+      "female": 104
+    },
+    {
+      "male": 212,
+      "female": 110
+    },
+    {
+      "male": 193,
+      "female": 116
+    },
+    {
+      "male": 189,
+      "female": 120
+    },
+    {
+      "male": 193,
+      "female": 106
+    },
+    {
+      "male": 166,
+      "female": 108
+    },
+    {
+      "male": 171,
+      "female": 99
+    }
+  ],
+  "San Antonio Park": [
+    {
+      "male": 130,
+      "female": 63
+    },
+    {
+      "male": 150,
+      "female": 67
+    },
+    {
+      "male": 153,
+      "female": 65
+    },
+    {
+      "male": 163,
+      "female": 57
+    },
+    {
+      "male": 122,
+      "female": 43
+    },
+    {
+      "male": 103,
+      "female": 34
+    },
+    {
+      "male": 80,
+      "female": 38
+    }
+  ],
+  "53rd St at Hollis St": [
+    {
+      "male": 115,
+      "female": 49
+    },
+    {
+      "male": 160,
+      "female": 57
+    },
+    {
+      "male": 156,
+      "female": 45
+    },
+    {
+      "male": 161,
+      "female": 38
+    },
+    {
+      "male": 135,
+      "female": 48
+    },
+    {
+      "male": 52,
+      "female": 30
+    },
+    {
+      "male": 47,
+      "female": 31
+    }
+  ],
+  "5th St at Folsom": [
+    {
+      "male": 784,
+      "female": 374
+    },
+    {
+      "male": 945,
+      "female": 429
+    },
+    {
+      "male": 988,
+      "female": 475
+    },
+    {
+      "male": 833,
+      "female": 412
+    },
+    {
+      "male": 768,
+      "female": 399
+    },
+    {
+      "male": 386,
+      "female": 198
+    },
+    {
+      "male": 401,
+      "female": 176
+    }
+  ],
+  "Jack London Square": [
+    {
+      "male": 295,
+      "female": 209
+    },
+    {
+      "male": 291,
+      "female": 203
+    },
+    {
+      "male": 317,
+      "female": 214
+    },
+    {
+      "male": 309,
+      "female": 232
+    },
+    {
+      "male": 319,
+      "female": 271
+    },
+    {
+      "male": 302,
+      "female": 332
+    },
+    {
+      "male": 293,
+      "female": 261
+    }
+  ],
+  "MLK Jr Way at 36th St (Temporary Location)": [
+    {
+      "male": 52,
+      "female": 4
+    },
+    {
+      "male": 35,
+      "female": 11
+    },
+    {
+      "male": 72,
+      "female": 9
+    },
+    {
+      "male": 51,
+      "female": 6
+    },
+    {
+      "male": 36,
+      "female": 12
+    },
+    {
+      "male": 41,
+      "female": 5
+    },
+    {
+      "male": 24,
+      "female": [
+        0
+      ]
+    }
+  ],
+  "Berry St at King St": [
+    {
+      "male": 435,
+      "female": 125
+    },
+    {
+      "male": 498,
+      "female": 165
+    },
+    {
+      "male": 550,
+      "female": 171
+    },
+    {
+      "male": 524,
+      "female": 144
+    },
+    {
+      "male": 496,
+      "female": 140
+    },
+    {
+      "male": 377,
+      "female": 149
+    },
+    {
+      "male": 345,
+      "female": 144
+    }
+  ],
+  "E 12th St at 6th Ave": [
+    {
+      "male": 19,
+      "female": 5
+    },
+    {
+      "male": 43,
+      "female": 5
+    },
+    {
+      "male": 36,
+      "female": 9
+    },
+    {
+      "male": 34,
+      "female": 8
+    },
+    {
+      "male": 32,
+      "female": 2
+    },
+    {
+      "male": 15,
+      "female": 1
+    },
+    {
+      "male": 21,
+      "female": 14
+    }
+  ],
+  "Mission Rock St at 3rd St": [
+    {
+      "male": 273,
+      "female": 142
+    },
+    {
+      "male": 344,
+      "female": 176
+    },
+    {
+      "male": 344,
+      "female": 183
+    },
+    {
+      "male": 405,
+      "female": 166
+    },
+    {
+      "male": 316,
+      "female": 146
+    },
+    {
+      "male": 185,
+      "female": 119
+    },
+    {
+      "male": 160,
+      "female": 127
+    }
+  ],
+  "Salesforce Transit Center (Natoma St at 2nd St)": [
+    {
+      "male": 770,
+      "female": 203
+    },
+    {
+      "male": 934,
+      "female": 253
+    },
+    {
+      "male": 729,
+      "female": 244
+    },
+    {
+      "male": 835,
+      "female": 250
+    },
+    {
+      "male": 685,
+      "female": 232
+    },
+    {
+      "male": 133,
+      "female": 58
+    },
+    {
+      "male": 90,
+      "female": 48
+    }
+  ],
+  "William St at 4th St (Temporary Location)": [
+    {
+      "male": 6,
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 13,
+      "female": 2
+    },
+    {
+      "male": 4,
+      "female": 3
+    },
+    {
+      "male": 11,
+      "female": 1
+    },
+    {
+      "male": 4,
+      "female": 4
+    },
+    {
+      "male": 12,
+      "female": 8
+    },
+    {
+      "male": 5,
+      "female": 3
+    }
+  ],
+  "Virginia St at Shattuck Ave": [
+    {
+      "male": 234,
+      "female": 68
+    },
+    {
+      "male": 234,
+      "female": 93
+    },
+    {
+      "male": 255,
+      "female": 91
+    },
+    {
+      "male": 236,
+      "female": 100
+    },
+    {
+      "male": 240,
+      "female": 89
+    },
+    {
+      "male": 217,
+      "female": 95
+    },
+    {
+      "male": 180,
+      "female": 123
+    }
+  ],
+  "6th St at San Fernando St (Temporary Location)": [
+    {
+      "male": 365,
+      "female": 120
+    },
+    {
+      "male": 446,
+      "female": 173
+    },
+    {
+      "male": 421,
+      "female": 182
+    },
+    {
+      "male": 405,
+      "female": 166
+    },
+    {
+      "male": 294,
+      "female": 96
+    },
+    {
+      "male": 197,
+      "female": 63
+    },
+    {
+      "male": 120,
+      "female": 42
+    }
+  ],
+  "Foothill Blvd at Fruitvale Ave": [
+    {
+      "male": 146,
+      "female": 43
+    },
+    {
+      "male": 139,
+      "female": 60
+    },
+    {
+      "male": 130,
+      "female": 74
+    },
+    {
+      "male": 152,
+      "female": 53
+    },
+    {
+      "male": 138,
+      "female": 64
+    },
+    {
+      "male": 97,
+      "female": 29
+    },
+    {
+      "male": 75,
+      "female": 14
+    }
+  ],
+  "Shattuck Ave at 51st St": [
+    {
+      "male": 221,
+      "female": 67
+    },
+    {
+      "male": 201,
+      "female": 80
+    },
+    {
+      "male": 205,
+      "female": 65
+    },
+    {
+      "male": 175,
+      "female": 74
+    },
+    {
+      "male": 208,
+      "female": 103
+    },
+    {
+      "male": 168,
+      "female": 93
+    },
+    {
+      "male": 146,
+      "female": 53
+    }
+  ],
+  "Miles Ave at Cavour St": [
+    {
+      "male": 67,
+      "female": 47
+    },
+    {
+      "male": 66,
+      "female": 64
+    },
+    {
+      "male": 85,
+      "female": 71
+    },
+    {
+      "male": 61,
+      "female": 66
+    },
+    {
+      "male": 57,
+      "female": 51
+    },
+    {
+      "male": 30,
+      "female": 26
+    },
+    {
+      "male": 76,
+      "female": 67
+    }
+  ],
+  "6th Ave at E 12th St (Temporary Location)": [
+    {
+      "male": 38,
+      "female": 14
+    },
+    {
+      "male": 66,
+      "female": 17
+    },
+    {
+      "male": 47,
+      "female": 22
+    },
+    {
+      "male": 54,
+      "female": 25
+    },
+    {
+      "male": 41,
+      "female": 11
+    },
+    {
+      "male": 37,
+      "female": 12
+    },
+    {
+      "male": 14,
+      "female": 16
+    }
+  ],
+  "23rd St at San Bruno Ave": [
+    {
+      "male": 160,
+      "female": 42
+    },
+    {
+      "male": 185,
+      "female": 67
+    },
+    {
+      "male": 184,
+      "female": 89
+    },
+    {
+      "male": 171,
+      "female": 79
+    },
+    {
+      "male": 156,
+      "female": 50
+    },
+    {
+      "male": 129,
+      "female": 41
+    },
+    {
+      "male": 100,
+      "female": 24
+    }
+  ],
+  "Lane St at Revere Ave": [
+    {
+      "male": 28,
+      "female": 8
+    },
+    {
+      "male": 21,
+      "female": 7
+    },
+    {
+      "male": 16,
+      "female": 8
+    },
+    {
+      "male": 19,
+      "female": 12
+    },
+    {
+      "male": 22,
+      "female": 3
+    },
+    {
+      "male": 11,
+      "female": 12
+    },
+    {
+      "male": 9,
+      "female": 6
+    }
+  ],
+  "Madison St at 17th St": [
+    {
+      "male": 81,
+      "female": 44
+    },
+    {
+      "male": 86,
+      "female": 47
+    },
+    {
+      "male": 75,
+      "female": 60
+    },
+    {
+      "male": 79,
+      "female": 66
+    },
+    {
+      "male": 85,
+      "female": 72
+    },
+    {
+      "male": 79,
+      "female": 62
+    },
+    {
+      "male": 55,
+      "female": 63
+    }
+  ],
+  "Potrero Ave at 15th St (Temporary Location)": [
+    {
+      "male": 459,
+      "female": 104
+    },
+    {
+      "male": 535,
+      "female": 126
+    },
+    {
+      "male": 580,
+      "female": 149
+    },
+    {
+      "male": 587,
+      "female": 135
+    },
+    {
+      "male": 494,
+      "female": 124
+    },
+    {
+      "male": 103,
+      "female": 39
+    },
+    {
+      "male": 59,
+      "female": 27
+    }
+  ],
+  "Myrtle St at Polk St": [
+    {
+      "male": 20,
+      "female": 8
+    },
+    {
+      "male": 18,
+      "female": 8
+    },
+    {
+      "male": 37,
+      "female": 5
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 1,
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 19,
+      "female": 10
+    }
+  ],
+  "Jones St at Post St": [
+    {
+      "male": 19,
+      "female": 2
+    },
+    {
+      "male": 18,
+      "female": 5
+    },
+    {
+      "male": 26,
+      "female": 7
+    },
+    {
+      "male": 18,
+      "female": 3
+    },
+    {
+      "male": 21,
+      "female": 11
+    },
+    {
+      "male": 26,
+      "female": 7
+    },
+    {
+      "male": 16,
+      "female": 6
+    }
+  ],
+  "Grove St at Masonic Ave": [
+    {
+      "male": 24,
+      "female": 13
+    },
+    {
+      "male": 29,
+      "female": 15
+    },
+    {
+      "male": 18,
+      "female": 4
+    },
+    {
+      "male": 9,
+      "female": 8
+    },
+    {
+      "male": 10,
+      "female": 3
+    },
+    {
+      "male": 31,
+      "female": 16
+    },
+    {
+      "male": 21,
+      "female": 19
+    }
+  ],
+  "Hyde St at Post St": [
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 8,
+      "female": 4
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    }
+  ],
+  "Saint James Park": [
+    {
+      "male": 204,
+      "female": 87
+    },
+    {
+      "male": 212,
+      "female": 85
+    },
+    {
+      "male": 211,
+      "female": 65
+    },
+    {
+      "male": 197,
+      "female": 64
+    },
+    {
+      "male": 193,
+      "female": 53
+    },
+    {
+      "male": 70,
+      "female": 54
+    },
+    {
+      "male": 83,
+      "female": 31
+    }
+  ],
+  "9th St at San Fernando St": [
+    {
+      "male": 105,
+      "female": 22
+    },
+    {
+      "male": 150,
+      "female": 32
+    },
+    {
+      "male": 105,
+      "female": 29
+    },
+    {
+      "male": 117,
+      "female": 51
+    },
+    {
+      "male": 52,
+      "female": 24
+    },
+    {
+      "male": 55,
+      "female": 12
+    },
+    {
+      "male": 57,
+      "female": 6
+    }
+  ],
+  "Potrero del Sol Park (25th St at Utah St)": [
+    {
+      "male": 13,
+      "female": 5
+    },
+    {
+      "male": 17,
+      "female": 6
+    },
+    {
+      "male": 12,
+      "female": 11
+    },
+    {
+      "male": 17,
+      "female": 4
+    },
+    {
+      "male": 23,
+      "female": 8
+    },
+    {
+      "male": 18,
+      "female": 6
+    },
+    {
+      "male": 23,
+      "female": 7
+    }
+  ],
+  "Turk St at Fillmore St": [
+    {
+      "male": 123,
+      "female": 62
+    },
+    {
+      "male": 117,
+      "female": 61
+    },
+    {
+      "male": 146,
+      "female": 83
+    },
+    {
+      "male": 158,
+      "female": 73
+    },
+    {
+      "male": 148,
+      "female": 47
+    },
+    {
+      "male": 83,
+      "female": 53
+    },
+    {
+      "male": 121,
+      "female": 54
+    }
+  ],
+  "Bestor Art Park": [
+    {
+      "male": 128,
+      "female": 44
+    },
+    {
+      "male": 121,
+      "female": 53
+    },
+    {
+      "male": 109,
+      "female": 41
+    },
+    {
+      "male": 108,
+      "female": 30
+    },
+    {
+      "male": 90,
+      "female": 22
+    },
+    {
+      "male": 85,
+      "female": 35
+    },
+    {
+      "male": 87,
+      "female": 49
+    }
+  ],
+  "Empire St at 1st St": [
+    {
+      "male": 132,
+      "female": 33
+    },
+    {
+      "male": 111,
+      "female": 41
+    },
+    {
+      "male": 124,
+      "female": 31
+    },
+    {
+      "male": 101,
+      "female": 29
+    },
+    {
+      "male": 105,
+      "female": 32
+    },
+    {
+      "male": 107,
+      "female": 56
+    },
+    {
+      "male": 107,
+      "female": 48
+    }
+  ],
+  "George St at 1st St": [
+    {
+      "male": 134,
+      "female": 23
+    },
+    {
+      "male": 176,
+      "female": 18
+    },
+    {
+      "male": 164,
+      "female": 14
+    },
+    {
+      "male": 158,
+      "female": 26
+    },
+    {
+      "male": 121,
+      "female": 13
+    },
+    {
+      "male": 69,
+      "female": 10
+    },
+    {
+      "male": 77,
+      "female": 23
+    }
+  ],
+  "Foothill Blvd at Harrington Ave": [
+    {
+      "male": 49,
+      "female": 36
+    },
+    {
+      "male": 62,
+      "female": 25
+    },
+    {
+      "male": 56,
+      "female": 18
+    },
+    {
+      "male": 49,
+      "female": 24
+    },
+    {
+      "male": 43,
+      "female": 30
+    },
+    {
+      "male": 21,
+      "female": 17
+    },
+    {
+      "male": 30,
+      "female": 23
+    }
+  ],
+  "Willow St at Vine St": [
+    {
+      "male": 8,
+      "female": 13
+    },
+    {
+      "male": 5,
+      "female": 4
+    },
+    {
+      "male": 9,
+      "female": 1
+    },
+    {
+      "male": 9,
+      "female": 8
+    },
+    {
+      "male": 18,
+      "female": 4
+    },
+    {
+      "male": 12,
+      "female": 17
+    },
+    {
+      "male": 4,
+      "female": 11
+    }
+  ],
+  "14th St at Filbert St": [
+    {
+      "male": 118,
+      "female": 174
+    },
+    {
+      "male": 136,
+      "female": 203
+    },
+    {
+      "male": 122,
+      "female": 166
+    },
+    {
+      "male": 123,
+      "female": 186
+    },
+    {
+      "male": 131,
+      "female": 159
+    },
+    {
+      "male": 54,
+      "female": 91
+    },
+    {
+      "male": 68,
+      "female": 68
+    }
+  ],
+  "Fifth St at Delaware St": [
+    {
+      "male": 99,
+      "female": 39
+    },
+    {
+      "male": 72,
+      "female": 32
+    },
+    {
+      "male": 100,
+      "female": 31
+    },
+    {
+      "male": 92,
+      "female": 47
+    },
+    {
+      "male": 73,
+      "female": 37
+    },
+    {
+      "male": 87,
+      "female": 69
+    },
+    {
+      "male": 96,
+      "female": 63
+    }
+  ],
+  "4th Ave at E 12th St (Temporary Location)": [
+    {
+      "male": 94,
+      "female": 43
+    },
+    {
+      "male": 106,
+      "female": 54
+    },
+    {
+      "male": 117,
+      "female": 49
+    },
+    {
+      "male": 76,
+      "female": 51
+    },
+    {
+      "male": 62,
+      "female": 30
+    },
+    {
+      "male": 25,
+      "female": 42
+    },
+    {
+      "male": 38,
+      "female": 22
+    }
+  ],
+  "Lombard St at Columbus Ave": [
+    {
+      "male": 69,
+      "female": 74
+    },
+    {
+      "male": 108,
+      "female": 93
+    },
+    {
+      "male": 112,
+      "female": 66
+    },
+    {
+      "male": 73,
+      "female": 60
+    },
+    {
+      "male": 125,
+      "female": 86
+    },
+    {
+      "male": 91,
+      "female": 78
+    },
+    {
+      "male": 104,
+      "female": 76
+    }
+  ],
+  "21st Ave at International Blvd": [
+    {
+      "male": 9,
+      "female": 16
+    },
+    {
+      "male": 33,
+      "female": 20
+    },
+    {
+      "male": 18,
+      "female": 7
+    },
+    {
+      "male": 19,
+      "female": 13
+    },
+    {
+      "male": 8,
+      "female": 19
+    },
+    {
+      "male": 22,
+      "female": 18
+    },
+    {
+      "male": 12,
+      "female": 8
+    }
+  ],
+  "Delmas Ave and San Fernando St": [
+    {
+      "male": 89,
+      "female": 15
+    },
+    {
+      "male": 121,
+      "female": 12
+    },
+    {
+      "male": 95,
+      "female": 8
+    },
+    {
+      "male": 128,
+      "female": 15
+    },
+    {
+      "male": 80,
+      "female": 22
+    },
+    {
+      "male": 56,
+      "female": 6
+    },
+    {
+      "male": 65,
+      "female": 17
+    }
+  ],
+  "Miles Ave at Cavour St (Temporary Location)": [
+    {
+      "male": 72,
+      "female": 52
+    },
+    {
+      "male": 69,
+      "female": 69
+    },
+    {
+      "male": 61,
+      "female": 54
+    },
+    {
+      "male": 61,
+      "female": 57
+    },
+    {
+      "male": 50,
+      "female": 36
+    },
+    {
+      "male": 27,
+      "female": 28
+    },
+    {
+      "male": 49,
+      "female": 46
+    }
+  ],
+  "Oak St at 1st St": [
+    {
+      "male": 28,
+      "female": 4
+    },
+    {
+      "male": 25,
+      "female": 12
+    },
+    {
+      "male": 28,
+      "female": 22
+    },
+    {
+      "male": 45,
+      "female": 21
+    },
+    {
+      "male": 39,
+      "female": 16
+    },
+    {
+      "male": 36,
+      "female": 20
+    },
+    {
+      "male": 16,
+      "female": 32
+    }
+  ],
+  "16th St Depot": [
+    {
+      "male": 26,
+      "female": 12
+    },
+    {
+      "male": 31,
+      "female": 4
+    },
+    {
+      "male": 42,
+      "female": 7
+    },
+    {
+      "male": 34,
+      "female": 9
+    },
+    {
+      "male": 33,
+      "female": 9
+    },
+    {
+      "male": 3,
+      "female": 6
+    },
+    {
+      "male": 1,
+      "female": 1
+    }
+  ],
+  "E 12th St at 4th Ave": [
+    {
+      "male": 46,
+      "female": 25
+    },
+    {
+      "male": 49,
+      "female": 32
+    },
+    {
+      "male": 63,
+      "female": 37
+    },
+    {
+      "male": 51,
+      "female": 30
+    },
+    {
+      "male": 39,
+      "female": 33
+    },
+    {
+      "male": 11,
+      "female": 12
+    },
+    {
+      "male": 20,
+      "female": 15
+    }
+  ],
+  "Williams Ave at Apollo St": [
+    {
+      "male": 15,
+      "female": 2
+    },
+    {
+      "male": 12,
+      "female": 2
+    },
+    {
+      "male": 12,
+      "female": 2
+    },
+    {
+      "male": 18,
+      "female": 2
+    },
+    {
+      "male": 12,
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 11,
+      "female": 2
+    },
+    {
+      "male": 7,
+      "female": 3
+    }
+  ],
+  "Tamien Station": [
+    {
+      "male": 46,
+      "female": 14
+    },
+    {
+      "male": 46,
+      "female": 4
+    },
+    {
+      "male": 57,
+      "female": 19
+    },
+    {
+      "male": 52,
+      "female": 8
+    },
+    {
+      "male": 49,
+      "female": 7
+    },
+    {
+      "male": 18,
+      "female": 7
+    },
+    {
+      "male": 15,
+      "female": 23
+    }
+  ],
+  "Webster St at MacArthur Blvd (Temporary Location)": [
+    {
+      "male": 47,
+      "female": 46
+    },
+    {
+      "male": 90,
+      "female": 49
+    },
+    {
+      "male": 90,
+      "female": 54
+    },
+    {
+      "male": 70,
+      "female": 48
+    },
+    {
+      "male": 62,
+      "female": 38
+    },
+    {
+      "male": 23,
+      "female": 30
+    },
+    {
+      "male": 23,
+      "female": 36
+    }
+  ],
+  "Mendell St at Fairfax Ave": [
+    {
+      "male": 17,
+      "female": 14
+    },
+    {
+      "male": 15,
+      "female": 13
+    },
+    {
+      "male": 15,
+      "female": 4
+    },
+    {
+      "male": 10,
+      "female": 6
+    },
+    {
+      "male": 3,
+      "female": 7
+    },
+    {
+      "male": 7,
+      "female": 3
+    },
+    {
+      "male": 4,
+      "female": 5
+    }
+  ],
+  "Empire St at 7th St": [
+    {
+      "male": 7,
+      "female": 1
+    },
+    {
+      "male": 3,
+      "female": 2
+    },
+    {
+      "male": 4,
+      "female": 1
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": 1
+    },
+    {
+      "male": 1,
+      "female": 1
+    },
+    {
+      "male": 1,
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 2,
+      "female": [
+        0
+      ]
+    }
+  ],
+  "Lane St at Van Dyke Ave": [
+    {
+      "male": 3,
+      "female": 4
+    },
+    {
+      "male": 4,
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 11,
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 4,
+      "female": 10
+    },
+    {
+      "male": 7,
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 4,
+      "female": 7
+    },
+    {
+      "male": 13,
+      "female": 1
+    }
+  ],
+  "Newhall St at 3rd St": [
+    {
+      "male": 24,
+      "female": 6
+    },
+    {
+      "male": 13,
+      "female": 7
+    },
+    {
+      "male": 20,
+      "female": 4
+    },
+    {
+      "male": 21,
+      "female": 6
+    },
+    {
+      "male": 7,
+      "female": 6
+    },
+    {
+      "male": 15,
+      "female": 7
+    },
+    {
+      "male": 8,
+      "female": 2
+    }
+  ],
+  "Laguna St at McAllister St": [
+    {
+      "male": 15,
+      "female": 7
+    },
+    {
+      "male": 31,
+      "female": 9
+    },
+    {
+      "male": 30,
+      "female": 3
+    },
+    {
+      "male": 25,
+      "female": 5
+    },
+    {
+      "male": 25,
+      "female": 10
+    },
+    {
+      "male": 14,
+      "female": 17
+    },
+    {
+      "male": 7,
+      "female": 17
+    }
+  ],
+  "Viva Calle SJ": [
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 23,
+      "female": 17
+    }
+  ],
+  "2nd St at S Park St": [
+    {
+      "male": 3,
+      "female": 10
+    },
+    {
+      "male": 25,
+      "female": 6
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    }
+  ],
+  "Outside Lands 2018 (Temporary Station)": [
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": [
+        0
+      ],
+      "female": [
+        0
+      ]
+    },
+    {
+      "male": 62,
+      "female": 32
+    },
+    {
+      "male": 175,
+      "female": 64
+    },
+    {
+      "male": 56,
+      "female": 91
+    }
+  ]
+}

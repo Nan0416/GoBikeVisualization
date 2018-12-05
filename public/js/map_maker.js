@@ -130,7 +130,7 @@ function mapUpdate(station_names, stations, selection, value){
         }
         colorValue[station_names[i]] = tmp;
     }
-    console.log(maxV, minV);
+
     colorScale.domain([0, Math.pow(maxV, 0.2)]);
 
     dots.attr('fill', (d)=>{
@@ -149,7 +149,6 @@ function mapInitalizer(station_names, stations) {
         if(minV > tmp){ minV = tmp; }
         colorValue[station_names[i]] = tmp;
     }
-    console.log(maxV, minV);
     colorScale.domain([0, Math.pow(maxV, 0.2)]);
     dots = stationG.selectAll('.station')
         .data(station_names, (d)=>{
@@ -194,7 +193,6 @@ function mapInitalizer(station_names, stations) {
             })
             .on('click', function(){
                 let e = d;
-                console.log(e);
                 myMap.setView([stations[e].location[0], stations[e].location[1]], 14);
                 updateStation(e);
             });
@@ -294,7 +292,6 @@ function quantifyStationsPattern(station_names, stations, selection, value){
         if(data[i].count < 0){
             data[i].count = max - data[i].count;
         }
-        console.log(max, max - min, data[i].count)
     }
     return {
         max: max - min,
