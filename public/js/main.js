@@ -35,6 +35,28 @@ d3.json('../data/station_v6.json', (err, stations_)=>{
     showChart(mainStations, mainSelectedStation, "all", 0, 0);
     updateArrows(false);
 });
+
+d3.json('../data/station_monthly_gender.json', (err, dataset)=>{
+    if(err){
+        console.log(err);
+        alert("Error: d3 failed to read data.");
+        return;
+    }
+    station_monthly_gender = dataset;
+
+});
+
+
+d3.json('../data/station_weekly_gender.json', (err, dataset)=>{
+    if(err){
+        console.log(err);
+        alert("Error: d3 failed to read data.");
+        return;
+    }
+    station_weekly_gender = dataset;
+});
+
+
 /**
  * @param {*} stations 
  * @param {*} station_name string,
@@ -47,14 +69,17 @@ function showChart(stations, station_name, division, value, view){
         document.getElementById('text-container').innerHTML = mainMonthName[value];
         lineSVGdraw(station_name, stations[station_name].monthly[value]);
         barSVGDraw(station_name, stations[station_name].monthly[value], view);
+        pieSVGdraw(station_monthly_gender, station_name, value);
     }else if(division==="weekly"){
         document.getElementById('text-container').innerHTML = mainWeekName[value];
         lineSVGdraw(station_name, stations[station_name].weekly[value]);
         barSVGDraw(station_name, stations[station_name].weekly[value], view);
+        pieSVGdraw(station_monthly_gender, station_name, value);
     }else{
         document.getElementById('text-container').innerHTML = " ";
         lineSVGdraw(station_name, stations[station_name].total);
         barSVGDraw(station_name, stations[station_name].total, view);
+        pieSVGdrawAll();
     }
 }
 function updateArrows(isVisible){
