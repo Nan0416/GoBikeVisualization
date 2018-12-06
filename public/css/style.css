@@ -35,6 +35,29 @@ body{
     align-items: center;
     background: #263238;
     color:white;
+    position: relative;
+    z-index: 10;
+}
+#about-btn{
+    padding: 5px 20px 5px 20px;
+    border: 0px;
+    position: absolute;
+    top: 58px;
+    right: 100px;
+    background: #263238;
+    color:white;
+    border-radius: 3px;
+    z-index: 10;
+}
+#about-btn:hover{
+    cursor: pointer;
+}
+#about-btn:focus{
+    outline: none;
+}
+#description{
+    background-color:white;
+    height: 300px;
 }
 #map, #usage-chart{
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
@@ -47,8 +70,40 @@ body{
 #content{
     position: relative;
 }
-  
-
+#content-wrapper{
+    width:100%;
+    position: relative;
+    background-color:#37474f;
+    top: -300px;
+    padding-top: 20px;
+    z-index: 0;
+}
+@keyframes description-in {
+    from {
+        top:-300px;
+    }
+    to {
+        top:0px;
+    }
+}
+@keyframes description-in {
+    from {
+        top:0px;
+    }
+    to {
+        top:-300px;
+    }
+}
+.description-in{
+    animation-name: description-in;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+.description-out{
+    animation-name: description-out;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
 #bar-chart-svg .bar, .legend-item rect{
     stroke:#f0f0f0;
     stroke-width: 1;

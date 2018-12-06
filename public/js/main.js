@@ -210,3 +210,14 @@ document.getElementById("select-division").addEventListener('change', ()=>{
     }
 }, false);
 
+let mainDescOff = true;
+document.getElementById('about-btn').addEventListener('click', ()=>{
+    if(mainDescOff){
+        document.getElementById('content-wrapper').classList.remove('description-out');
+        document.getElementById('content-wrapper').classList.add('description-in');
+    }else{
+        document.getElementById('content-wrapper').classList.remove('description-in');
+        document.getElementById('content-wrapper').classList.add('description-out');
+    }
+    mainDescOff = !mainDescOff;
+}, false);
