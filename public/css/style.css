@@ -86,7 +86,7 @@ body{
         top:0px;
     }
 }
-@keyframes description-in {
+@keyframes description-out {
     from {
         top:0px;
     }
