@@ -141,8 +141,13 @@ function mapUpdate(station_names, stations, selection, value){
     });
     heatmapLayer.setData(quantifyStationsPattern(station_names, stations, selection, value));
 }
-
-function mapInitalizer(station_names, stations) {
+let mapHighligthCircles = {};
+let mapLastHighlightCircleColor = null;
+let mapLastHighlightCircle = null; // a string indicates name
+let mapCircleHighlightColor = '#BCAAA4';
+let mapCircleHighlightRadius = 8;
+let mapCircleHighlightOpacity = 1;
+function mapInitalizer(station_names, stations, highlight_station) {
     let maxV = 0, minV = 10000, rowData, colorValue = {}, tmp = 0;
     for(let i = 0; i < station_names.length; i++){
         rowData = stations[station_names[i]].total.sum;
@@ -161,7 +166,7 @@ function mapInitalizer(station_names, stations) {
     dots = dots.enter()
         .append('circle')
         .attr('class', 'point').attr('class', 'station')
-        .attr('stroke', '#606060').attr('stroke-width', 1).attr('r', 3).attr('opacity', 0.5)
+        .attr('stroke', '#606060').attr('stroke-width', 1).attr('opacity', 0.7)
         .attr("pointer-events","visible")
         .attr('fill', function(d){
             /*colorScale.domain([Math.pow(12, 0.3), Math.pow(74128, 0.3)]);
@@ -169,7 +174,26 @@ function mapInitalizer(station_names, stations) {
             for(let i = 0; i < stations[d].total.sum.length; i++){
                 colorValue += stations[d].total.sum[i];
             }*/
+            if(d === highlight_station){
+                mapLastHighlightCircleColor = colorScale(Math.pow(colorValue[d], 0.2));
+                mapLastHighlightCircle = this;
+                return mapCircleHighlightColor;
+            }
             return colorScale(Math.pow(colorValue[d], 0.2));
+        })
+        .attr('r', d=>{
+            if(d=== highlight_station){
+                return mapCircleHighlightRadius;
+            }else{
+                return 4;
+            }
+        })
+        .attr('opacity', d=>{
+            if(d=== highlight_station){
+                return mapCircleHighlightOpacity;
+            }else{
+                return 0.7;
+            }
         })
         .attr('cx', d=>{
             return myMap.latLngToLayerPoint(stations[d].location).x
@@ -178,28 +202,49 @@ function mapInitalizer(station_names, stations) {
             return myMap.latLngToLayerPoint(stations[d].location).y
         })
         .on('mouseover', function(d){
-            var markerGroup = L.layerGroup().addTo(myMap);
-            L.circle([stations[d].location[0], stations[d].location[1]], {
-                color: "red",
+            let circle_ = this;
+            //var markerGroup = L.layerGroup().addTo(myMap);
+            if(mapHighligthCircles[d]){
+                return;
+            }
+            let circleColor = circle_.getAttribute('fill');
+            mapHighligthCircles[d] = L.circle([stations[d].location[0], stations[d].location[1]], {
+                color: 'none',
                 stroke: 1,
-                fillColor: colorScale(Math.pow(stations[d].total, 0.3)),
+                fillColor: 'black',
                 fillOpacity: 0,
-                radius: 100
-            }).addTo(markerGroup)
-            .bindPopup("Station Name: " + d)
-            .on('mouseover', function () {
+                radius: 60
+            });
+            mapHighligthCircles[d].addTo(myMap);
+            mapHighligthCircles[d].bindPopup("Station: " + d);
+            mapHighligthCircles[d].on('mouseover', function(){
                 this.openPopup();
-                })
-            .on('mouseout', function() {
+            }).on('mouseout', function(){
                 this.closePopup();
-                myMap.removeLayer(markerGroup);
+            }).on('click', ()=>{
+                updateStation(d);
+                
+                if(mapLastHighlightCircle && mapLastHighlightCircleColor){
+                    mapLastHighlightCircle.setAttribute('fill',mapLastHighlightCircleColor);
+                    mapLastHighlightCircle.setAttribute('r',4);
+                    mapLastHighlightCircle.setAttribute('opacity', 0.7);
+                }
+                circle_.setAttribute('fill',mapCircleHighlightColor);
+                circle_.setAttribute('r',mapCircleHighlightRadius);
+                circle_.setAttribute('opacity', mapCircleHighlightOpacity);
+                mapLastHighlightCircle = circle_;
+                mapLastHighlightCircleColor = circleColor;
             })
-            .on('click', function(){
+
+        });
+            /*.on('click', function(){
                 let e = d;
                 myMap.setView([stations[e].location[0], stations[e].location[1]], 14);
+                //circle_.setAttribute('fill', 'black');
                 updateStation(e);
-            });
-        });
+            })*/
+            
+    
     myMap.on('zoomend', ()=>{
         dots.attr('cx', d=>{
                 return myMap.latLngToLayerPoint(stations[d].location).x;
