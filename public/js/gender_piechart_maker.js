@@ -6,7 +6,6 @@ let pieSVGChartWidth = pieSVGWidth - pieSVGPadding.l - pieSVGPadding.r;
 let pieSVGChartHeight = pieSVGHeight - pieSVGPadding.t - pieSVGPadding.b;
 
 let pieRadius = Math.min(pieSVGChartWidth, pieSVGChartHeight) / 2;
-let color = d3.scaleOrdinal().range(["#98abc5", "#7b6888"]);
 let arc = d3.arc().outerRadius(pieRadius - 10).innerRadius(0);
 
 let labelArc = d3.arc().outerRadius(pieRadius - 40).innerRadius(pieRadius - 20);
@@ -51,34 +50,40 @@ function pieSVGdraw(data, name, value){
 
 function pieSVGdrawAll() {
 
-    let data = [];
+    if (station_monthly_gender == null) {
+        var tempGender = [{ label: "Male", value: 69 }, { label: "Female", value: 31 }];
+        drawPieChart(tempGender);
+    } else {
+        let data = [];
 
-    let sumMale = 0;
-    let sumFemale = 0;
+        let sumMale = 0;
+        let sumFemale = 0;
 
-    for (var key in station_monthly_gender) {
-        for (i = 0; i < 10; i++) {
-            var male = parseInt(station_monthly_gender[key][i].male, 10);
-            var female = parseInt(station_monthly_gender[key][i].female, 10);
-            sumMale += male;
-            sumFemale += female;
+        for (var key in station_monthly_gender) {
+            for (i = 0; i < 10; i++) {
+                var male = parseInt(station_monthly_gender[key][i].male, 10);
+                var female = parseInt(station_monthly_gender[key][i].female, 10);
+                sumMale += male;
+                sumFemale += female;
+            }
         }
+
+        let sum = sumMale + sumFemale;
+
+        var maleObj = {};
+        maleObj.label = "Male";
+        maleObj.value = Math.round((sumMale / sum) * 100);
+
+        data.push(maleObj);
+
+        var femaleObj = {};
+        femaleObj.label = "Female";
+        femaleObj.value = Math.round((sumFemale / sum) * 100);
+        data.push(femaleObj);
+
+        drawPieChart(data);
     }
-
-    let sum = sumMale + sumFemale;
-
-    var maleObj = {};
-    maleObj.label = "Male";
-    maleObj.value = Math.round((sumMale / sum) * 100);
-
-    data.push(maleObj);
-
-    var femaleObj = {};
-    femaleObj.label = "Female";
-    femaleObj.value = Math.round((sumFemale / sum) * 100);
-    data.push(femaleObj);
-
-    drawPieChart(data);
+    
 }
 
 function drawPieChart(data) {
@@ -90,7 +95,7 @@ function drawPieChart(data) {
         .merge(path)
         .transition(10)
         .attr("d", arc)
-        .attr("fill", (d,i) => i ? "teal" : "brown")
+        .attr("fill", (d,i) => i ? "#F9A825" : "#689F38")
         .attr("stroke", "gray");
 
     textLabel.enter()

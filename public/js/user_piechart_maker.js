@@ -6,7 +6,6 @@ let pieUserSVGChartWidth = pieUserSVGWidth - pieUserSVGPadding.l - pieUserSVGPad
 let pieUserSVGChartHeight = pieUserSVGHeight - pieUserSVGPadding.t - pieUserSVGPadding.b;
 
 let pieUserRadius = Math.min(pieUserSVGChartWidth, pieUserSVGChartHeight) / 2;
-let colorUser = d3.scaleOrdinal().range(["#98abc5", "#7b6888"]);
 let arcUser = d3.arc().outerRadius(pieUserRadius - 10).innerRadius(0);
 
 let labelUserArc = d3.arc().outerRadius(pieUserRadius - 40).innerRadius(pieUserRadius - 20);
@@ -46,34 +45,40 @@ function pieUserSVGdraw(data, name, value){
 
 function pieUserSVGdrawAll() {
 
-    let dataUser = [];
+	if (station_monthly_user  == null) {
+		var tempUser = [{ label: "Subscriber", value: 84 }, { label: "Customer", value: 16 }];
+		drawPieUserChart(tempUser);
+	} else {
+		let dataUser = [];
 
-    let sumSus = 0;
-    let sumCus = 0;
+	    let sumSus = 0;
+	    let sumCus = 0;
 
-    for (var key in station_monthly_user) {
-        for (i = 0; i < 10; i++) {
-            var sus = parseInt(station_monthly_user[key][i].subscriber, 10);
-            var cus = parseInt(station_monthly_user[key][i].customer, 10);
-            sumSus += sus;
-            sumCus += cus;
-        }
-    }
+	    for (var key in station_monthly_user) {
+	        for (i = 0; i < 10; i++) {
+	            var sus = parseInt(station_monthly_user[key][i].subscriber, 10);
+	            var cus = parseInt(station_monthly_user[key][i].customer, 10);
+	            sumSus += sus;
+	            sumCus += cus;
+	        }
+	    }
 
-    let sumUser = sumSus + sumCus;
+	    let sumUser = sumSus + sumCus;
 
-    var susObj = {};
-    susObj.label = "Subscriber";
-    susObj.value = Math.round((sumSus / sumUser) * 100);
+	    var susObj = {};
+	    susObj.label = "Subscriber";
+	    susObj.value = Math.round((sumSus / sumUser) * 100);
 
-    dataUser.push(susObj);
+	    dataUser.push(susObj);
 
-    var cusObj = {};
-    cusObj.label = "Customer";
-    cusObj.value = Math.round((sumCus / sumUser) * 100);
-    dataUser.push(cusObj);
+	    var cusObj = {};
+	    cusObj.label = "Customer";
+	    cusObj.value = Math.round((sumCus / sumUser) * 100);
+	    dataUser.push(cusObj);
 
-    drawPieUserChart(dataUser);
+	    drawPieUserChart(dataUser);
+	}
+
 }
 
 function drawPieUserChart(data) {
@@ -85,7 +90,7 @@ function drawPieUserChart(data) {
         .merge(pathUser)
         .transition(10)
         .attr("d", arcUser)
-        .attr("fill", (d,i) => i ? "teal" : "brown")
+        .attr("fill", (d,i) => i ? "#D81B60" : "#039BE5")
         .attr("stroke", "gray");
 
     textUserLabel.enter()
