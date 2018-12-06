@@ -67,6 +67,14 @@ body{
     overflow: hidden;
     
 }
+#user-chart{
+    position: relative;
+    right: -40px;
+}
+#analytic-chart {
+    position: relative;
+    left: 12px;
+}
 #content{
     position: relative;
 }

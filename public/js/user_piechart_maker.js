@@ -8,7 +8,7 @@ let pieUserSVGChartHeight = pieUserSVGHeight - pieUserSVGPadding.t - pieUserSVGP
 let pieUserRadius = Math.min(pieUserSVGChartWidth, pieUserSVGChartHeight) / 2;
 let arcUser = d3.arc().outerRadius(pieUserRadius - 10).innerRadius(0);
 
-let labelUserArc = d3.arc().outerRadius(pieUserRadius - 40).innerRadius(pieUserRadius - 20);
+let labelUserArc = d3.arc().outerRadius(pieUserRadius - 60).innerRadius(pieUserRadius - 20);
 
 let pieUser = d3.pie().sort(null).value(function(d) { return d.value; });
 
