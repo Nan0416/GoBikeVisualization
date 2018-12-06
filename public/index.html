@@ -40,18 +40,22 @@
                     <p>Return in morning<br>Rent in afternoon</p>
                 </div>
             </div>
-            <div id="usage-chart" style="width:900px; height:260px; margin-top: 20px ">
-                <svg id="bar-chart-svg" width="880" height="260"></svg>
-                <svg id="line-chart-svg" width="880" height="260"></svg>
-                <div id="chart-switch" style="width:20px; height:260px;">
-                    <div id="btn-show-bar-chart" style="width:20px; height:130px;"></div>
-                    <div id="btn-show-line-chart" style="width:20px; height:130px;"></div>
-                </div>
+            <div id="analytic-chart" style="width:1200px; height:500px; margin-top: 20px " class="row">
+            	<div id="usage-chart" style="width:700px; height:400px; margin-top: 20px ">
+	                <svg id="bar-chart-svg" width="680" height="400"></svg>
+	                <svg id="line-chart-svg" width="680" height="400"></svg>
+	                <div id="chart-switch" style="width:20px; height:200px;">
+	                    <div id="btn-show-bar-chart" style="width:20px; height:200px;"></div>
+	                    <div id="btn-show-line-chart" style="width:20px; height:200px;"></div>
+	                </div>
+            	</div>
+            	<div id="user-chart" style="width: 500px; height:250px; margin-top: 20px" class="column">
+                	<svg id="pie-chart-svg" width="250" height="250"></svg>
+                	<svg id="pie-user-chart-svg" width="250" height="250"></svg>
+            	</div>
             </div>
-            <div id="user-chart" style="width:900px; height:260px; margin-top: 20px " class="row">
-                <svg id="pie-chart-svg" width="450" height="260"></svg>
-                <svg id="pie-user-chart-svg" width="450" height="260"></svg>
-            </div>
+
+           
             <div id="select" class="dropdown">
                 <select id="select-division">
                     <option value="all">All</option>

@@ -158,9 +158,10 @@ body{
 
 #chart-switch{
     position: relative;
-    top:-532px;
-    left: 880px;
+    top:-812px;
+    left: 680px;
 }
+
 #btn-show-bar-chart{
     background-color: #FFEB3B; 
 }
