@@ -33,7 +33,7 @@ d3.json('../data/station_v6.json', (err, stations_)=>{
     
     mainSelectedStation = mainStationNames[0];
     //init map
-    mapInitalizer(mainStationNames, mainStations);
+    mapInitalizer(mainStationNames, mainStations, mainSelectedStation);
     //init charts
     showChart(mainStations, mainSelectedStation, "all", 0, 0);
     updateArrows(false);
