@@ -48,6 +48,7 @@ body{
     color:white;
     border-radius: 3px;
     z-index: 10;
+    display:none;
 }
 #about-btn:hover{
     cursor: pointer;
