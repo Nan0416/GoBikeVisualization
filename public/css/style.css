@@ -131,13 +131,13 @@ body{
     }
     to {
         position: relative;
-        top:-266px;
+        top:-404px;
     }
 }
 @keyframes bar-chart-in {
     from {
         position: relative;
-        top: -266px;
+        top: -404px;
     }
     to {
         position: relative;
