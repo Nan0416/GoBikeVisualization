@@ -137,6 +137,10 @@ function mapUpdate(station_names, stations, selection, value){
     colorScale.domain([0, Math.pow(maxV, 0.2)]);
 
     dots.attr('fill', (d)=>{
+        if(d === mapCircleHighlightName){
+            mapLastHighlightCircleColor = colorScale(Math.pow(colorValue[d], 0.2));
+            return mapCircleHighlightColor;
+        }
         return colorScale(Math.pow(colorValue[d], 0.2));
     });
     heatmapLayer.setData(quantifyStationsPattern(station_names, stations, selection, value));
@@ -147,7 +151,9 @@ let mapLastHighlightCircle = null; // a string indicates name
 let mapCircleHighlightColor = '#BCAAA4';
 let mapCircleHighlightRadius = 8;
 let mapCircleHighlightOpacity = 1;
+let mapCircleHighlightName = null;
 function mapInitalizer(station_names, stations, highlight_station) {
+    mapCircleHighlightName = highlight_station;
     let maxV = 0, minV = 10000, rowData, colorValue = {}, tmp = 0;
     for(let i = 0; i < station_names.length; i++){
         rowData = stations[station_names[i]].total.sum;
@@ -234,6 +240,7 @@ function mapInitalizer(station_names, stations, highlight_station) {
                 circle_.setAttribute('opacity', mapCircleHighlightOpacity);
                 mapLastHighlightCircle = circle_;
                 mapLastHighlightCircleColor = circleColor;
+                mapCircleHighlightName = d;
             })
 
         });
